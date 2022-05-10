@@ -1,0 +1,696 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-Mw95_pBM-prNoOCYkzr",
+        "name": "Klink",
+        "avatar": "https://s3.amazonaws.com/files.d20.io/images/275918797/CzG0TlyCQQgy4PC4uPdy6g/med.jpg?1647461135",
+        "bio": "%3Cp%3EKlink%20can%20be%20found%20in%20industrial%20areas%20in%20addition%20to%20underground%20caves.%20The%20two%20units%20that%20comprise%20a%20Klink%20are%20each%0Aknown%20as%20minigears.%20Though%20they%20appear%20identical%2C%20no%20two%0Aminigears%20are%20alike%3B%20each%20one%20fits%20into%20exactly%20one%20other%0Aminigear%2C%20while%20any%20others%20from%20other%20Klink%20that%20attempt%20to%20interlock%20are%20rejected.%20Klink%20spin%20effortlessly%20to%20generate%20energy%2C%0Ajumpstarted%20by%20magnetic%20force.%20The%20spin%20from%20one%20unit%20pushes%0Athe%20other%2C%20which%20pushes%20back%2C%20and%20so%20on%20as%20a%20perpetual%20motion%0Asystem.%20If%20Klink%20become%20separated%20after%20interlocking%2C%20both%0Aminigears%20will%20enter%20an%20inert%20state.%20By%20interlocking%20them%20again%0Aand%20setting%20them%20in%20motion%2C%20however%2C%20they%20will%20reanimate%20as%20if%0Anothing%20had%20happened.%20Some%20modern%20archaeologists%20believe%0Athat%20Klink%20inspired%20ancient%20peoples%20to%20design%20primitive%20gears%0Abased%20on%20recent%20evidence.%3C/p%3E",
+        "gmnotes": "",
+        "defaulttoken": "",
+        "tags": "[\"Steel\",\"Cave\",\"Urban-Plant\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "atknature",
+                "current": 0,
+                "max": "",
+                "id": "-Mw95i-hsEjt3V1dxKnV"
+            },
+            {
+                "name": "defnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mw95i-lDdJt_dkcYjac"
+            },
+            {
+                "name": "spatknature",
+                "current": 0,
+                "max": "",
+                "id": "-Mw95i-oB8UhddD4kUxJ"
+            },
+            {
+                "name": "spdefnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mw95i-tTNdLND6-Hw-A"
+            },
+            {
+                "name": "spdnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mw95i-xUGingbJHbeHu"
+            },
+            {
+                "name": "afflictions_text",
+                "current": "",
+                "max": "",
+                "id": "-Mw95i0G51ZmXCkeUD1k"
+            },
+            {
+                "name": "capture_total",
+                "current": 1,
+                "max": "",
+                "id": "-Mw95i0J1xtqRjge6IXa"
+            },
+            {
+                "name": "capture_display",
+                "current": "+5",
+                "max": "",
+                "id": "-Mw95i0NCyz9uMIubmT0"
+            },
+            {
+                "name": "capture_roll_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mw95i0PV1mKj-r5xYC2"
+            },
+            {
+                "name": "nature",
+                "current": 0,
+                "max": "",
+                "id": "-Mw95i0UXQpxInIBpZKM"
+            },
+            {
+                "name": "nature-type",
+                "current": "0",
+                "max": "",
+                "id": "-Mw95i0WioUMnObhiWLV"
+            },
+            {
+                "name": "atkbase",
+                "current": "6",
+                "max": "",
+                "id": "-Mw95i0Xl2uGVmCJ7C7_"
+            },
+            {
+                "name": "defbase",
+                "current": "7",
+                "max": "",
+                "id": "-Mw95i0_QpZIHHwEKIMt"
+            },
+            {
+                "name": "spatkbase",
+                "current": "5",
+                "max": "",
+                "id": "-Mw95i0bHO2IlN8XqN2f"
+            },
+            {
+                "name": "spdefbase",
+                "current": "6",
+                "max": "",
+                "id": "-Mw95i0cT1pVSU2r9xhf"
+            },
+            {
+                "name": "spdbase",
+                "current": "3",
+                "max": "",
+                "id": "-Mw95i0e9GLaAN2qwt1Q"
+            },
+            {
+                "name": "acrobatics_total",
+                "current": 1,
+                "max": "",
+                "id": "-Mw95i0wrxYOdUNg32Rj"
+            },
+            {
+                "name": "athletics_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mw95i0z1PRLInraBHp3"
+            },
+            {
+                "name": "bluff_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mw95i1-I0zN9RRdgArI"
+            },
+            {
+                "name": "concentration_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mw95i12YVxZvYDOOFdk"
+            },
+            {
+                "name": "constitution_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mw95i13sa1MycY3EICb"
+            },
+            {
+                "name": "diplomacy_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mw95i1Hu980NK9ARWsd"
+            },
+            {
+                "name": "engineering_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mw95i1JfH6l1oZkuHS_"
+            },
+            {
+                "name": "history_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mw95i1ZMzSkHL0yzQhW"
+            },
+            {
+                "name": "insight_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mw95i1oYmSXdw3g0opQ"
+            },
+            {
+                "name": "investigate_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mw95i1rbHd6MnDHnpas"
+            },
+            {
+                "name": "medicine_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mw95i22yW231cQZJE-2"
+            },
+            {
+                "name": "nature_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mw95i24qUOG02h3mO5H"
+            },
+            {
+                "name": "perception_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mw95i26thL037uVCgrX"
+            },
+            {
+                "name": "perform_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mw95i2Ihci0z_TYTIv_"
+            },
+            {
+                "name": "handling_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mw95i2K6lUF4gRtjDvh"
+            },
+            {
+                "name": "programming_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mw95i2M21UsxoclNYoQ"
+            },
+            {
+                "name": "sleightofhand_total",
+                "current": 1,
+                "max": "",
+                "id": "-Mw95i2ZBhY602spU6nx"
+            },
+            {
+                "name": "stealth_total",
+                "current": 1,
+                "max": "",
+                "id": "-Mw95i2arCvhE1-kbXBy"
+            },
+            {
+                "name": "selected-page",
+                "current": "character-page",
+                "max": "",
+                "id": "-Mw95pu8XgV__881qZFH"
+            },
+            {
+                "name": "character-type",
+                "current": "pokemon",
+                "max": "",
+                "id": "-Mw95qAdH508ViX0GD34"
+            },
+            {
+                "name": "species",
+                "current": "Klink",
+                "max": "",
+                "id": "-Mw95rs6TwiATkTUiOnm"
+            },
+            {
+                "name": "type1",
+                "current": "steel",
+                "max": "",
+                "id": "-Mw95rsa12bgifbkqNaU"
+            },
+            {
+                "name": "size",
+                "current": "Small",
+                "max": "",
+                "id": "-Mw95sKoRqUcz87mXPXv"
+            },
+            {
+                "name": "weight",
+                "current": "Medium",
+                "max": "",
+                "id": "-Mw95tdiom5db8CptGxd"
+            },
+            {
+                "name": "egg_group",
+                "current": "Mineral-10 days",
+                "max": "",
+                "id": "-Mw95vFsdaM2tgxgzc6u"
+            },
+            {
+                "name": "diet",
+                "current": "Ergovore",
+                "max": "",
+                "id": "-Mw95w6AA49iP0uacKPJ"
+            },
+            {
+                "name": "HP",
+                "current": "24",
+                "max": "24",
+                "id": "-Mw95xa3vL6HoyTSctLu"
+            },
+            {
+                "name": "ATK",
+                "current": 6,
+                "max": "",
+                "id": "-Mw95ylEkxjFQ54J_V2Z"
+            },
+            {
+                "name": "ATKMOD",
+                "current": 3,
+                "max": "",
+                "id": "-Mw95ylH51HIpUrub1LO"
+            },
+            {
+                "name": "DEF",
+                "current": 7,
+                "max": "",
+                "id": "-Mw95yqKSlSL--hSlvi9"
+            },
+            {
+                "name": "DEFMOD",
+                "current": 3,
+                "max": "",
+                "id": "-Mw95yqMFHW3pXlGyidK"
+            },
+            {
+                "name": "SPATK",
+                "current": 5,
+                "max": "",
+                "id": "-Mw95z1Tjwz_l71gmWHA"
+            },
+            {
+                "name": "SPATKMOD",
+                "current": 2,
+                "max": "",
+                "id": "-Mw95z1VhuDA0NMzH5co"
+            },
+            {
+                "name": "SPDEF",
+                "current": 6,
+                "max": "",
+                "id": "-Mw95zGk9JayWROF5JXm"
+            },
+            {
+                "name": "SPDEFMOD",
+                "current": 3,
+                "max": "",
+                "id": "-Mw95zGmux3pWGYsqILG"
+            },
+            {
+                "name": "SPD",
+                "current": 3,
+                "max": "",
+                "id": "-Mw95zd1YczDjHpk16TS"
+            },
+            {
+                "name": "SPDMOD",
+                "current": 1,
+                "max": "",
+                "id": "-Mw95zd3lQiIXJ05aHWH"
+            },
+            {
+                "name": "movement",
+                "current": 15,
+                "max": "",
+                "id": "-Mw95zd4QFpdnioptID4"
+            },
+            {
+                "name": "pokemonskills",
+                "current": "Hover (can hover)\nZapper (can produce electricity)",
+                "max": "",
+                "id": "-Mw961ZD3n0AmHCYPeHx"
+            },
+            {
+                "name": "otherpassives",
+                "current": "Minus (If at least one ally has Plus or Minus within 10ft of you, you have +3 Special Attack.)",
+                "max": "",
+                "id": "-Mw96H0dl7zx8bKGr2OX"
+            },
+            {
+                "name": "repeating_moves_-Mw96HsefZMxK9FUvqZr_move_name",
+                "current": "Vice Grip",
+                "max": "",
+                "id": "-Mw96IrkVeij9Hp_KJX4"
+            },
+            {
+                "name": "repeating_moves_-Mw96HsefZMxK9FUvqZr_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-Mw96IwcOabhkjzti4Yh"
+            },
+            {
+                "name": "repeating_moves_-Mw96HsefZMxK9FUvqZr_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-Mw96JcqdnBXaOo27DG0"
+            },
+            {
+                "name": "repeating_moves_-Mw96HsefZMxK9FUvqZr_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-Mw96JtZva1B4104eUus"
+            },
+            {
+                "name": "repeating_moves_-Mw96HsefZMxK9FUvqZr_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-Mw96JvHGyay1hqHYj7Q"
+            },
+            {
+                "name": "repeating_moves_-Mw96HsefZMxK9FUvqZr_move_totaldamage",
+                "current": 3,
+                "max": "",
+                "id": "-Mw96JvLk05qDKtjugOg"
+            },
+            {
+                "name": "repeating_moves_-Mw96HsefZMxK9FUvqZr_move_totaldamage_display",
+                "current": "2d8 + 3",
+                "max": "",
+                "id": "-Mw96JvN8hamn4mgOmPv"
+            },
+            {
+                "name": "repeating_moves_-Mw96HsefZMxK9FUvqZr_move_totalaccuracy",
+                "current": 3,
+                "max": "",
+                "id": "-Mw96JvemB036fn-jESp"
+            },
+            {
+                "name": "repeating_moves_-Mw96HsefZMxK9FUvqZr_move_totalaccuracy_display",
+                "current": "d20 + 3",
+                "max": "",
+                "id": "-Mw96JvhhfHrgNYK6y-z"
+            },
+            {
+                "name": "repeating_moves_-Mw96HsefZMxK9FUvqZr_move_frequency",
+                "current": "atwill",
+                "max": "",
+                "id": "-Mw96KCR7NU5qAEUlyZD"
+            },
+            {
+                "name": "repeating_moves_-Mw96HsefZMxK9FUvqZr_move_dicenumber",
+                "current": "2",
+                "max": "",
+                "id": "-Mw96KOEjP3brcQyst-M"
+            },
+            {
+                "name": "repeating_moves_-Mw96HsefZMxK9FUvqZr_damage_dice",
+                "current": "8",
+                "max": "",
+                "id": "-Mw96KSBbhw0qa3RF_Nq"
+            },
+            {
+                "name": "repeating_moves_-Mw96HsefZMxK9FUvqZr_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mw96Kr2ejPc-SuiSn0l"
+            },
+            {
+                "name": "repeating_moves_-Mw96HsefZMxK9FUvqZr_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mw96Kssh_v90dojYSPN"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_move_name",
+                "current": "Thunder Shock",
+                "max": "",
+                "id": "-Mw96M-oH7lyJbSB_uOu"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-Mw96M4t4JUbHgXBt5bt"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_move_range",
+                "current": "Ranged (20 ft)",
+                "max": "",
+                "id": "-Mw96N9BICCS2vhQsLlo"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_move_type",
+                "current": "electric",
+                "max": "",
+                "id": "-Mw96NDpY9oQJp_VMGm_"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_move_totaldamage",
+                "current": 2,
+                "max": "",
+                "id": "-Mw96NFswsIlCN6sm2ar"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_move_totaldamage_display",
+                "current": "1d12 + 2",
+                "max": "",
+                "id": "-Mw96NFxmj1EY84feT1D"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_move_category",
+                "current": "2",
+                "max": "",
+                "id": "-Mw96NOLU1jM6fIZ6ted"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_move_category_defense",
+                "current": "Special Defense",
+                "max": "",
+                "id": "-Mw96NQCEaXwTWV3QAfY"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_move_totalaccuracy",
+                "current": 2,
+                "max": "",
+                "id": "-Mw96NQIPOLSWOCrm--9"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_move_totalaccuracy_display",
+                "current": "d20 + 2",
+                "max": "",
+                "id": "-Mw96NQKqguRr6_M0HPQ"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_move_frequency",
+                "current": "atwill",
+                "max": "",
+                "id": "-Mw96NY2_MBhAmr4aOMT"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_move_dicenumber",
+                "current": "1",
+                "max": "",
+                "id": "-Mw96NlcfvJkd4psJwBU"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_damage_dice",
+                "current": "12",
+                "max": "",
+                "id": "-Mw96OL3s-lGhx6mVic7"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_move_effect",
+                "current": "On hit, if you got 18 or higher on Accuracy Check, the target is Paralyzed.",
+                "max": "",
+                "id": "-Mw96Q8PjM4wET0sra3Y"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_move_effect1_threshold",
+                "current": "18",
+                "max": "",
+                "id": "-Mw96QQVoYjl3Vb46Sgi"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_move_effect1",
+                "current": "7",
+                "max": "",
+                "id": "-Mw96R0jApX-30PeqGQ9"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_move_effect1_name",
+                "current": "Paralyzed",
+                "max": "",
+                "id": "-Mw96R2V4FIcaWqKyFxI"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mw96R2YIJOt428QLr1Q"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mw96RRpKXdh4oeCDIdM"
+            },
+            {
+                "name": "repeating_moves_-Mw96L4BXrGWLMm4N7gr_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mw96RTYSrKJzph9lMGA"
+            },
+            {
+                "name": "repeating_moves_-Mw96Rc3zWtOj8sHhyNQ_move_name",
+                "current": "Gear Grind",
+                "max": "",
+                "id": "-Mw96SRJYPc2iZAMBrf0"
+            },
+            {
+                "name": "repeating_moves_-Mw96Rc3zWtOj8sHhyNQ_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-Mw96SWC9PXJfxku3TC8"
+            },
+            {
+                "name": "repeating_moves_-Mw96Rc3zWtOj8sHhyNQ_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-Mw96Tnl--iMkM15HxtX"
+            },
+            {
+                "name": "repeating_moves_-Mw96Rc3zWtOj8sHhyNQ_move_type",
+                "current": "steel",
+                "max": "",
+                "id": "-Mw96Ts2JRjz7PGDCJiy"
+            },
+            {
+                "name": "repeating_moves_-Mw96Rc3zWtOj8sHhyNQ_move_totaldamage",
+                "current": 7,
+                "max": "",
+                "id": "-Mw96Tu3muZEoYxYrCjZ"
+            },
+            {
+                "name": "repeating_moves_-Mw96Rc3zWtOj8sHhyNQ_move_totaldamage_display",
+                "current": "1d20 + 7",
+                "max": "",
+                "id": "-Mw96Tu5kRpmiUVexSnt"
+            },
+            {
+                "name": "repeating_moves_-Mw96Rc3zWtOj8sHhyNQ_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-Mw96U2xKKJXa6T_OuMD"
+            },
+            {
+                "name": "repeating_moves_-Mw96Rc3zWtOj8sHhyNQ_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-Mw96U4plywrYAfIY94s"
+            },
+            {
+                "name": "repeating_moves_-Mw96Rc3zWtOj8sHhyNQ_move_totalaccuracy",
+                "current": 3,
+                "max": "",
+                "id": "-Mw96U51wnWnl-CMKmBD"
+            },
+            {
+                "name": "repeating_moves_-Mw96Rc3zWtOj8sHhyNQ_move_totalaccuracy_display",
+                "current": "d20 + 3",
+                "max": "",
+                "id": "-Mw96U53bPO-JOVKQRKu"
+            },
+            {
+                "name": "repeating_moves_-Mw96Rc3zWtOj8sHhyNQ_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-Mw96U9R4X5mfIWSzOmr"
+            },
+            {
+                "name": "repeating_moves_-Mw96Rc3zWtOj8sHhyNQ_move_dicenumber",
+                "current": "1",
+                "max": "",
+                "id": "-Mw96UKMGN5-3WDCpRFL"
+            },
+            {
+                "name": "repeating_moves_-Mw96Rc3zWtOj8sHhyNQ_damage_dice",
+                "current": "20",
+                "max": "",
+                "id": "-Mw96UOsCE6G_QT_xrF5"
+            },
+            {
+                "name": "repeating_moves_-Mw96Rc3zWtOj8sHhyNQ_move_effect",
+                "current": "Gear Grind is a Scatter attack. It has two attacks.\n",
+                "max": "",
+                "id": "-Mw96WQF3I-in9Rj7w2j"
+            },
+            {
+                "name": "repeating_moves_-Mw96Rc3zWtOj8sHhyNQ_move_template",
+                "current": "dual-hit-move-roll",
+                "max": "",
+                "id": "-Mw96Wjhhy7RX0ALH_Co"
+            },
+            {
+                "name": "repeating_moves_-Mw96Rc3zWtOj8sHhyNQ_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mw96Wy4aaGug_AhLWs8"
+            },
+            {
+                "name": "repeating_moves_-Mw96Rc3zWtOj8sHhyNQ_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mw96Wzw8Q7JZIgAonhZ"
+            },
+            {
+                "name": "notes",
+                "current": "Proficiencies: Electric / Steel / Magnetism ",
+                "max": "",
+                "id": "-Mw96Yn15nfxtfpYWqQR"
+            },
+            {
+                "name": "repeating_moves_-Mw96HsefZMxK9FUvqZr_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mw9DuAwyeQhOQmojHap"
+            },
+            {
+                "name": "repeating_moves_-Mw96HsefZMxK9FUvqZr_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mw9DuAy8VkzhWEbuGDm"
+            },
+            {
+                "name": "repeating_moves_-Mw96Rc3zWtOj8sHhyNQ_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mw9DuB-ELCuqoohbwgF"
+            },
+            {
+                "name": "repeating_moves_-Mw96Rc3zWtOj8sHhyNQ_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mw9DuB0nnT0lq36qON8"
+            },
+            {
+                "name": "pokemon_sex",
+                "current": "Gender unknown",
+                "max": "",
+                "id": "-MyJKgWlT-RYKYDFg96r"
+            }
+        ],
+        "abilities": []
+    }
+}

@@ -1,0 +1,990 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-Mj69XIS4PEhwFZWt6Bf",
+        "name": "Rillaboom",
+        "avatar": "https://s3.amazonaws.com/files.d20.io/images/271833835/gPNHvjg3t0wlEwBNVuiF1w/med.jpg?1645335329",
+        "bio": "%3Cp%3EThanks%20to%20Rillaboom%20energy%2C%20their%20two%20sticks%20have%20morphed%20to%0Ainclude%20a%20stump%20drum.%20They%20will%20imbue%20these%20stumps%20with%20their%0Aenergy%2C%20allowing%20them%20to%20control%20the%20growth%20of%20plants%20nearby%20by%0Abeating%20on%20them.%20Rillaboom%20can%20also%20control%20the%20roots%20of%20their%0Astumps%20in%20combat%20and%20use%20them%20to%20throw%20foes.%20In%20a%20troop%2C%20the%0ARillaboom%20who%20has%20displayed%20the%20best%20drumming%20technique%20becomes%20the%20leader.%20These%20Pok%E9mon%20value%20group%20harmony%20and%0Acooperation%2C%20working%20together%20to%20beat%20out%20exhilarating%20performances%20in%20jungle%20clearings.%20Though%20they%20dislike%20pointless%20quarreling%2C%20they%20will%20fiercely%20defend%20allies%20in%20peril.%20Other%20Pok%E9mon%20will%0Acongregate%20around%20performing%20Rillaboom%20to%20watch%20them%20drum%0Aand%20dance%20along.%20It%20is%20said%20that%20as%20long%20as%20these%20Pok%E9mon%20are%0Adrumming%2C%20the%20rules%20of%20nature%20are%20temporarily%20suspended%2C%20and%0Apredator%20and%20prey%20will%20dance%20together%20as%20companions.%3C/p%3E",
+        "gmnotes": "",
+        "defaulttoken": "",
+        "tags": "[\"Grass\",\"Jungle\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "atknature",
+                "current": 0,
+                "max": "",
+                "id": "-Mj69mtMq5X57PAToG9N"
+            },
+            {
+                "name": "defnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mj69mtPmpQwgnnaOZVF"
+            },
+            {
+                "name": "spatknature",
+                "current": 0,
+                "max": "",
+                "id": "-Mj69mtT7QFYwsqbkNZO"
+            },
+            {
+                "name": "spdefnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mj69mtWrJJzjoW06B7H"
+            },
+            {
+                "name": "spdnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mj69mtYHQyXxmRdjJaX"
+            },
+            {
+                "name": "afflictions_text",
+                "current": "",
+                "max": "",
+                "id": "-Mj69mtaxBGqFKhLtr8N"
+            },
+            {
+                "name": "capture_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mj69mteydOH1vngnC0g"
+            },
+            {
+                "name": "capture_display",
+                "current": "+5",
+                "max": "",
+                "id": "-Mj69mthv0wKifye3_aO"
+            },
+            {
+                "name": "capture_roll_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mj69mtjdrFffC-Wxl2V"
+            },
+            {
+                "name": "nature",
+                "current": 0,
+                "max": "",
+                "id": "-Mj69mtlc-5XU3nRy_jQ"
+            },
+            {
+                "name": "nature-type",
+                "current": "0",
+                "max": "",
+                "id": "-Mj69mtozlMELWuOhu0V"
+            },
+            {
+                "name": "atkbase",
+                "current": "15",
+                "max": "",
+                "id": "-Mj69mtq1HrtIW3OkM00"
+            },
+            {
+                "name": "defbase",
+                "current": "10",
+                "max": "",
+                "id": "-Mj69mtseql2JcBRsQEK"
+            },
+            {
+                "name": "spatkbase",
+                "current": "6",
+                "max": "",
+                "id": "-Mj69mtv642vjE6JNXix"
+            },
+            {
+                "name": "spdefbase",
+                "current": "7",
+                "max": "",
+                "id": "-Mj69mtw_-yvJYj1HR8r"
+            },
+            {
+                "name": "spdbase",
+                "current": "9",
+                "max": "",
+                "id": "-Mj69mtztnMrzhYXWTRD"
+            },
+            {
+                "name": "acrobatics_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mj69mw5yGaw5A5QXrUG"
+            },
+            {
+                "name": "athletics_total",
+                "current": 7,
+                "max": "",
+                "id": "-Mj69mw7WkLW3hz50VoD"
+            },
+            {
+                "name": "bluff_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mj69mwA9weAviGS8TmN"
+            },
+            {
+                "name": "concentration_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mj69mwDq2aLXrKtmf3V"
+            },
+            {
+                "name": "constitution_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mj69mwGsTzWlj74W43j"
+            },
+            {
+                "name": "diplomacy_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mj69mwJaViDtdork_S-"
+            },
+            {
+                "name": "engineering_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mj69mwLIfbgaxrh9PnW"
+            },
+            {
+                "name": "history_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mj69mwPrYxXplYRRNkN"
+            },
+            {
+                "name": "insight_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mj69mwRZ8rXKxx2864C"
+            },
+            {
+                "name": "investigate_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mj69mwU5IVFhSwDiWib"
+            },
+            {
+                "name": "medicine_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mj69mwWx-diTcVB4ZkI"
+            },
+            {
+                "name": "nature_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mj69mwZk4OdjagZ071F"
+            },
+            {
+                "name": "perception_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mj69mwcmhdXxsKtsxvW"
+            },
+            {
+                "name": "perform_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mj69mweNpFQDxXSOFHB"
+            },
+            {
+                "name": "handling_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mj69mwi5OsT1JR88WgP"
+            },
+            {
+                "name": "programming_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mj69mwk5z23bwUCHbd5"
+            },
+            {
+                "name": "sleightofhand_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mj69mwndACIEsZZNacz"
+            },
+            {
+                "name": "stealth_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mj69mwqgYnixSKuZP5Y"
+            },
+            {
+                "name": "selected-page",
+                "current": "character-page",
+                "max": "",
+                "id": "-Mj6A2pKYnwvKexFvrtd"
+            },
+            {
+                "name": "character-type",
+                "current": "pokemon",
+                "max": "",
+                "id": "-Mj6A35ICTzP0XZHuEWA"
+            },
+            {
+                "name": "species",
+                "current": "Rillaboom",
+                "max": "",
+                "id": "-MjCbuRlzUiWcSLESEzx"
+            },
+            {
+                "name": "type1",
+                "current": "grass",
+                "max": "",
+                "id": "-MjCbufEfWTTgN7hKw6V"
+            },
+            {
+                "name": "size",
+                "current": "Large",
+                "max": "",
+                "id": "-MjCbybIwbKCmc0EnLsh"
+            },
+            {
+                "name": "weight",
+                "current": "Heavy",
+                "max": "",
+                "id": "-MjCbyxMqKwws6PNfHVW"
+            },
+            {
+                "name": "egg_group",
+                "current": "Field/Grass-10 days",
+                "max": "",
+                "id": "-MjCc-1LCqTLI_yzOH1_"
+            },
+            {
+                "name": "diet",
+                "current": "Omnivore",
+                "max": "",
+                "id": "-MjCc-il6v-cUR6gU4uK"
+            },
+            {
+                "name": "HP",
+                "current": "60",
+                "max": "60",
+                "id": "-MjCc0DB6I9uffnhEcb6"
+            },
+            {
+                "name": "ATK",
+                "current": 15,
+                "max": "",
+                "id": "-MjCc1KxDU0p4oyLKG9C"
+            },
+            {
+                "name": "ATKMOD",
+                "current": 7,
+                "max": "",
+                "id": "-MjCc1L-Nk3LuNwSuZFG"
+            },
+            {
+                "name": "DEF",
+                "current": 10,
+                "max": "",
+                "id": "-MjCc1i_nf16cH0wr6OD"
+            },
+            {
+                "name": "DEFMOD",
+                "current": 5,
+                "max": "",
+                "id": "-MjCc1ibA5OCr-rrgPLv"
+            },
+            {
+                "name": "SPATK",
+                "current": 6,
+                "max": "",
+                "id": "-MjCc24Rm0KkiLoJOes-"
+            },
+            {
+                "name": "SPATKMOD",
+                "current": 3,
+                "max": "",
+                "id": "-MjCc24Uq8w0LhXsZpbz"
+            },
+            {
+                "name": "SPDEF",
+                "current": 7,
+                "max": "",
+                "id": "-MjCc2CTqP2nbDGnnWIM"
+            },
+            {
+                "name": "SPDEFMOD",
+                "current": 3,
+                "max": "",
+                "id": "-MjCc2CWqrncNxNy2g-B"
+            },
+            {
+                "name": "SPD",
+                "current": 9,
+                "max": "",
+                "id": "-MjCc2UNJpt7BoVqWbCh"
+            },
+            {
+                "name": "SPDMOD",
+                "current": 4,
+                "max": "",
+                "id": "-MjCc2UQgWB_ArCsQVFD"
+            },
+            {
+                "name": "movement",
+                "current": 45,
+                "max": "",
+                "id": "-MjCc2USjS2t023fQBJV"
+            },
+            {
+                "name": "pokemonskills",
+                "current": "Climber (treats walls and ceilings as normal terrain)\nStrength (very strong)",
+                "max": "",
+                "id": "-MjCc71rYt_7S8xluvom"
+            },
+            {
+                "name": "statpassives",
+                "current": "Growl (+1 defense)\nScreech (+2 attack)",
+                "max": "",
+                "id": "-MjCcQJs_Snvh80T1R-x"
+            },
+            {
+                "name": "otherpassives",
+                "current": "Grassy Surge (As a free action you may deplete one use of Grassy Terrain and use Grassy Terrain.)\nOvergrow (When you are below 20 HP, your Grass-type attacks deal +4 damage)",
+                "max": "",
+                "id": "-MjCdO3U8mM0g-YXmMKS"
+            },
+            {
+                "name": "repeating_moves_-MjCdRl3ZDIkvGT1EB3s_move_name",
+                "current": "Drum Beating ",
+                "max": "",
+                "id": "-MjCdT4lu19pnc_cTIRU"
+            },
+            {
+                "name": "repeating_moves_-MjCdRl3ZDIkvGT1EB3s_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MjCdTBZPkKdm-iP_gki"
+            },
+            {
+                "name": "repeating_moves_-MjCdRl3ZDIkvGT1EB3s_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-MjCdTf06tOM1T_xz6gB"
+            },
+            {
+                "name": "repeating_moves_-MjCdRl3ZDIkvGT1EB3s_move_type",
+                "current": "grass",
+                "max": "",
+                "id": "-MjCdU01IHM12YUjJ38Q"
+            },
+            {
+                "name": "repeating_moves_-MjCdRl3ZDIkvGT1EB3s_move_totaldamage",
+                "current": 11,
+                "max": "",
+                "id": "-MjCdU1zp8WMnKErsM0j"
+            },
+            {
+                "name": "repeating_moves_-MjCdRl3ZDIkvGT1EB3s_move_totaldamage_display",
+                "current": "3d10 + 11",
+                "max": "",
+                "id": "-MjCdU21Q1YCurZTvtiA"
+            },
+            {
+                "name": "repeating_moves_-MjCdRl3ZDIkvGT1EB3s_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-MjCdUPtG5hSvjh_1bOi"
+            },
+            {
+                "name": "repeating_moves_-MjCdRl3ZDIkvGT1EB3s_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-MjCdURjg5tZd4S5gTa5"
+            },
+            {
+                "name": "repeating_moves_-MjCdRl3ZDIkvGT1EB3s_move_totalaccuracy",
+                "current": 7,
+                "max": "",
+                "id": "-MjCdURr_gX_W_BbADLt"
+            },
+            {
+                "name": "repeating_moves_-MjCdRl3ZDIkvGT1EB3s_move_totalaccuracy_display",
+                "current": "d20 + 7",
+                "max": "",
+                "id": "-MjCdURuBVt3EkDUL_zv"
+            },
+            {
+                "name": "repeating_moves_-MjCdRl3ZDIkvGT1EB3s_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-MjCdUcxMrNISj5PeQL2"
+            },
+            {
+                "name": "repeating_moves_-MjCdRl3ZDIkvGT1EB3s_move_dicenumber",
+                "current": "3",
+                "max": "",
+                "id": "-MjCdVEopTc3IrzJj4PW"
+            },
+            {
+                "name": "repeating_moves_-MjCdRl3ZDIkvGT1EB3s_damage_dice",
+                "current": "10",
+                "max": "",
+                "id": "-MjCdVJLajRSAlwZCx7v"
+            },
+            {
+                "name": "repeating_moves_-MjCdRl3ZDIkvGT1EB3s_move_effect",
+                "current": "On hit, the target’s Speed is -1 for 10 mins. This effect cannot be stacked.",
+                "max": "",
+                "id": "-MjCdXPBQILW-0Zm_Vt7"
+            },
+            {
+                "name": "repeating_moves_-MjCdRl3ZDIkvGT1EB3s_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MjCdXR7YQZi8uwpxDat"
+            },
+            {
+                "name": "repeating_moves_-MjCdRl3ZDIkvGT1EB3s_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MjCdXSoK-KI9cD3-JKU"
+            },
+            {
+                "name": "repeating_moves_-MjCdXaZK5n6MiyE-cth_move_name",
+                "current": "Boomburst",
+                "max": "",
+                "id": "-MjCdZOYEeI1vGzxie1N"
+            },
+            {
+                "name": "repeating_moves_-MjCdXaZK5n6MiyE-cth_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MjCdZVB6Q5iNPkC6Rt8"
+            },
+            {
+                "name": "repeating_moves_-MjCdXaZK5n6MiyE-cth_move_range",
+                "current": "Ranged (25 ft burst)",
+                "max": "",
+                "id": "-MjCdb4qNxYDQ1quAPb_"
+            },
+            {
+                "name": "repeating_moves_-MjCdXaZK5n6MiyE-cth_move_category",
+                "current": "2",
+                "max": "",
+                "id": "-MjCdbkfbcTugyNIjf7_"
+            },
+            {
+                "name": "repeating_moves_-MjCdXaZK5n6MiyE-cth_move_category_defense",
+                "current": "Special Defense",
+                "max": "",
+                "id": "-MjCdbmUVv9_9IwgWxvZ"
+            },
+            {
+                "name": "repeating_moves_-MjCdXaZK5n6MiyE-cth_move_totaldamage",
+                "current": 3,
+                "max": "",
+                "id": "-MjCdbmX1v-KY0ikUEcz"
+            },
+            {
+                "name": "repeating_moves_-MjCdXaZK5n6MiyE-cth_move_totaldamage_display",
+                "current": "3d12 + 3",
+                "max": "",
+                "id": "-MjCdbm_pj51nRSNIO1j"
+            },
+            {
+                "name": "repeating_moves_-MjCdXaZK5n6MiyE-cth_move_totalaccuracy",
+                "current": 3,
+                "max": "",
+                "id": "-MjCdbmbqLmurcaqOWlk"
+            },
+            {
+                "name": "repeating_moves_-MjCdXaZK5n6MiyE-cth_move_totalaccuracy_display",
+                "current": "d20 + 3",
+                "max": "",
+                "id": "-MjCdbmeearfubyYs2up"
+            },
+            {
+                "name": "repeating_moves_-MjCdXaZK5n6MiyE-cth_move_frequency",
+                "current": "3day",
+                "max": "",
+                "id": "-MjCdc7BAwiXVCMo6HJ2"
+            },
+            {
+                "name": "repeating_moves_-MjCdXaZK5n6MiyE-cth_move_dicenumber",
+                "current": "3",
+                "max": "",
+                "id": "-MjCdcZlt8-x96ehZGzm"
+            },
+            {
+                "name": "repeating_moves_-MjCdXaZK5n6MiyE-cth_damage_dice",
+                "current": "12",
+                "max": "",
+                "id": "-MjCdcdxF-z6zvLK5fNy"
+            },
+            {
+                "name": "repeating_moves_-MjCdXaZK5n6MiyE-cth_move_effect",
+                "current": "Anyone within range of Boomburst is cured of Sleep.",
+                "max": "",
+                "id": "-MjCdfLmSncq8CTv3Dud"
+            },
+            {
+                "name": "repeating_moves_-MjCdXaZK5n6MiyE-cth_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MjCdfNr9nT0nDocbIy1"
+            },
+            {
+                "name": "repeating_moves_-MjCdXaZK5n6MiyE-cth_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MjCdfPn7QFe0kxXFEIR"
+            },
+            {
+                "name": "repeating_moves_-MjCdfmMsXUC0xbBH5VI_move_name",
+                "current": "Endeavor",
+                "max": "",
+                "id": "-MjCdl5f6aQrT8wM6OtO"
+            },
+            {
+                "name": "repeating_moves_-MjCdfmMsXUC0xbBH5VI_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MjCdlDX48G_uVghcB9D"
+            },
+            {
+                "name": "repeating_moves_-MjCdfmMsXUC0xbBH5VI_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-MjCdlsG0wtfdQPtH-iI"
+            },
+            {
+                "name": "repeating_moves_-MjCdfmMsXUC0xbBH5VI_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-MjCdmIL5eYA-pmBFFdV"
+            },
+            {
+                "name": "repeating_moves_-MjCdfmMsXUC0xbBH5VI_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-MjCdmKQadqzMB1Fi7zb"
+            },
+            {
+                "name": "repeating_moves_-MjCdfmMsXUC0xbBH5VI_move_totaldamage",
+                "current": 7,
+                "max": "",
+                "id": "-MjCdmKTu-9UGUWI54gT"
+            },
+            {
+                "name": "repeating_moves_-MjCdfmMsXUC0xbBH5VI_move_totaldamage_display",
+                "current": "7",
+                "max": "",
+                "id": "-MjCdmKWQ9LJF7qGhdSW"
+            },
+            {
+                "name": "repeating_moves_-MjCdfmMsXUC0xbBH5VI_move_totalaccuracy",
+                "current": 7,
+                "max": "",
+                "id": "-MjCdmKYVzd7zgjOruoB"
+            },
+            {
+                "name": "repeating_moves_-MjCdfmMsXUC0xbBH5VI_move_totalaccuracy_display",
+                "current": "d20 + 7",
+                "max": "",
+                "id": "-MjCdmK_DZsiNU23Yt6C"
+            },
+            {
+                "name": "repeating_moves_-MjCdfmMsXUC0xbBH5VI_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-MjCdmXK3WdJO_KnDd_z"
+            },
+            {
+                "name": "repeating_moves_-MjCdfmMsXUC0xbBH5VI_move_effect",
+                "current": "On hit, if the target has more HP than you, the target’s HP is set to equal your HP.",
+                "max": "",
+                "id": "-MjCdpCcPJ_YRudb8Gd1"
+            },
+            {
+                "name": "repeating_moves_-MjCdfmMsXUC0xbBH5VI_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MjCdu-JJMLIeeseHn7r"
+            },
+            {
+                "name": "repeating_moves_-MjCdfmMsXUC0xbBH5VI_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MjCdu1YLuZdFhBFHe02"
+            },
+            {
+                "name": "repeating_moves_-MjCdv7KYMuS7Jc3mquk_move_name",
+                "current": "Branch Poke",
+                "max": "",
+                "id": "-MjCdwn-ZQWTMUskxh3O"
+            },
+            {
+                "name": "repeating_moves_-MjCdv7KYMuS7Jc3mquk_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MjCdwuhp64hdIXZOXG-"
+            },
+            {
+                "name": "repeating_moves_-MjCdv7KYMuS7Jc3mquk_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-MjCdy05uxyGrN3LWkVx"
+            },
+            {
+                "name": "repeating_moves_-MjCdv7KYMuS7Jc3mquk_move_type",
+                "current": "grass",
+                "max": "",
+                "id": "-MjCdy4ZK6WC6bidOkV6"
+            },
+            {
+                "name": "repeating_moves_-MjCdv7KYMuS7Jc3mquk_move_totaldamage",
+                "current": 11,
+                "max": "",
+                "id": "-MjCdy6wt2hi4YHDnurT"
+            },
+            {
+                "name": "repeating_moves_-MjCdv7KYMuS7Jc3mquk_move_totaldamage_display",
+                "current": "2d6 + 11",
+                "max": "",
+                "id": "-MjCdy6yDKmYTkfNPrkY"
+            },
+            {
+                "name": "repeating_moves_-MjCdv7KYMuS7Jc3mquk_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-MjCdyXnBp0cO44YWtvf"
+            },
+            {
+                "name": "repeating_moves_-MjCdv7KYMuS7Jc3mquk_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-MjCdy_1e2uGAOQXKrb5"
+            },
+            {
+                "name": "repeating_moves_-MjCdv7KYMuS7Jc3mquk_move_totalaccuracy",
+                "current": 7,
+                "max": "",
+                "id": "-MjCdy_6U5XlW2Jsb84N"
+            },
+            {
+                "name": "repeating_moves_-MjCdv7KYMuS7Jc3mquk_move_totalaccuracy_display",
+                "current": "d20 + 7",
+                "max": "",
+                "id": "-MjCdy_7Lf8h5OGH62nW"
+            },
+            {
+                "name": "repeating_moves_-MjCdv7KYMuS7Jc3mquk_move_frequency",
+                "current": "atwill",
+                "max": "",
+                "id": "-MjCdyg9vGpwtBo6CFQC"
+            },
+            {
+                "name": "repeating_moves_-MjCdv7KYMuS7Jc3mquk_move_dicenumber",
+                "current": "2",
+                "max": "",
+                "id": "-MjCdz0WpaJIRCKrdzee"
+            },
+            {
+                "name": "repeating_moves_-MjCdv7KYMuS7Jc3mquk_damage_dice",
+                "current": "6",
+                "max": "",
+                "id": "-MjCdz9CbrR-AIiQauGE"
+            },
+            {
+                "name": "repeating_moves_-MjCdv7KYMuS7Jc3mquk_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MjCdzjW8bwGFoen2PDE"
+            },
+            {
+                "name": "repeating_moves_-MjCdv7KYMuS7Jc3mquk_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MjCdzlxntHe7bL2v-2u"
+            },
+            {
+                "name": "repeating_moves_-MjCe-PNKOKsgX2BL-mK_move_name",
+                "current": "Knock Off",
+                "max": "",
+                "id": "-MjCe0O6ia5G8B85j2CB"
+            },
+            {
+                "name": "repeating_moves_-MjCe-PNKOKsgX2BL-mK_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MjCe0U-S4waxV9-WO0i"
+            },
+            {
+                "name": "repeating_moves_-MjCe-PNKOKsgX2BL-mK_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-MjCe1FGJiAs_bSbg2Dx"
+            },
+            {
+                "name": "repeating_moves_-MjCe-PNKOKsgX2BL-mK_move_type",
+                "current": "dark",
+                "max": "",
+                "id": "-MjCe1XB4AIrRCjKPu7f"
+            },
+            {
+                "name": "repeating_moves_-MjCe-PNKOKsgX2BL-mK_move_totaldamage",
+                "current": 7,
+                "max": "",
+                "id": "-MjCe1ZtLnzrKqL9pq7p"
+            },
+            {
+                "name": "repeating_moves_-MjCe-PNKOKsgX2BL-mK_move_totaldamage_display",
+                "current": "3d8 + 7",
+                "max": "",
+                "id": "-MjCe1ZwaXjFjQE7WzSa"
+            },
+            {
+                "name": "repeating_moves_-MjCe-PNKOKsgX2BL-mK_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-MjCe1kdRW3EDu69IADT"
+            },
+            {
+                "name": "repeating_moves_-MjCe-PNKOKsgX2BL-mK_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-MjCe1nCO9XL8W27jsjt"
+            },
+            {
+                "name": "repeating_moves_-MjCe-PNKOKsgX2BL-mK_move_totalaccuracy",
+                "current": 7,
+                "max": "",
+                "id": "-MjCe1nJH06UcDzD_Jjp"
+            },
+            {
+                "name": "repeating_moves_-MjCe-PNKOKsgX2BL-mK_move_totalaccuracy_display",
+                "current": "d20 + 7",
+                "max": "",
+                "id": "-MjCe1nKuiEFZR2LbtgN"
+            },
+            {
+                "name": "repeating_moves_-MjCe-PNKOKsgX2BL-mK_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-MjCe1xNySH4J9ZWry3w"
+            },
+            {
+                "name": "repeating_moves_-MjCe-PNKOKsgX2BL-mK_move_dicenumber",
+                "current": "3",
+                "max": "",
+                "id": "-MjCe2qyjhxCZG2uB3IR"
+            },
+            {
+                "name": "repeating_moves_-MjCe-PNKOKsgX2BL-mK_damage_dice",
+                "current": "8",
+                "max": "",
+                "id": "-MjCe2xRE8CG6sc3Ve9W"
+            },
+            {
+                "name": "repeating_moves_-MjCe-PNKOKsgX2BL-mK_move_effect",
+                "current": "On hit, the target drops any held items or weapons.",
+                "max": "",
+                "id": "-MjCeDfPEXl1aHyWFa-n"
+            },
+            {
+                "name": "repeating_moves_-MjCe-PNKOKsgX2BL-mK_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MjCeDhSZGGuv6KkkQrP"
+            },
+            {
+                "name": "repeating_moves_-MjCe-PNKOKsgX2BL-mK_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MjCeDjAZ7U8hq9cidLD"
+            },
+            {
+                "name": "repeating_moves_-MjCeE0yDIgzBxZwOrwx_move_name",
+                "current": "Taunt",
+                "max": "",
+                "id": "-MjCeFUO5i7NBt39IY0H"
+            },
+            {
+                "name": "repeating_moves_-MjCeE0yDIgzBxZwOrwx_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MjCeF_snaBoFU_uv0fd"
+            },
+            {
+                "name": "repeating_moves_-MjCeE0yDIgzBxZwOrwx_move_range",
+                "current": "Ranged (20 ft)",
+                "max": "",
+                "id": "-MjCeGuy4Wm01K5CqcaA"
+            },
+            {
+                "name": "repeating_moves_-MjCeE0yDIgzBxZwOrwx_move_type",
+                "current": "dark",
+                "max": "",
+                "id": "-MjCeHnBJlUn_hwvgTII"
+            },
+            {
+                "name": "repeating_moves_-MjCeE0yDIgzBxZwOrwx_move_totaldamage",
+                "current": 0,
+                "max": "",
+                "id": "-MjCeHpDbXlZ8yOAOgWL"
+            },
+            {
+                "name": "repeating_moves_-MjCeE0yDIgzBxZwOrwx_move_totaldamage_display",
+                "current": "0",
+                "max": "",
+                "id": "-MjCeHpHegxtQTdQmTI3"
+            },
+            {
+                "name": "repeating_moves_-MjCeE0yDIgzBxZwOrwx_move_category",
+                "current": "3",
+                "max": "",
+                "id": "-MjCeHyL8gst7qdwnvHW"
+            },
+            {
+                "name": "repeating_moves_-MjCeE0yDIgzBxZwOrwx_move_category_defense",
+                "current": "Speed",
+                "max": "",
+                "id": "-MjCeI-EIKeABpBt8U5P"
+            },
+            {
+                "name": "repeating_moves_-MjCeE0yDIgzBxZwOrwx_move_totalaccuracy",
+                "current": 4,
+                "max": "",
+                "id": "-MjCeI-I6qdUZrXAR4nV"
+            },
+            {
+                "name": "repeating_moves_-MjCeE0yDIgzBxZwOrwx_move_totalaccuracy_display",
+                "current": "d20 + 4",
+                "max": "",
+                "id": "-MjCeI-MfcC_kDktbL3H"
+            },
+            {
+                "name": "repeating_moves_-MjCeE0yDIgzBxZwOrwx_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-MjCeIAi0s73z6b7PeUy"
+            },
+            {
+                "name": "repeating_moves_-MjCeE0yDIgzBxZwOrwx_move_dicenumber",
+                "current": "0",
+                "max": "",
+                "id": "-MjCeJB96yWrs54IvOiK"
+            },
+            {
+                "name": "repeating_moves_-MjCeE0yDIgzBxZwOrwx_move_effect",
+                "current": "On hit, the target may only use attacks that target you or your allies for 1 min.",
+                "max": "",
+                "id": "-MjCeLJzzX1K7I4YY0jO"
+            },
+            {
+                "name": "repeating_moves_-MjCeE0yDIgzBxZwOrwx_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MjCeLLx1pcoVklndaCR"
+            },
+            {
+                "name": "repeating_moves_-MjCeE0yDIgzBxZwOrwx_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MjCeLNf70iC_oheRbsi"
+            },
+            {
+                "name": "repeating_moves_-MjCdRl3ZDIkvGT1EB3s_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mlf2Jmu1JexufeR1jLV"
+            },
+            {
+                "name": "repeating_moves_-MjCdRl3ZDIkvGT1EB3s_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mlf2JmwcgJEGIm6G04O"
+            },
+            {
+                "name": "repeating_moves_-MjCdXaZK5n6MiyE-cth_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mlf2Jmzt9s-wic9lLY7"
+            },
+            {
+                "name": "repeating_moves_-MjCdXaZK5n6MiyE-cth_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mlf2Jn1PUQDD8K2vd-l"
+            },
+            {
+                "name": "repeating_moves_-MjCdfmMsXUC0xbBH5VI_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mlf2Jn3y73Q2qJJr1xI"
+            },
+            {
+                "name": "repeating_moves_-MjCdfmMsXUC0xbBH5VI_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mlf2Jn5-lu9DHimEagG"
+            },
+            {
+                "name": "repeating_moves_-MjCdv7KYMuS7Jc3mquk_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mlf2Jn6ChpKUTBJ6LGI"
+            },
+            {
+                "name": "repeating_moves_-MjCdv7KYMuS7Jc3mquk_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mlf2Jn8J1mP_E3GeOno"
+            },
+            {
+                "name": "repeating_moves_-MjCe-PNKOKsgX2BL-mK_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mlf2Jn9qG4w9F9WMQkG"
+            },
+            {
+                "name": "repeating_moves_-MjCe-PNKOKsgX2BL-mK_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mlf2JnBNefLxmeoyymA"
+            },
+            {
+                "name": "repeating_moves_-MjCeE0yDIgzBxZwOrwx_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mlf2JnDG7m6K7KlwFQp"
+            },
+            {
+                "name": "repeating_moves_-MjCeE0yDIgzBxZwOrwx_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mlf2JnFTDoBbZN2hgKK"
+            },
+            {
+                "name": "pokemon_sex",
+                "current": "87.5% male, 12.5% female",
+                "max": "",
+                "id": "-MwKcNkvTXt4pO-iDhKl"
+            },
+            {
+                "name": "_reporder_repeating_moves",
+                "current": "-MjCdv7KYMuS7Jc3mquk,-MjCe-PNKOKsgX2BL-mK,-MjCeE0yDIgzBxZwOrwx,-MjCdRl3ZDIkvGT1EB3s,-MjCdXaZK5n6MiyE-cth,-MjCdfmMsXUC0xbBH5VI",
+                "max": "",
+                "id": "-MwKcRDJ9oHfypyrIcJ-"
+            },
+            {
+                "name": "notes",
+                "current": "Proficiencies: Grass / Bruiser (Thwackey / Rillaboom) / Sound",
+                "max": "",
+                "id": "-MwKcU1dxOj25Q2Qwhr5"
+            }
+        ],
+        "abilities": []
+    }
+}

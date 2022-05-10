@@ -1,0 +1,978 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-Mt6ZqWukHYbs092FEf8",
+        "name": "Dubwool",
+        "avatar": "https://s3.amazonaws.com/files.d20.io/images/275720983/AVGLyDrJ9JnNytrm9tktWw/med.jpg?1647329626",
+        "bio": "%3Cp%3EDubwool%20have%20two%20large%20horns%20that%20they%20use%20to%20attract%20others%0Aof%20their%20species.%20The%20horns%20are%20backwards%20facing%20and%20are%20fragile%0Aso%20must%20protect%20them%20during%20conflict.%20Dubwool%20primarily%20rely%20on%0Atheir%20thick%20wool%20to%20protect%20them.%20Their%20wool%20does%20wonders%20in%0Athis%20regard%2C%20Dubwool%20wool%20is%20unexpectedly%20bouncy%2C%20deflecting%0Aphysical%20attacks%20right%20off%20of%20itself.%20Fabric%20knitted%20from%20their%20wool%0Aacts%20much%20like%20a%20trampoline.%20Their%20spots%20also%20make%20it%20more%20difficult%20to%20shear%20these%20Pok%E9mon%20without%20mixing%20the%20colors%20together%0Aand%20creating%20a%20mottled%20final%20product.%20Thus%2C%20most%20Dubwool%20on%0Afarms%20are%20likely%20kept%20around%20for%20mating%20purposes%2C%20as%20it%u2019s%20usually%0Amore%20of%20a%20hassle%20to%20shear%20and%20process%20them%20than%20their%20wool%20ends%0Aup%20being%20worth.%3C/p%3E",
+        "gmnotes": "",
+        "defaulttoken": "",
+        "tags": "[\"Normal\",\"Field\",\"Grassland\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "atknature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt6ZqYadDkSSKh2Nh5s"
+            },
+            {
+                "name": "defnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt6ZqYadDkSSKh2Nh5t"
+            },
+            {
+                "name": "spatknature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt6ZqYbqxZqEBlNEsGf"
+            },
+            {
+                "name": "spdefnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt6ZqYbqxZqEBlNEsGg"
+            },
+            {
+                "name": "spdnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt6ZqYcUUJavAH3UcNH"
+            },
+            {
+                "name": "afflictions_text",
+                "current": "",
+                "max": "",
+                "id": "-Mt6ZqYd6ZggW5xyZll2"
+            },
+            {
+                "name": "capture_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mt6ZqYd6ZggW5xyZll3"
+            },
+            {
+                "name": "capture_display",
+                "current": "+5",
+                "max": "",
+                "id": "-Mt6ZqYeZJG51dhrpz3Q"
+            },
+            {
+                "name": "capture_roll_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mt6ZqYeZJG51dhrpz3R"
+            },
+            {
+                "name": "nature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt6ZqYfZJCKAsDvt0P-"
+            },
+            {
+                "name": "nature-type",
+                "current": "0",
+                "max": "",
+                "id": "-Mt6ZqYfZJCKAsDvt0P0"
+            },
+            {
+                "name": "atkbase",
+                "current": "8",
+                "max": "",
+                "id": "-Mt6ZqYgMubUj04RjFrw"
+            },
+            {
+                "name": "defbase",
+                "current": "13",
+                "max": "",
+                "id": "-Mt6ZqYhFhJXf6sW29IJ"
+            },
+            {
+                "name": "spatkbase",
+                "current": "6",
+                "max": "",
+                "id": "-Mt6ZqYi6iiinKDYR47u"
+            },
+            {
+                "name": "spdefbase",
+                "current": "9",
+                "max": "",
+                "id": "-Mt6ZqYi6iiinKDYR47v"
+            },
+            {
+                "name": "spdbase",
+                "current": "10",
+                "max": "",
+                "id": "-Mt6ZqYjrnG8boye7xp7"
+            },
+            {
+                "name": "acrobatics_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mt6ZqYjrnG8boye7xp8"
+            },
+            {
+                "name": "athletics_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6ZqYkHZ8lbETGBimR"
+            },
+            {
+                "name": "bluff_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6ZqYlOBbiXrY0jWHd"
+            },
+            {
+                "name": "concentration_total",
+                "current": 6,
+                "max": "",
+                "id": "-Mt6ZqYmZUCcNlDwL2er"
+            },
+            {
+                "name": "constitution_total",
+                "current": 6,
+                "max": "",
+                "id": "-Mt6ZqYnjFAhU1n2Djev"
+            },
+            {
+                "name": "diplomacy_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6ZqYorL3UGdvjmr2U"
+            },
+            {
+                "name": "engineering_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mt6ZqYpubMTZQRuK0N1"
+            },
+            {
+                "name": "history_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mt6ZqYpubMTZQRuK0N2"
+            },
+            {
+                "name": "insight_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6ZqYqLyeJGJHfdCO3"
+            },
+            {
+                "name": "investigate_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mt6ZqYrkkaTZpmsnfRI"
+            },
+            {
+                "name": "medicine_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mt6ZqYrkkaTZpmsnfRJ"
+            },
+            {
+                "name": "nature_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mt6ZqYtO_8KaX7o2cyx"
+            },
+            {
+                "name": "perception_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6ZqYuLQu4ilANTbv7"
+            },
+            {
+                "name": "perform_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6ZqYuLQu4ilANTbv8"
+            },
+            {
+                "name": "handling_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6ZqYvCq1uQvImPdX7"
+            },
+            {
+                "name": "programming_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mt6ZqYvCq1uQvImPdX8"
+            },
+            {
+                "name": "sleightofhand_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mt6ZqYw9dgyaR3FrR6S"
+            },
+            {
+                "name": "stealth_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mt6ZqYxNMw79l7RXAnK"
+            },
+            {
+                "name": "selected-page",
+                "current": "character-page",
+                "max": "",
+                "id": "-Mt6ZqYxNMw79l7RXAnL"
+            },
+            {
+                "name": "character-type",
+                "current": "pokemon",
+                "max": "",
+                "id": "-Mt6ZqYySILgLaHKvr4h"
+            },
+            {
+                "name": "species",
+                "current": "Dubwool",
+                "max": "",
+                "id": "-Mt6ZqYySILgLaHKvr4i"
+            },
+            {
+                "name": "size",
+                "current": "Medium",
+                "max": "",
+                "id": "-Mt6ZqYzkzPsZsiCWxBr"
+            },
+            {
+                "name": "weight",
+                "current": "Medium",
+                "max": "",
+                "id": "-Mt6ZqYzkzPsZsiCWxBs"
+            },
+            {
+                "name": "notes",
+                "current": "Proficiencies: Kicks",
+                "max": "",
+                "id": "-Mt6ZqYzkzPsZsiCWxBt"
+            },
+            {
+                "name": "egg_group",
+                "current": "Field-10 days",
+                "max": "",
+                "id": "-Mt6ZqZ-p_FTlkgz6v2x"
+            },
+            {
+                "name": "diet",
+                "current": "Herbivore",
+                "max": "",
+                "id": "-Mt6ZqZ0jX7WzbvqppNJ"
+            },
+            {
+                "name": "HP",
+                "current": "42",
+                "max": "42",
+                "id": "-Mt6ZqZ0jX7WzbvqppNK"
+            },
+            {
+                "name": "ATK",
+                "current": 8,
+                "max": "",
+                "id": "-Mt6ZqZ1d2Y_lcvkM4Kh"
+            },
+            {
+                "name": "ATKMOD",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6ZqZ2tmxuTuBuvfpo"
+            },
+            {
+                "name": "DEF",
+                "current": 13,
+                "max": "",
+                "id": "-Mt6ZqZ2tmxuTuBuvfpp"
+            },
+            {
+                "name": "DEFMOD",
+                "current": 6,
+                "max": "",
+                "id": "-Mt6ZqZ3EvqEFY8vE4Ux"
+            },
+            {
+                "name": "SPATK",
+                "current": 6,
+                "max": "",
+                "id": "-Mt6ZqZ3EvqEFY8vE4Uy"
+            },
+            {
+                "name": "SPATKMOD",
+                "current": 3,
+                "max": "",
+                "id": "-Mt6ZqZ4DmFTWVI4aJwd"
+            },
+            {
+                "name": "SPDEF",
+                "current": 9,
+                "max": "",
+                "id": "-Mt6ZqZ5OxW6p_u1FICF"
+            },
+            {
+                "name": "SPDEFMOD",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6ZqZ6s2TQyBubca6N"
+            },
+            {
+                "name": "SPD",
+                "current": 10,
+                "max": "",
+                "id": "-Mt6ZqZ7mDaRimq4BZuC"
+            },
+            {
+                "name": "SPDMOD",
+                "current": 5,
+                "max": "",
+                "id": "-Mt6ZqZ7mDaRimq4BZuD"
+            },
+            {
+                "name": "movement",
+                "current": 50,
+                "max": "",
+                "id": "-Mt6ZqZ9-zSYHx2pZe1L"
+            },
+            {
+                "name": "pokemonskills",
+                "current": "",
+                "max": "",
+                "id": "-Mt6ZqZAmVAb51yefbcE"
+            },
+            {
+                "name": "statpassives",
+                "current": "Cotton Guard (+3 Defense)\nRun Away (+1 Speed),",
+                "max": "",
+                "id": "-Mt6ZqZBIUhYWX7nDQvO"
+            },
+            {
+                "name": "repeating_moves_-Mt5eWh62lYSaqsgzNnp_move_name",
+                "current": "Headbutt",
+                "max": "",
+                "id": "-Mt6ZqZCJhlU23Gb6Xhk"
+            },
+            {
+                "name": "repeating_moves_-Mt5eWh62lYSaqsgzNnp_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-Mt6ZqZDGbLpiwqIWCME"
+            },
+            {
+                "name": "repeating_moves_-Mt5eWh62lYSaqsgzNnp_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-Mt6ZqZFMOK8W9UvZNlM"
+            },
+            {
+                "name": "repeating_moves_-Mt5eWh62lYSaqsgzNnp_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-Mt6ZqZHUztszC5FcbZc"
+            },
+            {
+                "name": "repeating_moves_-Mt5eWh62lYSaqsgzNnp_move_totaldamage",
+                "current": 8,
+                "max": "",
+                "id": "-Mt6ZqZHUztszC5FcbZd"
+            },
+            {
+                "name": "repeating_moves_-Mt5eWh62lYSaqsgzNnp_move_totaldamage_display",
+                "current": "2d8 + 8",
+                "max": "",
+                "id": "-Mt6ZqZIDjpi5qbDNjwU"
+            },
+            {
+                "name": "repeating_moves_-Mt5eWh62lYSaqsgzNnp_move_totalaccuracy",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6ZqZKeBRP6qIzqI7m"
+            },
+            {
+                "name": "repeating_moves_-Mt5eWh62lYSaqsgzNnp_move_totalaccuracy_display",
+                "current": "d20 + 4",
+                "max": "",
+                "id": "-Mt6ZqZKeBRP6qIzqI7n"
+            },
+            {
+                "name": "repeating_moves_-Mt5eWh62lYSaqsgzNnp_move_frequency",
+                "current": "atwill",
+                "max": "",
+                "id": "-Mt6ZqZLWJkVk8k3awXQ"
+            },
+            {
+                "name": "repeating_moves_-Mt5eWh62lYSaqsgzNnp_move_dicenumber",
+                "current": "2",
+                "max": "",
+                "id": "-Mt6ZqZMLnSpynsJecz7"
+            },
+            {
+                "name": "repeating_moves_-Mt5eWh62lYSaqsgzNnp_damage_dice",
+                "current": "8",
+                "max": "",
+                "id": "-Mt6ZqZNc4r-B7vuBgw9"
+            },
+            {
+                "name": "repeating_moves_-Mt5eWh62lYSaqsgzNnp_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mt6ZqZNc4r-B7vuBgwA"
+            },
+            {
+                "name": "repeating_moves_-Mt5eWh62lYSaqsgzNnp_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mt6ZqZPtRKIY0n3QAeb"
+            },
+            {
+                "name": "repeating_moves_-Mt5ebx9x4crUlFd8w7Z_move_name",
+                "current": "Take Down",
+                "max": "",
+                "id": "-Mt6ZqZRsUz19A3b0qVr"
+            },
+            {
+                "name": "repeating_moves_-Mt5ebx9x4crUlFd8w7Z_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-Mt6ZqZSSv8C5OSZ4oN7"
+            },
+            {
+                "name": "repeating_moves_-Mt5ebx9x4crUlFd8w7Z_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-Mt6ZqZSSv8C5OSZ4oN8"
+            },
+            {
+                "name": "repeating_moves_-Mt5ebx9x4crUlFd8w7Z_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-Mt6ZqZTTsXHRBqRgyLd"
+            },
+            {
+                "name": "repeating_moves_-Mt5ebx9x4crUlFd8w7Z_move_totaldamage",
+                "current": 8,
+                "max": "",
+                "id": "-Mt6ZqZUii6sx1iETOcW"
+            },
+            {
+                "name": "repeating_moves_-Mt5ebx9x4crUlFd8w7Z_move_totaldamage_display",
+                "current": "3d10 + 8",
+                "max": "",
+                "id": "-Mt6ZqZVnkX03A3kU4dd"
+            },
+            {
+                "name": "repeating_moves_-Mt5ebx9x4crUlFd8w7Z_move_totalaccuracy",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6ZqZWrRp7enb3QWg7"
+            },
+            {
+                "name": "repeating_moves_-Mt5ebx9x4crUlFd8w7Z_move_totalaccuracy_display",
+                "current": "d20 + 4",
+                "max": "",
+                "id": "-Mt6ZqZXnZ7dj1h-Xg_T"
+            },
+            {
+                "name": "repeating_moves_-Mt5ebx9x4crUlFd8w7Z_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-Mt6ZqZY-c18RR_zPIRd"
+            },
+            {
+                "name": "repeating_moves_-Mt5ebx9x4crUlFd8w7Z_move_dicenumber",
+                "current": "3",
+                "max": "",
+                "id": "-Mt6ZqZZA3vYA2vDQHC2"
+            },
+            {
+                "name": "repeating_moves_-Mt5ebx9x4crUlFd8w7Z_move_effect",
+                "current": "On hit, you lose HP equal to 1/4th of the damage you deal.",
+                "max": "",
+                "id": "-Mt6ZqZ_MOi1NXMZ93eS"
+            },
+            {
+                "name": "repeating_moves_-Mt5ebx9x4crUlFd8w7Z_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mt6ZqZamrkCYmLHtY5x"
+            },
+            {
+                "name": "repeating_moves_-Mt5ebx9x4crUlFd8w7Z_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mt6ZqZct7tSKC-GtA5Y"
+            },
+            {
+                "name": "repeating_moves_-Mt5emw8A22myiXN36A4_move_name",
+                "current": "Double Kick",
+                "max": "",
+                "id": "-Mt6ZqZde6u_GaE9DY5a"
+            },
+            {
+                "name": "repeating_moves_-Mt5emw8A22myiXN36A4_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-Mt6ZqZfFTur81vEQ2N2"
+            },
+            {
+                "name": "repeating_moves_-Mt5emw8A22myiXN36A4_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-Mt6ZqZggM0SA6mlJvc6"
+            },
+            {
+                "name": "repeating_moves_-Mt5emw8A22myiXN36A4_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-Mt6ZqZhXcRovduNcLUS"
+            },
+            {
+                "name": "repeating_moves_-Mt5emw8A22myiXN36A4_move_totaldamage",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6ZqZiiFGqvv3au4aM"
+            },
+            {
+                "name": "repeating_moves_-Mt5emw8A22myiXN36A4_move_totaldamage_display",
+                "current": "1d20 + 4",
+                "max": "",
+                "id": "-Mt6ZqZjgE2yjaswBWHC"
+            },
+            {
+                "name": "repeating_moves_-Mt5emw8A22myiXN36A4_move_totalaccuracy",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6ZqZknJTwhUE1MPAB"
+            },
+            {
+                "name": "repeating_moves_-Mt5emw8A22myiXN36A4_move_totalaccuracy_display",
+                "current": "d20 + 4",
+                "max": "",
+                "id": "-Mt6ZqZmiuO9jl60kIfG"
+            },
+            {
+                "name": "repeating_moves_-Mt5emw8A22myiXN36A4_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-Mt6ZqZni2RMr4RuJsXg"
+            },
+            {
+                "name": "repeating_moves_-Mt5emw8A22myiXN36A4_move_effect",
+                "current": "Double Kick is a Scatter attack. It has two attacks.\n",
+                "max": "",
+                "id": "-Mt6ZqZpyik4VzmDE-KC"
+            },
+            {
+                "name": "repeating_moves_-Mt5emw8A22myiXN36A4_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mt6ZqZq2Lj3_8YUamC6"
+            },
+            {
+                "name": "repeating_moves_-Mt5emw8A22myiXN36A4_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mt6ZqZrh7DCzWSvTwIt"
+            },
+            {
+                "name": "repeating_moves_-Mt5eWh62lYSaqsgzNnp_move_effect1_name",
+                "current": "Stunned",
+                "max": "",
+                "id": "-Mt6ZqZsKUhkA84Cn8LF"
+            },
+            {
+                "name": "repeating_moves_-Mt5eWh62lYSaqsgzNnp_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt6ZqZtMBg761cvWNyC"
+            },
+            {
+                "name": "repeating_moves_-Mt5ebx9x4crUlFd8w7Z_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt6ZqZujl-HCxljz87b"
+            },
+            {
+                "name": "repeating_moves_-Mt5ebx9x4crUlFd8w7Z_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt6ZqZvuUB6v0sMvD6j"
+            },
+            {
+                "name": "repeating_moves_-Mt5emw8A22myiXN36A4_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt6ZqZw63ds0FvLmHwM"
+            },
+            {
+                "name": "repeating_moves_-Mt5emw8A22myiXN36A4_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt6ZqZxSq9LDTfjd0mw"
+            },
+            {
+                "name": "otherpassives",
+                "current": "Fluffy (If hit by a melee attack, you only take half the damage. If hit by a Fire-type attack, you take twice the damage.)\nSteadfast (When you are Stunned, your Speed is +1 for 10 mins.)",
+                "max": "",
+                "id": "-Mt6ZqZyKSjBbkGgrkYv"
+            },
+            {
+                "name": "repeating_moves_-Mt5eWh62lYSaqsgzNnp_move_effect1_threshold",
+                "current": "18",
+                "max": "",
+                "id": "-Mt6Zq_-vF2-FQAIXqoe"
+            },
+            {
+                "name": "repeating_moves_-Mt5eWh62lYSaqsgzNnp_move_effect1",
+                "current": "10",
+                "max": "",
+                "id": "-Mt6Zq_-vF2-FQAIXqof"
+            },
+            {
+                "name": "repeating_moves_-Mt5ebx9x4crUlFd8w7Z_damage_dice",
+                "current": "10",
+                "max": "",
+                "id": "-Mt6Zq_0pxvSxD9p_mMz"
+            },
+            {
+                "name": "repeating_moves_-Mt5emw8A22myiXN36A4_move_type",
+                "current": "fighting",
+                "max": "",
+                "id": "-Mt6Zq_2aBWGT-dve-Fb"
+            },
+            {
+                "name": "repeating_moves_-Mt5emw8A22myiXN36A4_move_dicenumber",
+                "current": "1",
+                "max": "",
+                "id": "-Mt6Zq_2aBWGT-dve-Fc"
+            },
+            {
+                "name": "repeating_moves_-Mt5emw8A22myiXN36A4_damage_dice",
+                "current": "20",
+                "max": "",
+                "id": "-Mt6Zq_3O4-wxvsz7KmK"
+            },
+            {
+                "name": "repeating_moves_-Mt5emw8A22myiXN36A4_move_template",
+                "current": "dual-hit-move-roll",
+                "max": "",
+                "id": "-Mt6Zq_4lhBzSgFuoXQ4"
+            },
+            {
+                "name": "repeating_moves_-Mt6Z7deNIs6j7uRmX6J_move_name",
+                "current": "Double Edge",
+                "max": "",
+                "id": "-Mt6_8zXNo7uaF349kX3"
+            },
+            {
+                "name": "repeating_moves_-Mt6Z7deNIs6j7uRmX6J_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-Mt6_9wBPhcFc9IJLh7h"
+            },
+            {
+                "name": "repeating_moves_-Mt6Z7deNIs6j7uRmX6J_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-Mt6_AGdAR8yxsE6yE56"
+            },
+            {
+                "name": "repeating_moves_-Mt6Z7deNIs6j7uRmX6J_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-Mt6_AftKC_J_gk9RmOu"
+            },
+            {
+                "name": "repeating_moves_-Mt6Z7deNIs6j7uRmX6J_move_totaldamage",
+                "current": 8,
+                "max": "",
+                "id": "-Mt6_Afxq6_cr1uzsnEc"
+            },
+            {
+                "name": "repeating_moves_-Mt6Z7deNIs6j7uRmX6J_move_totaldamage_display",
+                "current": "5d12 + 8",
+                "max": "",
+                "id": "-Mt6_Ag1jKORlFmM4_vg"
+            },
+            {
+                "name": "repeating_moves_-Mt6Z7deNIs6j7uRmX6J_move_totalaccuracy",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6_Ag6DJFnsLgb-9YC"
+            },
+            {
+                "name": "repeating_moves_-Mt6Z7deNIs6j7uRmX6J_move_totalaccuracy_display",
+                "current": "d20 + 4",
+                "max": "",
+                "id": "-Mt6_AgBAJlWgJjPlzmn"
+            },
+            {
+                "name": "repeating_moves_-Mt6Z7deNIs6j7uRmX6J_move_frequency",
+                "current": "3day",
+                "max": "",
+                "id": "-Mt6_B6mnkVrjlard6Ue"
+            },
+            {
+                "name": "repeating_moves_-Mt6Z7deNIs6j7uRmX6J_move_dicenumber",
+                "current": "5",
+                "max": "",
+                "id": "-Mt6_CE_C0611USq6WCI"
+            },
+            {
+                "name": "repeating_moves_-Mt6Z7deNIs6j7uRmX6J_damage_dice",
+                "current": "12",
+                "max": "",
+                "id": "-Mt6_CfXyL83NSmwfBY8"
+            },
+            {
+                "name": "repeating_moves_-Mt6Z7deNIs6j7uRmX6J_move_effect",
+                "current": "On hit, you lose HP equal to 1/3rd of the damage you deal.",
+                "max": "",
+                "id": "-Mt6_ETnfhVqdph_CJ_M"
+            },
+            {
+                "name": "repeating_moves_-Mt6Z7deNIs6j7uRmX6J_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mt6_EmbOCg7I82_BzCy"
+            },
+            {
+                "name": "repeating_moves_-Mt6Z7deNIs6j7uRmX6J_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mt6_EwmZ6dMMQfS64J0"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZFTem9iP6Cto3kde_move_name",
+                "current": "Reversal",
+                "max": "",
+                "id": "-Mt6_H-LDw0YDedaEyuZ"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZFTem9iP6Cto3kde_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-Mt6_Hz8PFuMHfhhcwAm"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZFTem9iP6Cto3kde_move_type",
+                "current": "fighting",
+                "max": "",
+                "id": "-Mt6_IVaoaMmKjJnX5mJ"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZFTem9iP6Cto3kde_move_totaldamage",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6_Iz4XAZwFX59Dbl4"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZFTem9iP6Cto3kde_move_totaldamage_display",
+                "current": "1d10 + 4",
+                "max": "",
+                "id": "-Mt6_IzT4gEHrszEKI7q"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZFTem9iP6Cto3kde_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-Mt6_JSXIcznhgNLNyo9"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZFTem9iP6Cto3kde_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-Mt6_Jwj7gKb6qbifTvl"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZFTem9iP6Cto3kde_move_totalaccuracy",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6_Jy0_dYPMmd2mI0m"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZFTem9iP6Cto3kde_move_totalaccuracy_display",
+                "current": "d20 + 4",
+                "max": "",
+                "id": "-Mt6_JyEvPzS0_0sLU8w"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZFTem9iP6Cto3kde_move_frequency",
+                "current": "3day",
+                "max": "",
+                "id": "-Mt6_KBcde5yQ7HrnzTa"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZFTem9iP6Cto3kde_move_dicenumber",
+                "current": "1",
+                "max": "",
+                "id": "-Mt6_L2fuV8Mslb49Q2h"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZFTem9iP6Cto3kde_damage_dice",
+                "current": "10",
+                "max": "",
+                "id": "-Mt6_LflFYoNcokpUZl1"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZFTem9iP6Cto3kde_move_effect",
+                "current": "If you are at less than half of your Max HP, Reversal has [[1d20+4]] for damage instead. If you are at less than 5 HP, Reversal has [[5d12+4]] for damage instead.",
+                "max": "",
+                "id": "-Mt6_O7odHimUdJIxGgk"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZFTem9iP6Cto3kde_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mt6_OJZt-hS0vGF5yd5"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZFTem9iP6Cto3kde_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mt6_OX3rBZvLPWw-sqw"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZQGfo0lQRS-YYsPF_move_name",
+                "current": "Counter",
+                "max": "",
+                "id": "-Mt6_RDM6qqhkffGixq7"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZQGfo0lQRS-YYsPF_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-Mt6_S6TQeE-jnEJ4Q-M"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZQGfo0lQRS-YYsPF_move_type",
+                "current": "fighting",
+                "max": "",
+                "id": "-Mt6_SS9WRFarozMf2DT"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZQGfo0lQRS-YYsPF_move_totaldamage",
+                "current": 0,
+                "max": "",
+                "id": "-Mt6_SclRwlUKWY5JKC7"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZQGfo0lQRS-YYsPF_move_totaldamage_display",
+                "current": "0",
+                "max": "",
+                "id": "-Mt6_Sd4wgspydYu6pcI"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZQGfo0lQRS-YYsPF_move_category",
+                "current": "3",
+                "max": "",
+                "id": "-Mt6_TK0BhNipDL7Xpxt"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZQGfo0lQRS-YYsPF_move_category_defense",
+                "current": "Speed",
+                "max": "",
+                "id": "-Mt6_TU5qh0vitNdoVUE"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZQGfo0lQRS-YYsPF_move_totalaccuracy",
+                "current": 5,
+                "max": "",
+                "id": "-Mt6_TUXue3m1opi5Fat"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZQGfo0lQRS-YYsPF_move_totalaccuracy_display",
+                "current": "d20 + 5",
+                "max": "",
+                "id": "-Mt6_TUr1lSIBgBkewd9"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZQGfo0lQRS-YYsPF_move_frequency",
+                "current": "3day",
+                "max": "",
+                "id": "-Mt6_TsPjWpeDnoRONeU"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZQGfo0lQRS-YYsPF_move_effect",
+                "current": "Counter is used as a Reaction. After an enemy hits you with a melee Attack move that deals damage, use Counter to deal exactly twice the damage to the enemy that you received. Do not apply weakness or resistances. ",
+                "max": "",
+                "id": "-Mt6_WUPnUDQZIyCCUvQ"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZQGfo0lQRS-YYsPF_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mt6_WXkXThFQYY1PvMC"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZQGfo0lQRS-YYsPF_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mt6_WaXUS6BzIOrTr9P"
+            },
+            {
+                "name": "repeating_moves_-Mt6Z7deNIs6j7uRmX6J_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mvlm50xDuZu9L-nbrcK"
+            },
+            {
+                "name": "repeating_moves_-Mt6Z7deNIs6j7uRmX6J_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mvlm512-rTuWP-uf4RV"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZFTem9iP6Cto3kde_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mvlm514YwdgWKO-KiHk"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZFTem9iP6Cto3kde_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mvlm516dspGabxkwDwI"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZQGfo0lQRS-YYsPF_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mvlm518EgQk24muO12G"
+            },
+            {
+                "name": "repeating_moves_-Mt6ZQGfo0lQRS-YYsPF_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mvlm51AFaaNVVyiRyJ1"
+            },
+            {
+                "name": "type1",
+                "current": "normal",
+                "max": "",
+                "id": "-MvlmJpeEmgw_sGOPG2L"
+            },
+            {
+                "name": "_reporder_repeating_moves",
+                "current": "-Mt5eWh62lYSaqsgzNnp,-Mt5emw8A22myiXN36A4,-Mt5ebx9x4crUlFd8w7Z,-Mt6ZQGfo0lQRS-YYsPF,-Mt6Z7deNIs6j7uRmX6J,-Mt6ZFTem9iP6Cto3kde",
+                "max": "",
+                "id": "-MvlmVOyM6GL3zPK_PLE"
+            },
+            {
+                "name": "repeating_moves_-Mt5eWh62lYSaqsgzNnp_move_effect",
+                "current": "On hit, if you got 18 or higher on Accuracy Check, the target is Stunned.",
+                "max": "",
+                "id": "-MvlmZfHQstkMhZGtkXz"
+            },
+            {
+                "name": "pokemon_sex",
+                "current": "50% male, 50% female",
+                "max": "",
+                "id": "-MyBUxvL5_IXp0PBeAvH"
+            }
+        ],
+        "abilities": []
+    }
+}

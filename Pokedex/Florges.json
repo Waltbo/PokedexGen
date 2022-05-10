@@ -1,0 +1,990 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-Mt1MVZOOGHwjfLRql0x",
+        "name": "Florges",
+        "avatar": "https://s3.amazonaws.com/files.d20.io/images/274515349/EaTOQNwVux2rKGCULkcccw/med.png?1646697917",
+        "bio": "%3Cp%3EFlorges%20represent%20the%20pinnacle%20of%20the%20mutualistic%20relationship%0Abetween%20these%20Pok%E9mon%20and%20the%20flowers%20that%20they%20chose%20when%0Ayoung%3B%20the%20Pok%E9mon%20and%20the%20flower%20have%20become%20one%20upon%0Aevolution.%20Florges%20are%20the%20guardians%20of%20beautiful%2C%20flower-filled%0Ameadows%20and%20gardens.%20They%20defend%20their%20delicate%20flowerbeds%0Anot%20only%20from%20other%20Pok%E9mon%2C%20but%20also%20from%20natural%20disasters%0Asuch%20as%20wildfires.%20They%20can%20live%20for%20centuries%2C%20dedicating%20their%0Alives%20solely%20to%20single%20gardens.%20Florges%20spend%20much%20of%20their%20time%0Atending%20to%20their%20beautiful%20flowerbeds.%20Florges%20are%20so%20skilled%20in%0Ahorticulture%20that%20many%20people%20request%20their%20help%20in%20designing%0Agardens.%20These%20Pok%E9mon%20can%20summon%20powerful%2C%20yet%20hauntingly%0Abeautiful%2C%20storms%20of%20petals%20in%20order%20to%20protect%20themselves%20and%0Atheir%20blooms.%0A%3C/p%3E",
+        "gmnotes": "",
+        "defaulttoken": "{\"left\":2415,\"top\":1925,\"width\":70,\"height\":70,\"imgsrc\":\"https://s3.amazonaws.com/files.d20.io/images/274515743/kC9aSuUzyB281TNq8LDDrg/med.png?1646698070\",\"page_id\":\"-MYWp6jllc7YsYqj_slP\",\"layer\":\"objects\",\"show_tooltip\":false,\"sides\":\"https%3A//s3.amazonaws.com/files.d20.io/images/274515743/kC9aSuUzyB281TNq8LDDrg/med.png%3F1646698070|https%3A//s3.amazonaws.com/files.d20.io/images/274515783/9cuvj4Mll0bq3Leh-rqOJg/med.jpg%3F1646698090|https%3A//s3.amazonaws.com/files.d20.io/images/274515807/2o4lAuTH1fiB4ZaehunSHw/med.jpg%3F1646698102|https%3A//s3.amazonaws.com/files.d20.io/images/274515846/E7RJYBpl6Ij0ajI8G3tDBw/med.jpg%3F1646698115|https%3A//s3.amazonaws.com/files.d20.io/images/274515878/w40DdrdP7cTAdc-966Qrxw/med.jpg%3F1646698127\",\"lastmove\":\"2439,1924\"}",
+        "tags": "[\"Fairy\",\"Field\",\"Meadow\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "atknature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt1MVa8WHl62537pMqD"
+            },
+            {
+                "name": "defnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt1MVaAXsBrRvlI2mz_"
+            },
+            {
+                "name": "spatknature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt1MVaAXsBrRvlI2mza"
+            },
+            {
+                "name": "spdefnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt1MVaBADSEM0uSS55J"
+            },
+            {
+                "name": "spdnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt1MVaBADSEM0uSS55K"
+            },
+            {
+                "name": "afflictions_text",
+                "current": "",
+                "max": "",
+                "id": "-Mt1MVaCq_Z14fr5V7fl"
+            },
+            {
+                "name": "capture_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt1MVaDveDRzIoQqGne"
+            },
+            {
+                "name": "capture_display",
+                "current": "+5",
+                "max": "",
+                "id": "-Mt1MVaE-vGHVLY3UJFW"
+            },
+            {
+                "name": "capture_roll_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mt1MVaE-vGHVLY3UJFX"
+            },
+            {
+                "name": "nature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt1MVaFfVEWx1ula2V7"
+            },
+            {
+                "name": "nature-type",
+                "current": "0",
+                "max": "",
+                "id": "-Mt1MVaGbY_sTz3LUNcu"
+            },
+            {
+                "name": "atkbase",
+                "current": "7",
+                "max": "",
+                "id": "-Mt1MVaIG8tIiwn9D9e1"
+            },
+            {
+                "name": "defbase",
+                "current": "7",
+                "max": "",
+                "id": "-Mt1MVaIG8tIiwn9D9e2"
+            },
+            {
+                "name": "spatkbase",
+                "current": "11",
+                "max": "",
+                "id": "-Mt1MVaJoykkKhlI_jha"
+            },
+            {
+                "name": "spdefbase",
+                "current": "15",
+                "max": "",
+                "id": "-Mt1MVaKKa4kKYBEq1Qh"
+            },
+            {
+                "name": "spdbase",
+                "current": "8",
+                "max": "",
+                "id": "-Mt1MVaLl0rcDpnaddOV"
+            },
+            {
+                "name": "acrobatics_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt1MVaLl0rcDpnaddOW"
+            },
+            {
+                "name": "athletics_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mt1MVaM7WCeLmoAvHUe"
+            },
+            {
+                "name": "bluff_total",
+                "current": 7,
+                "max": "",
+                "id": "-Mt1MVaOnPE9XpUq0UCq"
+            },
+            {
+                "name": "concentration_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mt1MVaOnPE9XpUq0UCr"
+            },
+            {
+                "name": "constitution_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mt1MVaQ9Y4PRMxdPNYS"
+            },
+            {
+                "name": "diplomacy_total",
+                "current": 7,
+                "max": "",
+                "id": "-Mt1MVaS7RPUwEWvCjX_"
+            },
+            {
+                "name": "engineering_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mt1MVaS7RPUwEWvCjXa"
+            },
+            {
+                "name": "history_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mt1MVaTf1W79RwGDjRW"
+            },
+            {
+                "name": "insight_total",
+                "current": 7,
+                "max": "",
+                "id": "-Mt1MVaUfKN0mVw0w1Ll"
+            },
+            {
+                "name": "investigate_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mt1MVaVPBFMOAFBZgms"
+            },
+            {
+                "name": "medicine_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mt1MVaWjqQirEEers7p"
+            },
+            {
+                "name": "nature_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mt1MVaWjqQirEEers7q"
+            },
+            {
+                "name": "perception_total",
+                "current": 7,
+                "max": "",
+                "id": "-Mt1MVaXElt5DCW3WAqZ"
+            },
+            {
+                "name": "perform_total",
+                "current": 7,
+                "max": "",
+                "id": "-Mt1MVaY29F-58wrV7bf"
+            },
+            {
+                "name": "handling_total",
+                "current": 7,
+                "max": "",
+                "id": "-Mt1MVaZBAslRVyAtuP5"
+            },
+            {
+                "name": "programming_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mt1MVa_fwlL8LX3XOPH"
+            },
+            {
+                "name": "sleightofhand_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt1MVabH9kLsUcyWV5N"
+            },
+            {
+                "name": "stealth_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt1MVabH9kLsUcyWV5O"
+            },
+            {
+                "name": "selected-page",
+                "current": "character-page",
+                "max": "",
+                "id": "-Mt1MVadTDTB-Gue_n7U"
+            },
+            {
+                "name": "character-type",
+                "current": "pokemon",
+                "max": "",
+                "id": "-Mt1MVaeB1m9Sw4CUIXY"
+            },
+            {
+                "name": "species",
+                "current": "Florges",
+                "max": "",
+                "id": "-Mt1MVaeB1m9Sw4CUIXZ"
+            },
+            {
+                "name": "type1",
+                "current": "fairy",
+                "max": "",
+                "id": "-Mt1MVafEzZpJ9r7Cin6"
+            },
+            {
+                "name": "size",
+                "current": "Medium",
+                "max": "",
+                "id": "-Mt1MVagNyF73rkDqROZ"
+            },
+            {
+                "name": "weight",
+                "current": "Light",
+                "max": "",
+                "id": "-Mt1MVahjufprNnOWJKy"
+            },
+            {
+                "name": "egg_group",
+                "current": "Fairy / Grass -7 days",
+                "max": "",
+                "id": "-Mt1MVaiwyzxM9wla2_u"
+            },
+            {
+                "name": "diet",
+                "current": "Phototroph",
+                "max": "",
+                "id": "-Mt1MVaiwyzxM9wla2_v"
+            },
+            {
+                "name": "HP",
+                "current": "48",
+                "max": "48",
+                "id": "-Mt1MVajAePpzewwxu9X"
+            },
+            {
+                "name": "ATK",
+                "current": 7,
+                "max": "",
+                "id": "-Mt1MVak9Ymj77FP_yzm"
+            },
+            {
+                "name": "ATKMOD",
+                "current": 3,
+                "max": "",
+                "id": "-Mt1MValthNyrtWso5hA"
+            },
+            {
+                "name": "DEF",
+                "current": 7,
+                "max": "",
+                "id": "-Mt1MValthNyrtWso5hB"
+            },
+            {
+                "name": "DEFMOD",
+                "current": 3,
+                "max": "",
+                "id": "-Mt1MVamVxSvRuDW7zES"
+            },
+            {
+                "name": "SPATK",
+                "current": 11,
+                "max": "",
+                "id": "-Mt1MVan-l23S9K7Tglc"
+            },
+            {
+                "name": "SPATKMOD",
+                "current": 5,
+                "max": "",
+                "id": "-Mt1MVan-l23S9K7Tgld"
+            },
+            {
+                "name": "SPDEF",
+                "current": 15,
+                "max": "",
+                "id": "-Mt1MVaoro4FUzrdh3pA"
+            },
+            {
+                "name": "SPDEFMOD",
+                "current": 7,
+                "max": "",
+                "id": "-Mt1MVap0PEZ6-5gozA8"
+            },
+            {
+                "name": "SPD",
+                "current": 8,
+                "max": "",
+                "id": "-Mt1MVar2uJqqTL2u7cx"
+            },
+            {
+                "name": "SPDMOD",
+                "current": 4,
+                "max": "",
+                "id": "-Mt1MVar2uJqqTL2u7cy"
+            },
+            {
+                "name": "movement",
+                "current": 40,
+                "max": "",
+                "id": "-Mt1MVatWKIXgy1fOmf_"
+            },
+            {
+                "name": "pokemonskills",
+                "current": "Flower Bond (Flabébé, Floette, and Florges bond with a flower throughout their lives. Different flowers change how they appear.)\nHover (can hover)\nSprouter (can manipulate plant life)\nAlluring (attracts others with their aroma)",
+                "max": "",
+                "id": "-Mt1MVauzDovud1Io1iF"
+            },
+            {
+                "name": "otherpassives",
+                "current": "Flower Veil (You and your allied Grass-type’s stats cannot be lowered by effects within 25ft of you.)\nSymbiosis (You can pass held items to allies within 10ft as a free action.)",
+                "max": "",
+                "id": "-Mt1MVauzDovud1Io1iG"
+            },
+            {
+                "name": "repeating_moves_-Mt1LnCQcbnzJAZXCOAK_move_name",
+                "current": "Fairy Wind",
+                "max": "",
+                "id": "-Mt1MVbMuyOZ_m19Kvel"
+            },
+            {
+                "name": "repeating_moves_-Mt1LnCQcbnzJAZXCOAK_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-Mt1MVbMuyOZ_m19Kvem"
+            },
+            {
+                "name": "repeating_moves_-Mt1LnCQcbnzJAZXCOAK_move_range",
+                "current": "Ranged (20 ft)",
+                "max": "",
+                "id": "-Mt1MVbNYHR_4mdPH6DH"
+            },
+            {
+                "name": "repeating_moves_-Mt1LnCQcbnzJAZXCOAK_move_type",
+                "current": "fairy",
+                "max": "",
+                "id": "-Mt1MVbP3RpcviXFF9xR"
+            },
+            {
+                "name": "repeating_moves_-Mt1LnCQcbnzJAZXCOAK_move_totaldamage",
+                "current": 9,
+                "max": "",
+                "id": "-Mt1MVbP3RpcviXFF9xS"
+            },
+            {
+                "name": "repeating_moves_-Mt1LnCQcbnzJAZXCOAK_move_totaldamage_display",
+                "current": "1d12 + 9",
+                "max": "",
+                "id": "-Mt1MVbQu8t6HaJ0cIL3"
+            },
+            {
+                "name": "repeating_moves_-Mt1LnCQcbnzJAZXCOAK_move_category",
+                "current": "2",
+                "max": "",
+                "id": "-Mt1MVbSRP_abeGpwtvn"
+            },
+            {
+                "name": "repeating_moves_-Mt1LnCQcbnzJAZXCOAK_move_category_defense",
+                "current": "Special Defense",
+                "max": "",
+                "id": "-Mt1MVbSRP_abeGpwtvo"
+            },
+            {
+                "name": "repeating_moves_-Mt1LnCQcbnzJAZXCOAK_move_totalaccuracy",
+                "current": 5,
+                "max": "",
+                "id": "-Mt1MVbT9Slk7wKjDAfe"
+            },
+            {
+                "name": "repeating_moves_-Mt1LnCQcbnzJAZXCOAK_move_totalaccuracy_display",
+                "current": "d20 + 5",
+                "max": "",
+                "id": "-Mt1MVbULFtnsrGfJmzE"
+            },
+            {
+                "name": "repeating_moves_-Mt1LnCQcbnzJAZXCOAK_move_frequency",
+                "current": "atwill",
+                "max": "",
+                "id": "-Mt1MVbV-4Fx0DadIuJE"
+            },
+            {
+                "name": "repeating_moves_-Mt1LnCQcbnzJAZXCOAK_move_dicenumber",
+                "current": "1",
+                "max": "",
+                "id": "-Mt1MVbWzlB9gI-c0Ay_"
+            },
+            {
+                "name": "repeating_moves_-Mt1LnCQcbnzJAZXCOAK_damage_dice",
+                "current": "12",
+                "max": "",
+                "id": "-Mt1MVbWzlB9gI-c0Aya"
+            },
+            {
+                "name": "repeating_moves_-Mt1LnCQcbnzJAZXCOAK_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mt1MVbXZRTiZ_U9RI0g"
+            },
+            {
+                "name": "repeating_moves_-Mt1LnCQcbnzJAZXCOAK_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mt1MVbYLlZHaDJFolzj"
+            },
+            {
+                "name": "notes",
+                "current": "Proficiencies: Fairy / Grass / Floral",
+                "max": "",
+                "id": "-Mt1MVbYLlZHaDJFolzk"
+            },
+            {
+                "name": "repeating_moves_-Mt1LnCQcbnzJAZXCOAK_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt1MVbbHRNqerNUj6hw"
+            },
+            {
+                "name": "repeating_moves_-Mt1LnCQcbnzJAZXCOAK_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt1MVbcLVfnRYZo0fK4"
+            },
+            {
+                "name": "repeating_moves_-Mt1MB3LZOX2CQAOKPUF_move_name",
+                "current": "Wish",
+                "max": "",
+                "id": "-Mt1MVbcLVfnRYZo0fK5"
+            },
+            {
+                "name": "repeating_moves_-Mt1MB3LZOX2CQAOKPUF_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-Mt1MVbdEIa7c_RGOIt-"
+            },
+            {
+                "name": "repeating_moves_-Mt1MB3LZOX2CQAOKPUF_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-Mt1MVbefos-scCX_suV"
+            },
+            {
+                "name": "repeating_moves_-Mt1MB3LZOX2CQAOKPUF_move_category",
+                "current": "3",
+                "max": "",
+                "id": "-Mt1MVbfCWWS9KsemZaP"
+            },
+            {
+                "name": "repeating_moves_-Mt1MB3LZOX2CQAOKPUF_move_category_defense",
+                "current": "Speed",
+                "max": "",
+                "id": "-Mt1MVbgpcfVjnVSRvTS"
+            },
+            {
+                "name": "repeating_moves_-Mt1MB3LZOX2CQAOKPUF_move_totaldamage",
+                "current": 0,
+                "max": "",
+                "id": "-Mt1MVbhAaC31LFzYjR5"
+            },
+            {
+                "name": "repeating_moves_-Mt1MB3LZOX2CQAOKPUF_move_totaldamage_display",
+                "current": "0",
+                "max": "",
+                "id": "-Mt1MVbixk4ZAXrn9wNr"
+            },
+            {
+                "name": "repeating_moves_-Mt1MB3LZOX2CQAOKPUF_move_totalaccuracy",
+                "current": 4,
+                "max": "",
+                "id": "-Mt1MVbixk4ZAXrn9wNs"
+            },
+            {
+                "name": "repeating_moves_-Mt1MB3LZOX2CQAOKPUF_move_totalaccuracy_display",
+                "current": "d20 + 4",
+                "max": "",
+                "id": "-Mt1MVbjkP_RSS_qxgLC"
+            },
+            {
+                "name": "repeating_moves_-Mt1MB3LZOX2CQAOKPUF_move_frequency",
+                "current": "3day",
+                "max": "",
+                "id": "-Mt1MVbjkP_RSS_qxgLD"
+            },
+            {
+                "name": "repeating_moves_-Mt1MB3LZOX2CQAOKPUF_move_dicenumber",
+                "current": "0",
+                "max": "",
+                "id": "-Mt1MVbkITqogfcS56Xk"
+            },
+            {
+                "name": "repeating_moves_-Mt1MB3LZOX2CQAOKPUF_move_effect",
+                "current": "Target an ally or yourself. After the target acts during the next round, they are healed HP equal to half of the target’s Max HP.",
+                "max": "",
+                "id": "-Mt1MVbl77ndSreFEOHs"
+            },
+            {
+                "name": "repeating_moves_-Mt1MB3LZOX2CQAOKPUF_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mt1MVbmjbUS2K8BACRa"
+            },
+            {
+                "name": "repeating_moves_-Mt1MB3LZOX2CQAOKPUF_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mt1MVbmjbUS2K8BACRb"
+            },
+            {
+                "name": "repeating_moves_-Mt1MPhRoPFxrO8SAYui_move_name",
+                "current": "Aromatherapy",
+                "max": "",
+                "id": "-Mt1MVc0Pw4XCeLtafhL"
+            },
+            {
+                "name": "repeating_moves_-Mt1MPhRoPFxrO8SAYui_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-Mt1MVc0Pw4XCeLtafhM"
+            },
+            {
+                "name": "repeating_moves_-Mt1MPhRoPFxrO8SAYui_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-Mt1MVc14Xqf-nNM45PP"
+            },
+            {
+                "name": "repeating_moves_-Mt1MPhRoPFxrO8SAYui_move_type",
+                "current": "grass",
+                "max": "",
+                "id": "-Mt1MVc3Wp4wC5LRoShx"
+            },
+            {
+                "name": "repeating_moves_-Mt1MPhRoPFxrO8SAYui_move_totaldamage",
+                "current": 0,
+                "max": "",
+                "id": "-Mt1MVc4rQbUO_v2XxY-"
+            },
+            {
+                "name": "repeating_moves_-Mt1MPhRoPFxrO8SAYui_move_totaldamage_display",
+                "current": "0",
+                "max": "",
+                "id": "-Mt1MVc4rQbUO_v2XxY0"
+            },
+            {
+                "name": "repeating_moves_-Mt1MPhRoPFxrO8SAYui_move_category",
+                "current": "3",
+                "max": "",
+                "id": "-Mt1MVc59VWVVMepgIMk"
+            },
+            {
+                "name": "repeating_moves_-Mt1MPhRoPFxrO8SAYui_move_category_defense",
+                "current": "Speed",
+                "max": "",
+                "id": "-Mt1MVc6lUdGotfEgK8w"
+            },
+            {
+                "name": "repeating_moves_-Mt1MPhRoPFxrO8SAYui_move_totalaccuracy",
+                "current": 4,
+                "max": "",
+                "id": "-Mt1MVc7jqpMpH6ryIPC"
+            },
+            {
+                "name": "repeating_moves_-Mt1MPhRoPFxrO8SAYui_move_totalaccuracy_display",
+                "current": "d20 + 4",
+                "max": "",
+                "id": "-Mt1MVc8LkV1TimnPh3t"
+            },
+            {
+                "name": "repeating_moves_-Mt1MPhRoPFxrO8SAYui_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-Mt1MVc9aNwZ65VhGGTj"
+            },
+            {
+                "name": "repeating_moves_-Mt1MPhRoPFxrO8SAYui_move_dicenumber",
+                "current": "0",
+                "max": "",
+                "id": "-Mt1MVcBrfiL2AVuCu_x"
+            },
+            {
+                "name": "repeating_moves_-Mt1MPhRoPFxrO8SAYui_move_effect",
+                "current": "Target an ally or yourself. Target is cured of all afflictions.",
+                "max": "",
+                "id": "-Mt1MVcCg5_-Xn7WF_mU"
+            },
+            {
+                "name": "repeating_moves_-Mt1MPhRoPFxrO8SAYui_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mt1MVcDcyC9sS2KPQL5"
+            },
+            {
+                "name": "repeating_moves_-Mt1MPhRoPFxrO8SAYui_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mt1MVcEMlzkXI7tq6Rg"
+            },
+            {
+                "name": "repeating_moves_-Mt1MB3LZOX2CQAOKPUF_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt1MXdaaw0VWJtcX6Uu"
+            },
+            {
+                "name": "repeating_moves_-Mt1MB3LZOX2CQAOKPUF_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt1MXdh3ninEulzPRki"
+            },
+            {
+                "name": "repeating_moves_-Mt1MPhRoPFxrO8SAYui_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt1MXe2I7a26PErXOD6"
+            },
+            {
+                "name": "repeating_moves_-Mt1MPhRoPFxrO8SAYui_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt1MXe7ty0gxsvUAcuN"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mn3cE2y1vYCDkvAw_move_name",
+                "current": "Moonblast",
+                "max": "",
+                "id": "-Mt1Mo76lTVKzuKWfx0p"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mn3cE2y1vYCDkvAw_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-Mt1MoD-knqirEUVddkH"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mn3cE2y1vYCDkvAw_move_range",
+                "current": "Ranged (20 ft)",
+                "max": "",
+                "id": "-Mt1MpaPp2GjvWJSsoc3"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mn3cE2y1vYCDkvAw_move_type",
+                "current": "fairy",
+                "max": "",
+                "id": "-Mt1MpeW-zpfCVPjBblP"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mn3cE2y1vYCDkvAw_move_totaldamage",
+                "current": 9,
+                "max": "",
+                "id": "-Mt1MpgHmnmeAJ3kEpKQ"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mn3cE2y1vYCDkvAw_move_totaldamage_display",
+                "current": "3d10 + 9",
+                "max": "",
+                "id": "-Mt1MpgLpxLnT9t2-o9S"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mn3cE2y1vYCDkvAw_move_category",
+                "current": "2",
+                "max": "",
+                "id": "-Mt1MpptQTjcgUV9bh7D"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mn3cE2y1vYCDkvAw_move_category_defense",
+                "current": "Special Defense",
+                "max": "",
+                "id": "-Mt1MprhFnSJDW0WJxOI"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mn3cE2y1vYCDkvAw_move_totalaccuracy",
+                "current": 5,
+                "max": "",
+                "id": "-Mt1MprzSP9iyKiVdHxo"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mn3cE2y1vYCDkvAw_move_totalaccuracy_display",
+                "current": "d20 + 5",
+                "max": "",
+                "id": "-Mt1Mps2owQ50RZZl680"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mn3cE2y1vYCDkvAw_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-Mt1Mq0XJQ7Gm2esjH2w"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mn3cE2y1vYCDkvAw_move_dicenumber",
+                "current": "3",
+                "max": "",
+                "id": "-Mt1MqBHoXChg-fMzluy"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mn3cE2y1vYCDkvAw_damage_dice",
+                "current": "10",
+                "max": "",
+                "id": "-Mt1MqGftSqJHYRJ8s-c"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mn3cE2y1vYCDkvAw_move_effect",
+                "current": "On hit, the target’s Special Attack is -1 for 10 mins. This effect cannot be stacked.",
+                "max": "",
+                "id": "-Mt1MstRsIiPEW3eS4ay"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mn3cE2y1vYCDkvAw_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mt1MsvH77ir9yWhSFk7"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mn3cE2y1vYCDkvAw_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mt1Msx8Qttq2xoRHzjw"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mt7RrzBoQuGCs6bn_move_name",
+                "current": "Petal Dance",
+                "max": "",
+                "id": "-Mt1Mu1o_i8GwTGbecvn"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mt7RrzBoQuGCs6bn_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-Mt1Mu71Xjc5SrBVqPKw"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mt7RrzBoQuGCs6bn_move_range",
+                "current": "Ranged (5 ft burst)",
+                "max": "",
+                "id": "-Mt1Mvpdd2Z7c6csAQmS"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mt7RrzBoQuGCs6bn_move_type",
+                "current": "grass",
+                "max": "",
+                "id": "-Mt1Mvuys6Lavi3l46sY"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mt7RrzBoQuGCs6bn_move_totaldamage",
+                "current": 5,
+                "max": "",
+                "id": "-Mt1MvwoN7JyWsiIBpAX"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mt7RrzBoQuGCs6bn_move_totaldamage_display",
+                "current": "5d12 + 5",
+                "max": "",
+                "id": "-Mt1MvwtunkooCpohBLv"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mt7RrzBoQuGCs6bn_move_category",
+                "current": "2",
+                "max": "",
+                "id": "-Mt1Mw8HX5SiPIKGVHAF"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mt7RrzBoQuGCs6bn_move_category_defense",
+                "current": "Special Defense",
+                "max": "",
+                "id": "-Mt1MwA8jDzdAYCP8DeE"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mt7RrzBoQuGCs6bn_move_totalaccuracy",
+                "current": 5,
+                "max": "",
+                "id": "-Mt1MwAmKDUoW4JHtxo6"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mt7RrzBoQuGCs6bn_move_totalaccuracy_display",
+                "current": "d20 + 5",
+                "max": "",
+                "id": "-Mt1MwApyG8Yzd2MlPZ4"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mt7RrzBoQuGCs6bn_move_frequency",
+                "current": "3day",
+                "max": "",
+                "id": "-Mt1MwL8JUTlLX1U17oZ"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mt7RrzBoQuGCs6bn_move_dicenumber",
+                "current": "5",
+                "max": "",
+                "id": "-Mt1MxmyVNqpDsfCJxhc"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mt7RrzBoQuGCs6bn_damage_dice",
+                "current": "12",
+                "max": "",
+                "id": "-Mt1MxrnWHeJDEIYas77"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mt7RrzBoQuGCs6bn_move_effect",
+                "current": "Move to and attack the nearest possible target within 25ft. During your next action, move to and attack the nearest possible target within 25ft, then you become Confused. Petal Dance can and will target allies if possible.",
+                "max": "",
+                "id": "-Mt1N17p0RAKtfVo-JCL"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mt7RrzBoQuGCs6bn_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mt1N181qwUSbEkw05p-"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mt7RrzBoQuGCs6bn_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mt1N19z6ebcAccqLGhH"
+            },
+            {
+                "name": "repeating_moves_-Mt1N1QZUY3ZKZk6axxM_move_name",
+                "current": "Solar Beam",
+                "max": "",
+                "id": "-Mt1N2FAZ8fazK382Q16"
+            },
+            {
+                "name": "repeating_moves_-Mt1N1QZUY3ZKZk6axxM_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-Mt1N2KWtxCy2ta9wxOx"
+            },
+            {
+                "name": "repeating_moves_-Mt1N1QZUY3ZKZk6axxM_move_range",
+                "current": "Ranged (30 ft beam)",
+                "max": "",
+                "id": "-Mt1N45X0-ofu6esYcnm"
+            },
+            {
+                "name": "repeating_moves_-Mt1N1QZUY3ZKZk6axxM_move_type",
+                "current": "grass",
+                "max": "",
+                "id": "-Mt1N4EKKMnLEwbKNfgQ"
+            },
+            {
+                "name": "repeating_moves_-Mt1N1QZUY3ZKZk6axxM_move_totaldamage",
+                "current": 5,
+                "max": "",
+                "id": "-Mt1N4GJkOj6NUzkeSV2"
+            },
+            {
+                "name": "repeating_moves_-Mt1N1QZUY3ZKZk6axxM_move_totaldamage_display",
+                "current": "5d12 + 5",
+                "max": "",
+                "id": "-Mt1N4GOtvLUUTXQIpy8"
+            },
+            {
+                "name": "repeating_moves_-Mt1N1QZUY3ZKZk6axxM_move_category",
+                "current": "2",
+                "max": "",
+                "id": "-Mt1N4QtzYv5j5BP_WQr"
+            },
+            {
+                "name": "repeating_moves_-Mt1N1QZUY3ZKZk6axxM_move_category_defense",
+                "current": "Special Defense",
+                "max": "",
+                "id": "-Mt1N4SrF2ENkaN5bBFG"
+            },
+            {
+                "name": "repeating_moves_-Mt1N1QZUY3ZKZk6axxM_move_totalaccuracy",
+                "current": 5,
+                "max": "",
+                "id": "-Mt1N4T6632U_IxQLk8S"
+            },
+            {
+                "name": "repeating_moves_-Mt1N1QZUY3ZKZk6axxM_move_totalaccuracy_display",
+                "current": "d20 + 5",
+                "max": "",
+                "id": "-Mt1N4TB1_MsDYYb-DLx"
+            },
+            {
+                "name": "repeating_moves_-Mt1N1QZUY3ZKZk6axxM_move_frequency",
+                "current": "3day",
+                "max": "",
+                "id": "-Mt1N4YRTDKIOBgkJrnc"
+            },
+            {
+                "name": "repeating_moves_-Mt1N1QZUY3ZKZk6axxM_move_dicenumber",
+                "current": "5",
+                "max": "",
+                "id": "-Mt1N5-rupByfoCTffX9"
+            },
+            {
+                "name": "repeating_moves_-Mt1N1QZUY3ZKZk6axxM_damage_dice",
+                "current": "12",
+                "max": "",
+                "id": "-Mt1N55M49XboT1QK9ht"
+            },
+            {
+                "name": "repeating_moves_-Mt1N1QZUY3ZKZk6axxM_move_effect",
+                "current": "When you use this attack you immediately end your turn unless it’s Sunny. During your next turn, or immediately if it’s Sunny, you may target with and roll Solar Beam’s Accuracy Check and damage.",
+                "max": "",
+                "id": "-Mt1NACpIW_VWTcnkVV1"
+            },
+            {
+                "name": "repeating_moves_-Mt1N1QZUY3ZKZk6axxM_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mt1NAEAHPc1UbIyZpWl"
+            },
+            {
+                "name": "repeating_moves_-Mt1N1QZUY3ZKZk6axxM_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mt1NAGHd69VkENVOPQQ"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mn3cE2y1vYCDkvAw_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-MxaptwbBA-4tBA-57jR"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mn3cE2y1vYCDkvAw_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mxaptweb1MF-CxA17pz"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mt7RrzBoQuGCs6bn_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-MxaptwgshIvGUgOJaqi"
+            },
+            {
+                "name": "repeating_moves_-Mt1Mt7RrzBoQuGCs6bn_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mxaptwi4QrVe-N-Y_ED"
+            },
+            {
+                "name": "repeating_moves_-Mt1N1QZUY3ZKZk6axxM_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mxaptwkz3zGjecJ8pYV"
+            },
+            {
+                "name": "repeating_moves_-Mt1N1QZUY3ZKZk6axxM_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MxaptwmHA0zzH-pvWlX"
+            },
+            {
+                "name": "pokemon_sex",
+                "current": "100% female",
+                "max": "",
+                "id": "-MxaqRdg3m7vkJnMuykK"
+            }
+        ],
+        "abilities": []
+    }
+}

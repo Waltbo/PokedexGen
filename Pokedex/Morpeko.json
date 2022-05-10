@@ -1,0 +1,810 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-MrVT6FDkep-ziKqYtE7",
+        "name": "Morpeko",
+        "avatar": "https://s3.amazonaws.com/files.d20.io/images/274498541/oDzDHwZIHcLB0HY0VH8b6g/med.jpg?1646690094",
+        "bio": "%3Cp%3EMorpeko%20appear%20to%20be%20adorable%2C%20docile%20rodents%20as%20they%20scurry%0Aabout%20pleasant%20grasslands%20and%20fields.%20However%2C%20when%20their%20stomachs%20begin%20growling%2C%20they%20turn%20into%20different%20beasts%20entirely.%0AHangry%20Mode%20Morpeko%2C%20as%20they%20are%20called%2C%20are%20absolute%20menaces%2C%20terrorizing%20everything%20around%20them%20as%20they%20search%20for%20food.%0AThey%20are%20not%20above%20acts%20of%20brutal%20violence%20against%20those%20standing%0Abetween%20them%20and%20sustenance.%20Once%20Morpeko%20nourish%20themselves%2C%20they%20will%20revert%20back%20to%20their%20Full%20Belly%20Modes--but%20not%20for%0Along%2C%20as%20their%20high%20metabolisms%20mean%20that%20these%20Pok%E9mon%20will%0Aget%20hungry%20quite%20frequently.%20Morpeko%20generate%20electricity%20by%0Astuffing%20seeds%20into%20their%20cheek%20sacs%3B%20when%20in%20Hangry%20Mode%2C%20this%0Apower%20is%20mysteriously%20converted%20into%20a%20Dark-type%20energy%20that%0Acan%20sometimes%20be%20seen%20radiating%20from%20their%20cheeks.%20Morpeko%0Awill%20roast%20these%20seeds%20with%20electricity%20to%20make%20them%20easier%20to%0Adigest.%20Even%20in%20Full%20Belly%20mode%2C%20they%20can%20be%20very%20protective%20of%0Atheir%20food%20stores.%20%3C/p%3E",
+        "gmnotes": "",
+        "defaulttoken": "{\"left\":2135,\"top\":1925,\"width\":70,\"height\":70,\"imgsrc\":\"https://s3.amazonaws.com/files.d20.io/images/274498929/8nlI2YfhyziAvohjyoiAsg/med.jpg?1646690277\",\"page_id\":\"-MYWp6jllc7YsYqj_slP\",\"layer\":\"objects\",\"show_tooltip\":false,\"sides\":\"https%3A//s3.amazonaws.com/files.d20.io/images/274498929/8nlI2YfhyziAvohjyoiAsg/med.jpg%3F1646690277|https%3A//s3.amazonaws.com/files.d20.io/images/274499004/txY2JQkXkE1n403BTxDJhA/med.jpg%3F1646690313\",\"lastmove\":\"2137,1920\"}",
+        "tags": "[\"Electric\",\"Dark\",\"Field\",\"Grassland\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "atknature",
+                "current": 0,
+                "max": "",
+                "id": "-MrVT83BylRLk02HPwwZ"
+            },
+            {
+                "name": "defnature",
+                "current": 0,
+                "max": "",
+                "id": "-MrVT83HLZDrazwWIDCE"
+            },
+            {
+                "name": "spatknature",
+                "current": 0,
+                "max": "",
+                "id": "-MrVT83MhnWlqE2r7Ff5"
+            },
+            {
+                "name": "spdefnature",
+                "current": 0,
+                "max": "",
+                "id": "-MrVT83Rqx80rlsjyBrU"
+            },
+            {
+                "name": "spdnature",
+                "current": 0,
+                "max": "",
+                "id": "-MrVT83W5hRhF8mjyX5n"
+            },
+            {
+                "name": "afflictions_text",
+                "current": "",
+                "max": "",
+                "id": "-MrVT83r7_nZJinD8FhO"
+            },
+            {
+                "name": "capture_total",
+                "current": 6,
+                "max": "",
+                "id": "-MrVT83yybt-506PHSKg"
+            },
+            {
+                "name": "capture_display",
+                "current": "+5",
+                "max": "",
+                "id": "-MrVT84Dpml371DNoc1t"
+            },
+            {
+                "name": "capture_roll_total",
+                "current": 5,
+                "max": "",
+                "id": "-MrVT84HYp20nuYvYAb5"
+            },
+            {
+                "name": "nature",
+                "current": 0,
+                "max": "",
+                "id": "-MrVT84ceDZiWlUVmRAD"
+            },
+            {
+                "name": "nature-type",
+                "current": "0",
+                "max": "",
+                "id": "-MrVT84gr8hkRInyXvLU"
+            },
+            {
+                "name": "atkbase",
+                "current": "11",
+                "max": "",
+                "id": "-MrVT84kmgyrLCetxzo4"
+            },
+            {
+                "name": "defbase",
+                "current": "6",
+                "max": "",
+                "id": "-MrVT84p2g6pv77YthuT"
+            },
+            {
+                "name": "spatkbase",
+                "current": "7",
+                "max": "",
+                "id": "-MrVT84uzJWv3e9n66E1"
+            },
+            {
+                "name": "spdefbase",
+                "current": "6",
+                "max": "",
+                "id": "-MrVT84y8hzFV-MYQASq"
+            },
+            {
+                "name": "spdbase",
+                "current": "12",
+                "max": "",
+                "id": "-MrVT851cLOlY3EDhqfz"
+            },
+            {
+                "name": "acrobatics_total",
+                "current": 6,
+                "max": "",
+                "id": "-MrVT85X753eiONTDm9h"
+            },
+            {
+                "name": "athletics_total",
+                "current": 5,
+                "max": "",
+                "id": "-MrVT85ombb9NIek3dhD"
+            },
+            {
+                "name": "bluff_total",
+                "current": 3,
+                "max": "",
+                "id": "-MrVT864q8J1Jjr1RLPt"
+            },
+            {
+                "name": "concentration_total",
+                "current": 3,
+                "max": "",
+                "id": "-MrVT86S9q2BWtKwEWQs"
+            },
+            {
+                "name": "constitution_total",
+                "current": 3,
+                "max": "",
+                "id": "-MrVT86Z7KpZgtSDFb4A"
+            },
+            {
+                "name": "diplomacy_total",
+                "current": 3,
+                "max": "",
+                "id": "-MrVT86zHUHr1MLqhCkt"
+            },
+            {
+                "name": "engineering_total",
+                "current": 3,
+                "max": "",
+                "id": "-MrVT87JiHwXe-EudovM"
+            },
+            {
+                "name": "history_total",
+                "current": 3,
+                "max": "",
+                "id": "-MrVT87NJYHokQICoTZt"
+            },
+            {
+                "name": "insight_total",
+                "current": 3,
+                "max": "",
+                "id": "-MrVT87T_IPmV1kyu4cJ"
+            },
+            {
+                "name": "investigate_total",
+                "current": 3,
+                "max": "",
+                "id": "-MrVT87_oUXgj5PbVZeo"
+            },
+            {
+                "name": "medicine_total",
+                "current": 3,
+                "max": "",
+                "id": "-MrVT87d7VhUK5MrxMmZ"
+            },
+            {
+                "name": "nature_total",
+                "current": 3,
+                "max": "",
+                "id": "-MrVT87va7c3EjJTSb7_"
+            },
+            {
+                "name": "perception_total",
+                "current": 3,
+                "max": "",
+                "id": "-MrVT88BxlWD1bhSrxtw"
+            },
+            {
+                "name": "perform_total",
+                "current": 3,
+                "max": "",
+                "id": "-MrVT88YWaF9_54ihCS7"
+            },
+            {
+                "name": "handling_total",
+                "current": 3,
+                "max": "",
+                "id": "-MrVT88dbVwGerwv-Siq"
+            },
+            {
+                "name": "programming_total",
+                "current": 3,
+                "max": "",
+                "id": "-MrVT88vXXR7CliozSGQ"
+            },
+            {
+                "name": "sleightofhand_total",
+                "current": 6,
+                "max": "",
+                "id": "-MrVT89KuCLO4mask7H_"
+            },
+            {
+                "name": "stealth_total",
+                "current": 6,
+                "max": "",
+                "id": "-MrVT89Qh71gkvZzo_eD"
+            },
+            {
+                "name": "selected-page",
+                "current": "character-page",
+                "max": "",
+                "id": "-MrVT8YPZHwGshYBTND1"
+            },
+            {
+                "name": "character-type",
+                "current": "pokemon",
+                "max": "",
+                "id": "-MrVT8pUuxuGdQuym3mN"
+            },
+            {
+                "name": "species",
+                "current": "Morpeko",
+                "max": "",
+                "id": "-MrVTRLUT4dXoYgSQMx7"
+            },
+            {
+                "name": "type1",
+                "current": "electric",
+                "max": "",
+                "id": "-MrVTRgKHatCEjJYVeBg"
+            },
+            {
+                "name": "type2",
+                "current": "dark",
+                "max": "",
+                "id": "-MrVTRsDchncBuCOz6jV"
+            },
+            {
+                "name": "size",
+                "current": "Small",
+                "max": "",
+                "id": "-MrVTSiIPt2KXFHzM9zL"
+            },
+            {
+                "name": "weight",
+                "current": "Light",
+                "max": "",
+                "id": "-MrVTT-YXWSoecVH-pjC"
+            },
+            {
+                "name": "egg_group",
+                "current": "Field / Fairy-10 days",
+                "max": "",
+                "id": "-MrVTU3TPABr4SDq9RSs"
+            },
+            {
+                "name": "diet",
+                "current": "Herbivore",
+                "max": "",
+                "id": "-MrVTVBXMp0bAYTUj66c"
+            },
+            {
+                "name": "HP",
+                "current": "36",
+                "max": "36",
+                "id": "-MrVTVoIB9jJtQSTey0a"
+            },
+            {
+                "name": "ATK",
+                "current": 11,
+                "max": "",
+                "id": "-MrVTXyS7tPpoSjlDuj2"
+            },
+            {
+                "name": "ATKMOD",
+                "current": 5,
+                "max": "",
+                "id": "-MrVTXyXa0Vf8fJ3boaZ"
+            },
+            {
+                "name": "DEF",
+                "current": 6,
+                "max": "",
+                "id": "-MrVTY78Bqk0FdLfnWMd"
+            },
+            {
+                "name": "DEFMOD",
+                "current": 3,
+                "max": "",
+                "id": "-MrVTY7D6sjlx7G64xCU"
+            },
+            {
+                "name": "SPATK",
+                "current": 7,
+                "max": "",
+                "id": "-MrVTYDSKz2nlGB3-foW"
+            },
+            {
+                "name": "SPATKMOD",
+                "current": 3,
+                "max": "",
+                "id": "-MrVTYDV52m6yDTkpXY3"
+            },
+            {
+                "name": "SPDEF",
+                "current": 6,
+                "max": "",
+                "id": "-MrVTYJ2rgZ7ClQgxlJE"
+            },
+            {
+                "name": "SPDEFMOD",
+                "current": 3,
+                "max": "",
+                "id": "-MrVTYJ6pf5vicg00oF-"
+            },
+            {
+                "name": "SPD",
+                "current": 12,
+                "max": "",
+                "id": "-MrVTYUgXzErPJqZ2Ta6"
+            },
+            {
+                "name": "SPDMOD",
+                "current": 6,
+                "max": "",
+                "id": "-MrVTYUjh2OEQ2ky2-XM"
+            },
+            {
+                "name": "movement",
+                "current": 60,
+                "max": "",
+                "id": "-MrVTYUnEGsZtMqbPAOf"
+            },
+            {
+                "name": "pokemonskills",
+                "current": "Zapper (can produce electricity)",
+                "max": "",
+                "id": "-MrVTaOefNSKbDx2OdX8"
+            },
+            {
+                "name": "statpassives",
+                "current": "Agility (+2 Speed)\nLeer (+1 Attack)",
+                "max": "",
+                "id": "-MrVTcOgjmR2BisDyT-N"
+            },
+            {
+                "name": "otherpassives",
+                "current": "Hunger Switch (Whenever Morpeko acts, it changes from Full Belly mode to Hangry mode or back into Full Belly mode from Hangry mode. Aura Wheel is Electric-type in Full Belly mode, Aura Wheel is Dark-type in Hangry mode.)\n",
+                "max": "",
+                "id": "-MrVTkKA4QgLeKPAsX89"
+            },
+            {
+                "name": "repeating_moves_-MrVTkVV81N2rvZn232g_move_name",
+                "current": "Quick Attack",
+                "max": "",
+                "id": "-MrVTlGKyzriw-6MW7yZ"
+            },
+            {
+                "name": "repeating_moves_-MrVTkVV81N2rvZn232g_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MrVTlM3BKFXL0x-yl76"
+            },
+            {
+                "name": "repeating_moves_-MrVTkVV81N2rvZn232g_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-MrVTly6qpa0uS_5vDTV"
+            },
+            {
+                "name": "repeating_moves_-MrVTkVV81N2rvZn232g_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-MrVTmA-jjHwvSgU_0Bj"
+            },
+            {
+                "name": "repeating_moves_-MrVTkVV81N2rvZn232g_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-MrVTmBrfbtXFj-dj6wJ"
+            },
+            {
+                "name": "repeating_moves_-MrVTkVV81N2rvZn232g_move_totaldamage",
+                "current": 5,
+                "max": "",
+                "id": "-MrVTmBvwCodeHqD40pw"
+            },
+            {
+                "name": "repeating_moves_-MrVTkVV81N2rvZn232g_move_totaldamage_display",
+                "current": "2d6 + 5",
+                "max": "",
+                "id": "-MrVTmC-TcvTUlDUqwOe"
+            },
+            {
+                "name": "repeating_moves_-MrVTkVV81N2rvZn232g_move_totalaccuracy",
+                "current": 5,
+                "max": "",
+                "id": "-MrVTmCL2lTFkoe8yFEu"
+            },
+            {
+                "name": "repeating_moves_-MrVTkVV81N2rvZn232g_move_totalaccuracy_display",
+                "current": "d20 + 5",
+                "max": "",
+                "id": "-MrVTmCPvMr-2a3SsNk6"
+            },
+            {
+                "name": "repeating_moves_-MrVTkVV81N2rvZn232g_move_frequency",
+                "current": "atwill",
+                "max": "",
+                "id": "-MrVTmHIB9zbX3rLnHfT"
+            },
+            {
+                "name": "repeating_moves_-MrVTkVV81N2rvZn232g_move_dicenumber",
+                "current": "2",
+                "max": "",
+                "id": "-MrVTmfgg0fFsD_8GGMW"
+            },
+            {
+                "name": "repeating_moves_-MrVTkVV81N2rvZn232g_damage_dice",
+                "current": "6",
+                "max": "",
+                "id": "-MrVTmkhCweXBcZAAKyv"
+            },
+            {
+                "name": "repeating_moves_-MrVTkVV81N2rvZn232g_move_effect",
+                "current": "Quick Attack has Priority.",
+                "max": "",
+                "id": "-MrVTp3dX3OdrvefdHtV"
+            },
+            {
+                "name": "repeating_moves_-MrVTkVV81N2rvZn232g_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MrVTp50DF7aKH_cuHoa"
+            },
+            {
+                "name": "repeating_moves_-MrVTkVV81N2rvZn232g_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MrVTp6rg-1uJhhQCc2F"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_move_name",
+                "current": "Spark",
+                "max": "",
+                "id": "-MrVTpj2QRBkp6IgTCEn"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MrVTpocvYOAPa9N3FmQ"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-MrVTqFphrCOOaManXwg"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_move_type",
+                "current": "electric",
+                "max": "",
+                "id": "-MrVTqJvIw4eHt6lP_UI"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_move_totaldamage",
+                "current": 9,
+                "max": "",
+                "id": "-MrVTqLoc3gLmb5pDHLG"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_move_totaldamage_display",
+                "current": "3d8 + 9",
+                "max": "",
+                "id": "-MrVTqLtvExKruv1ZGUZ"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-MrVTqRN1iM0KtBo09Nb"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-MrVTqTESsZ8c9Fw-4-D"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_move_totalaccuracy",
+                "current": 5,
+                "max": "",
+                "id": "-MrVTqTOfoBoRNX9YM4r"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_move_totalaccuracy_display",
+                "current": "d20 + 5",
+                "max": "",
+                "id": "-MrVTqTS-I24oW7Cmhd-"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-MrVTqZz8dn9GMfqjoq8"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_move_dicenumber",
+                "current": "3",
+                "max": "",
+                "id": "-MrVTqiAVuCW_mZ2S20h"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_damage_dice",
+                "current": "8",
+                "max": "",
+                "id": "-MrVTqn48PxfVASNXCSv"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_move_effect",
+                "current": "On hit, if you got 14 or higher on Accuracy Check, the target is Paralyzed.",
+                "max": "",
+                "id": "-MrVTsfxfh_eU8XdIx1h"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_move_effect1_threshold",
+                "current": "14",
+                "max": "",
+                "id": "-MrVTt8bn-dHFyPNtcXs"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_move_effect1",
+                "current": "7",
+                "max": "",
+                "id": "-MrVTtPPgtqjVGQffrbZ"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_move_effect1_name",
+                "current": "Paralyzed",
+                "max": "",
+                "id": "-MrVTtRBSl5P3oa1nqUV"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MrVTtRGesVUzlx9g-bm"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MrVTtok6L3bdSnOIN2U"
+            },
+            {
+                "name": "repeating_moves_-MrVTpD6Cj4XsCobObZ-_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MrVTtqapqqOIWmHvYkp"
+            },
+            {
+                "name": "repeating_moves_-MrVTu1wDTS2TYW1vOWT_move_name",
+                "current": "Aura Wheel (Full Belly)",
+                "max": "",
+                "id": "-MrVTyQJN9zf6t7z4QF-"
+            },
+            {
+                "name": "repeating_moves_-MrVTu1wDTS2TYW1vOWT_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MrVTyW73ANvvuguaV8H"
+            },
+            {
+                "name": "repeating_moves_-MrVTu1wDTS2TYW1vOWT_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-MrVTz6bjMr_mnyzCnCF"
+            },
+            {
+                "name": "repeating_moves_-MrVTu1wDTS2TYW1vOWT_move_type",
+                "current": "electric",
+                "max": "",
+                "id": "-MrVTzJzaClkTehC0A3L"
+            },
+            {
+                "name": "repeating_moves_-MrVTu1wDTS2TYW1vOWT_move_totaldamage",
+                "current": 9,
+                "max": "",
+                "id": "-MrVTzLs7dYLKfgJSHqr"
+            },
+            {
+                "name": "repeating_moves_-MrVTu1wDTS2TYW1vOWT_move_totaldamage_display",
+                "current": "5d12 + 9",
+                "max": "",
+                "id": "-MrVTzLx-80FTkG0ZpbU"
+            },
+            {
+                "name": "repeating_moves_-MrVTu1wDTS2TYW1vOWT_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-MrVTzi_JkHbrjKIzSrJ"
+            },
+            {
+                "name": "repeating_moves_-MrVTu1wDTS2TYW1vOWT_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-MrVTzkVUZMnXyWRlMyY"
+            },
+            {
+                "name": "repeating_moves_-MrVTu1wDTS2TYW1vOWT_move_totalaccuracy",
+                "current": 5,
+                "max": "",
+                "id": "-MrVTzkfkc-CYa8cYqRf"
+            },
+            {
+                "name": "repeating_moves_-MrVTu1wDTS2TYW1vOWT_move_totalaccuracy_display",
+                "current": "d20 + 5",
+                "max": "",
+                "id": "-MrVTzkjp8nA9VDoDFgd"
+            },
+            {
+                "name": "repeating_moves_-MrVTu1wDTS2TYW1vOWT_move_frequency",
+                "current": "3day",
+                "max": "",
+                "id": "-MrVU-11Dq_qgC6S_aYf"
+            },
+            {
+                "name": "repeating_moves_-MrVTu1wDTS2TYW1vOWT_move_dicenumber",
+                "current": "5",
+                "max": "",
+                "id": "-MrVU-WGV6SNiWCMq3sJ"
+            },
+            {
+                "name": "repeating_moves_-MrVTu1wDTS2TYW1vOWT_damage_dice",
+                "current": "12",
+                "max": "",
+                "id": "-MrVU-bW_vK8-eTzYZy1"
+            },
+            {
+                "name": "repeating_moves_-MrVTu1wDTS2TYW1vOWT_move_effect",
+                "current": "On hit, your Attack is +1 for 10 mins. This effect cannot be stacked. If you are Hangry, Aura Wheel is Dark-type.",
+                "max": "",
+                "id": "-MrVU7HCJbBLGSzXXuyZ"
+            },
+            {
+                "name": "repeating_moves_-MrVTu1wDTS2TYW1vOWT_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MrVU7IvHE2Et3N4E5w7"
+            },
+            {
+                "name": "repeating_moves_-MrVTu1wDTS2TYW1vOWT_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MrVU7Kj4UWplGHCu9hX"
+            },
+            {
+                "name": "repeating_moves_-MrVU7WZ65vKwcS-wkx5_move_name",
+                "current": "Aura Wheel (Hangry)",
+                "max": "",
+                "id": "-MrVUSakMroP9ONjh7Hd"
+            },
+            {
+                "name": "repeating_moves_-MrVU7WZ65vKwcS-wkx5_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-MrVbNI4ABXGDo9miXN6"
+            },
+            {
+                "name": "repeating_moves_-MrVU7WZ65vKwcS-wkx5_move_type",
+                "current": "dark",
+                "max": "",
+                "id": "-MrVbNf6ZXDxWPGJFGzW"
+            },
+            {
+                "name": "repeating_moves_-MrVU7WZ65vKwcS-wkx5_move_totaldamage",
+                "current": 9,
+                "max": "",
+                "id": "-MrVbNh-zRr-8BTzsoVg"
+            },
+            {
+                "name": "repeating_moves_-MrVU7WZ65vKwcS-wkx5_move_totaldamage_display",
+                "current": "5d12 + 9",
+                "max": "",
+                "id": "-MrVbNh4j_mCZf_AMeaW"
+            },
+            {
+                "name": "repeating_moves_-MrVU7WZ65vKwcS-wkx5_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-MrVbNpA9MvJUYdN5_x3"
+            },
+            {
+                "name": "repeating_moves_-MrVU7WZ65vKwcS-wkx5_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-MrVbNr-LC6MrX8D6laA"
+            },
+            {
+                "name": "repeating_moves_-MrVU7WZ65vKwcS-wkx5_move_totalaccuracy",
+                "current": 5,
+                "max": "",
+                "id": "-MrVbNrASm8V8QxdHWJz"
+            },
+            {
+                "name": "repeating_moves_-MrVU7WZ65vKwcS-wkx5_move_totalaccuracy_display",
+                "current": "d20 + 5",
+                "max": "",
+                "id": "-MrVbNrExwLDL5qMmvh0"
+            },
+            {
+                "name": "repeating_moves_-MrVU7WZ65vKwcS-wkx5_move_frequency",
+                "current": "3day",
+                "max": "",
+                "id": "-MrVbO0gkJPj4WloAjUw"
+            },
+            {
+                "name": "repeating_moves_-MrVU7WZ65vKwcS-wkx5_move_dicenumber",
+                "current": "5",
+                "max": "",
+                "id": "-MrVbOFuZZGqAcxa2xoS"
+            },
+            {
+                "name": "repeating_moves_-MrVU7WZ65vKwcS-wkx5_damage_dice",
+                "current": "12",
+                "max": "",
+                "id": "-MrVbOLOfF-LY90DsLS7"
+            },
+            {
+                "name": "repeating_moves_-MrVU7WZ65vKwcS-wkx5_move_effect",
+                "current": "On hit, your Attack is +1 for 10 mins. This effect cannot be stacked. If you are Hangry, Aura Wheel is Dark-type.",
+                "max": "",
+                "id": "-MrVbTPL-EfZKx9p-ayN"
+            },
+            {
+                "name": "repeating_moves_-MrVU7WZ65vKwcS-wkx5_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MrVbTRZ6B55hh0JsCeX"
+            },
+            {
+                "name": "repeating_moves_-MrVU7WZ65vKwcS-wkx5_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MrVbTTQREQRWG8lrYd-"
+            },
+            {
+                "name": "notes",
+                "current": "Proficiencies: Electric / Dark / Cutesy",
+                "max": "",
+                "id": "-MrVbdz44z6u6GJjwf-8"
+            },
+            {
+                "name": "repeating_moves_-MrVTkVV81N2rvZn232g_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-MxaN4S5kDxEujgQxpPc"
+            },
+            {
+                "name": "repeating_moves_-MrVTkVV81N2rvZn232g_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MxaN4S6Pl621xTDfEV1"
+            },
+            {
+                "name": "repeating_moves_-MrVTu1wDTS2TYW1vOWT_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-MxaN4S9EdZHD2tz6Z8F"
+            },
+            {
+                "name": "repeating_moves_-MrVTu1wDTS2TYW1vOWT_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MxaN4SBZIzK8s1waYks"
+            },
+            {
+                "name": "repeating_moves_-MrVU7WZ65vKwcS-wkx5_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-MxaN4SCNTSx0so36uEe"
+            },
+            {
+                "name": "repeating_moves_-MrVU7WZ65vKwcS-wkx5_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MxaN4SEcBkW33Y2vIqt"
+            },
+            {
+                "name": "pokemon_sex",
+                "current": "50% male, 50% female",
+                "max": "",
+                "id": "-MxaN_PYP4WGd79f1kZE"
+            }
+        ],
+        "abilities": []
+    }
+}

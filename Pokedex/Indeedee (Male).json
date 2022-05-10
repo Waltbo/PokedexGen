@@ -1,0 +1,654 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-Mj3FhuW9XzkLUkedsbk",
+        "name": "Indeedee (Male)",
+        "avatar": "https://s3.amazonaws.com/files.d20.io/images/275848214/D5343TOUdgADCB1Kd11uRQ/med.png?1647408632",
+        "bio": "%3Cp%3ETrained%20Indeedee%20are%20commonly%20employed%20in%20various%20positions%20of%20the%20service%20industry.%20These%20Pok%E9mon%20feed%20on%20positive%0Aemotions%2C%20sending%20and%20absorbing%20them%20through%20their%20horns.%20As%0Asuch%2C%20they%20find%20it%20quite%20convenient%20that%20humans%20tend%20to%20congregate%20in%20cities%20and%20experience%20relief%20and%20gratitude%20when%20services%0Aare%20performed%20for%20them.%20In%20the%20wild%2C%20Indeedee%20will%20partner%20with%0Aother%20species%20to%20take%20care%20of%20nests%20while%20their%20owners%20are%20away.%0AIndeedee%20are%20quite%20intelligent%20and%20know%20when%20they%20are%20being%0Ataken%20advantage%20of.%20Individuals%20can%20touch%20horns%20with%20one%20another%20to%20exchange%20information.%20This%20makes%20them%20highly%20efficient%20at%0Awarning%20others%20of%20unsavory%20employers%20and%20ungrateful%20customers.%20Thus%2C%20treating%20one%20Indeedee%20poorly%20can%20easily%20result%20in%20Indeedee%20across%20the%20city%20refusing%20to%20assist%20a%20person%20in%20all%20manners%0Aof%20tasks.%20%3C/p%3E",
+        "gmnotes": "",
+        "defaulttoken": "",
+        "tags": "[\"Psychic\",\"Normal\",\"Forest\",\"Urban\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "atknature",
+                "current": 0,
+                "max": "",
+                "id": "-Mj3FiVyGkY9j566M_l3"
+            },
+            {
+                "name": "defnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mj3FiW051nNNHBqvUzy"
+            },
+            {
+                "name": "spatknature",
+                "current": 0,
+                "max": "",
+                "id": "-Mj3FiW3N9__kuCxbfT8"
+            },
+            {
+                "name": "spdefnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mj3FiW6xS5a4WJTaIYV"
+            },
+            {
+                "name": "spdnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mj3FiW9_YgJPA4nUgxR"
+            },
+            {
+                "name": "afflictions_text",
+                "current": "",
+                "max": "",
+                "id": "-Mj3FiWC6MVklkV6-An0"
+            },
+            {
+                "name": "capture_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mj3FiWFMmGihEBHdhv0"
+            },
+            {
+                "name": "capture_display",
+                "current": "+5",
+                "max": "",
+                "id": "-Mj3FiWI5BdoMSWiloPE"
+            },
+            {
+                "name": "capture_roll_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mj3FiWK56YZIVGnlqgk"
+            },
+            {
+                "name": "nature",
+                "current": 0,
+                "max": "",
+                "id": "-Mj3FiWNIcZUHOCPKQQ6"
+            },
+            {
+                "name": "nature-type",
+                "current": "0",
+                "max": "",
+                "id": "-Mj3FiWQcbMZINhOJTDJ"
+            },
+            {
+                "name": "atkbase",
+                "current": "7",
+                "max": "",
+                "id": "-Mj3FiWToc0Weom63zPz"
+            },
+            {
+                "name": "defbase",
+                "current": "7",
+                "max": "",
+                "id": "-Mj3FiWVQ2KQI3TBKECb"
+            },
+            {
+                "name": "spatkbase",
+                "current": "12",
+                "max": "",
+                "id": "-Mj3FiWYfx7_7pig3M7N"
+            },
+            {
+                "name": "spdefbase",
+                "current": "11",
+                "max": "",
+                "id": "-Mj3FiWaW0sdoi00VTkL"
+            },
+            {
+                "name": "spdbase",
+                "current": "10",
+                "max": "",
+                "id": "-Mj3FiWdKOSZlWIEFxuV"
+            },
+            {
+                "name": "acrobatics_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mj3FiWraHfWxfAJ6NKa"
+            },
+            {
+                "name": "athletics_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mj3FiWvFs2qMXdm-Jt0"
+            },
+            {
+                "name": "bluff_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mj3FiWzhWungU6BU8fJ"
+            },
+            {
+                "name": "concentration_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mj3FiX1KnQeCNcorRRI"
+            },
+            {
+                "name": "constitution_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mj3FiX3-TefvoOMD850"
+            },
+            {
+                "name": "diplomacy_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mj3FiX7UKVSFp2frAuh"
+            },
+            {
+                "name": "engineering_total",
+                "current": 6,
+                "max": "",
+                "id": "-Mj3FiXAx2RWpbYHoej_"
+            },
+            {
+                "name": "history_total",
+                "current": 6,
+                "max": "",
+                "id": "-Mj3FiXD4oDeR9JWEFC7"
+            },
+            {
+                "name": "insight_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mj3FiXG3sM5A568mmHv"
+            },
+            {
+                "name": "investigate_total",
+                "current": 6,
+                "max": "",
+                "id": "-Mj3FiXJ2OyU-mEWp35s"
+            },
+            {
+                "name": "medicine_total",
+                "current": 6,
+                "max": "",
+                "id": "-Mj3FiXNUAVbM8Tjay4F"
+            },
+            {
+                "name": "nature_total",
+                "current": 6,
+                "max": "",
+                "id": "-Mj3FiXQiPSyE0x4a9ch"
+            },
+            {
+                "name": "perception_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mj3FiXUfVkR7aqUzDAq"
+            },
+            {
+                "name": "perform_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mj3FiXXMB_N__20jN1i"
+            },
+            {
+                "name": "handling_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mj3FiX_ISWf2kecqeEA"
+            },
+            {
+                "name": "programming_total",
+                "current": 6,
+                "max": "",
+                "id": "-Mj3FiXbRXHeMGQqQxlI"
+            },
+            {
+                "name": "sleightofhand_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mj3FiXe_MsRz2EGqqXR"
+            },
+            {
+                "name": "stealth_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mj3FiXhAkborx7G1cUj"
+            },
+            {
+                "name": "selected-page",
+                "current": "character-page",
+                "max": "",
+                "id": "-MsP2AurTaMU6CLCls7e"
+            },
+            {
+                "name": "character-type",
+                "current": "pokemon",
+                "max": "",
+                "id": "-MsP2BHz4lxJfcH8iG0n"
+            },
+            {
+                "name": "type1",
+                "current": "psychic",
+                "max": "",
+                "id": "-MsP2DGtmGC5GPTDzop6"
+            },
+            {
+                "name": "type2",
+                "current": "normal",
+                "max": "",
+                "id": "-MsP2F98qkaq5AhD2or1"
+            },
+            {
+                "name": "species",
+                "current": "Indeedee (Male)",
+                "max": "",
+                "id": "-MsP2G4UYD9LSGs5FYqc"
+            },
+            {
+                "name": "size",
+                "current": "Medium",
+                "max": "",
+                "id": "-MsP2H9Q0tCMneqdpOTo"
+            },
+            {
+                "name": "weight",
+                "current": "Medium",
+                "max": "",
+                "id": "-MsP2HlGPp0bnAGjDzxo"
+            },
+            {
+                "name": "pokemon_sex",
+                "current": " 50% male, 50% female (This sheet is Male)",
+                "max": "",
+                "id": "-MsP2IyntpYlDZmfZFDW"
+            },
+            {
+                "name": "egg_group",
+                "current": "Fairy/Field-10 days",
+                "max": "",
+                "id": "-MsP2M3Vz3e34cuw2K_5"
+            },
+            {
+                "name": "diet",
+                "current": "Herbivore",
+                "max": "",
+                "id": "-MsP2NxYbNE1yXZS2l1U"
+            },
+            {
+                "name": "HP",
+                "current": "36",
+                "max": "36",
+                "id": "-MsP2P8uSUNqydPBfeSr"
+            },
+            {
+                "name": "ATK",
+                "current": 7,
+                "max": "",
+                "id": "-MsP2QrpmFBB0TpwmojW"
+            },
+            {
+                "name": "ATKMOD",
+                "current": 3,
+                "max": "",
+                "id": "-MsP2QruicfiLzC7XdxL"
+            },
+            {
+                "name": "DEF",
+                "current": 7,
+                "max": "",
+                "id": "-MsP2RAN3imH62Zl5Bo7"
+            },
+            {
+                "name": "DEFMOD",
+                "current": 3,
+                "max": "",
+                "id": "-MsP2RARJOdea2IdUegp"
+            },
+            {
+                "name": "SPATK",
+                "current": 12,
+                "max": "",
+                "id": "-MsP2ReBwlNNivQRKwxV"
+            },
+            {
+                "name": "SPATKMOD",
+                "current": 6,
+                "max": "",
+                "id": "-MsP2ReFzwBELhtV60hh"
+            },
+            {
+                "name": "SPDEF",
+                "current": 11,
+                "max": "",
+                "id": "-MsP2S087h-YYbX0lE5Z"
+            },
+            {
+                "name": "SPDEFMOD",
+                "current": 5,
+                "max": "",
+                "id": "-MsP2S0Cp4u1PhsONVTD"
+            },
+            {
+                "name": "SPD",
+                "current": 10,
+                "max": "",
+                "id": "-MsP2TimHXYno6XovFI-"
+            },
+            {
+                "name": "SPDMOD",
+                "current": 5,
+                "max": "",
+                "id": "-MsP2TipvrCNHRNhSpaP"
+            },
+            {
+                "name": "movement",
+                "current": 50,
+                "max": "",
+                "id": "-MsP2TitzJClE3A11l6m"
+            },
+            {
+                "name": "pokemonskills",
+                "current": "Intelligence (very smart)\nTelekinetic (can move things with their mind)\nTelepath (can read minds)",
+                "max": "",
+                "id": "-MsP2Xcxfb06WqRCvArS"
+            },
+            {
+                "name": "statpassives",
+                "current": "Calm Mind (+1 Special Attack, +1 Special Defense)\nPlay Nice (+1 Defense), ",
+                "max": "",
+                "id": "-MsP2_PBAfD-uh80YDfQ"
+            },
+            {
+                "name": "otherpassives",
+                "current": "Inner Focus [Male](You are immune to being Stunned.)\nPsychic Surge (As a free action you may deplete one use of Psychic Terrain and use Psychic Terrain.)\nSynchronize (When you are Burned, Poisoned, Paralyzed, or Toxified by a foe, the offender is also given the same affliction.)",
+                "max": "",
+                "id": "-MsP2gJQ6_u-4pKaPxrQ"
+            },
+            {
+                "name": "repeating_moves_-MsP2hgz2m3EJ0k2i52j_move_name",
+                "current": "Helping Hand",
+                "max": "",
+                "id": "-MsP2iuRO8h-5g2O-Klp"
+            },
+            {
+                "name": "repeating_moves_-MsP2hgz2m3EJ0k2i52j_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-MsP2jo4VeCCW7DmNQT5"
+            },
+            {
+                "name": "repeating_moves_-MsP2hgz2m3EJ0k2i52j_move_category",
+                "current": "3",
+                "max": "",
+                "id": "-MsP2k6__C5-CKLPlRdk"
+            },
+            {
+                "name": "repeating_moves_-MsP2hgz2m3EJ0k2i52j_move_category_defense",
+                "current": "Speed",
+                "max": "",
+                "id": "-MsP2kZrxCBehhQ8YORx"
+            },
+            {
+                "name": "repeating_moves_-MsP2hgz2m3EJ0k2i52j_move_totaldamage",
+                "current": 0,
+                "max": "",
+                "id": "-MsP2kZvFW2WJzM5Qen5"
+            },
+            {
+                "name": "repeating_moves_-MsP2hgz2m3EJ0k2i52j_move_totaldamage_display",
+                "current": "0",
+                "max": "",
+                "id": "-MsP2k_-nQQn0BUEwURQ"
+            },
+            {
+                "name": "repeating_moves_-MsP2hgz2m3EJ0k2i52j_move_totalaccuracy",
+                "current": 5,
+                "max": "",
+                "id": "-MsP2k_4mRZQ-KhLd9h-"
+            },
+            {
+                "name": "repeating_moves_-MsP2hgz2m3EJ0k2i52j_move_totalaccuracy_display",
+                "current": "d20 + 5",
+                "max": "",
+                "id": "-MsP2k_8Bd9o0_5dggZK"
+            },
+            {
+                "name": "repeating_moves_-MsP2hgz2m3EJ0k2i52j_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-MsP2l9z3VyQ_SHeCxDk"
+            },
+            {
+                "name": "repeating_moves_-MsP2hgz2m3EJ0k2i52j_move_effect",
+                "current": "Target ally’s next attack during this round will deal +[[1d20]] damage.",
+                "max": "",
+                "id": "-MsP2nGi7dC5pQgB4uAm"
+            },
+            {
+                "name": "repeating_moves_-MsP2hgz2m3EJ0k2i52j_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MsP2nH3Nes1GqZm80Zo"
+            },
+            {
+                "name": "repeating_moves_-MsP2hgz2m3EJ0k2i52j_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MsP2nRTH04aQu55_Bfy"
+            },
+            {
+                "name": "repeating_moves_-MsP2nu1eWm0q2XiSngY_move_name",
+                "current": "Psychic Terrain",
+                "max": "",
+                "id": "-MsP2qTs1AhaOaMtEkns"
+            },
+            {
+                "name": "repeating_moves_-MsP2nu1eWm0q2XiSngY_move_range",
+                "current": "Field",
+                "max": "",
+                "id": "-MsP2rKfv2qQPJgCI_Z1"
+            },
+            {
+                "name": "repeating_moves_-MsP2nu1eWm0q2XiSngY_move_type",
+                "current": "psychic",
+                "max": "",
+                "id": "-MsP2rr4Y5ndea1oznsk"
+            },
+            {
+                "name": "repeating_moves_-MsP2nu1eWm0q2XiSngY_move_totaldamage",
+                "current": 0,
+                "max": "",
+                "id": "-MsP2sCyt4UgnMWcR_uI"
+            },
+            {
+                "name": "repeating_moves_-MsP2nu1eWm0q2XiSngY_move_totaldamage_display",
+                "current": "0",
+                "max": "",
+                "id": "-MsP2sD1TDvVIM5b3CiN"
+            },
+            {
+                "name": "repeating_moves_-MsP2nu1eWm0q2XiSngY_move_category",
+                "current": "3",
+                "max": "",
+                "id": "-MsP2s_4N6gR8Yw31ct9"
+            },
+            {
+                "name": "repeating_moves_-MsP2nu1eWm0q2XiSngY_move_category_defense",
+                "current": "Speed",
+                "max": "",
+                "id": "-MsP2t5sTS8rxFapVnQp"
+            },
+            {
+                "name": "repeating_moves_-MsP2nu1eWm0q2XiSngY_move_totalaccuracy",
+                "current": 5,
+                "max": "",
+                "id": "-MsP2t5wUW_o9j9hY33H"
+            },
+            {
+                "name": "repeating_moves_-MsP2nu1eWm0q2XiSngY_move_totalaccuracy_display",
+                "current": "d20 + 5",
+                "max": "",
+                "id": "-MsP2t6-e0ADHB927rlm"
+            },
+            {
+                "name": "repeating_moves_-MsP2nu1eWm0q2XiSngY_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-MsP2tUEimG8Ow5Iw-On"
+            },
+            {
+                "name": "repeating_moves_-MsP2nu1eWm0q2XiSngY_move_effect",
+                "current": "You create a circle of Psychic Terrain with a 60ft diameter. If touching the ground, within the Psychic Terrain, Priority and Reaction moves may not be used. Within the Psychic Terrain, Psychic-type attacks deal an additional 8 damage This terrain disappears after 2 mins.",
+                "max": "",
+                "id": "-MsP2y6A8xARp1Nxov3L"
+            },
+            {
+                "name": "repeating_moves_-MsP2nu1eWm0q2XiSngY_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MsP2yUt1rncvJY79sFg"
+            },
+            {
+                "name": "repeating_moves_-MsP2nu1eWm0q2XiSngY_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MsP2yh1Horwb45KPaqc"
+            },
+            {
+                "name": "repeating_moves_-MsP2z6kPzheTfqhKZmi_move_name",
+                "current": "Psychic",
+                "max": "",
+                "id": "-MsP3-GFiLvi7FWJizLN"
+            },
+            {
+                "name": "repeating_moves_-MsP2z6kPzheTfqhKZmi_move_range",
+                "current": "Ranged (25 ft)",
+                "max": "",
+                "id": "-MsP30dS9HfMY5vV0DAx"
+            },
+            {
+                "name": "repeating_moves_-MsP2z6kPzheTfqhKZmi_move_type",
+                "current": "psychic",
+                "max": "",
+                "id": "-MsP31UiFmoV6xnwWJRV"
+            },
+            {
+                "name": "repeating_moves_-MsP2z6kPzheTfqhKZmi_move_totaldamage",
+                "current": 10,
+                "max": "",
+                "id": "-MsP31uyssm42rDVKFDu"
+            },
+            {
+                "name": "repeating_moves_-MsP2z6kPzheTfqhKZmi_move_totaldamage_display",
+                "current": "3d10 + 10",
+                "max": "",
+                "id": "-MsP31v23g9gtcaPsJkT"
+            },
+            {
+                "name": "repeating_moves_-MsP2z6kPzheTfqhKZmi_move_category",
+                "current": "2",
+                "max": "",
+                "id": "-MsP327qg5QQkZwu39Wl"
+            },
+            {
+                "name": "repeating_moves_-MsP2z6kPzheTfqhKZmi_move_category_defense",
+                "current": "Special Defense",
+                "max": "",
+                "id": "-MsP32aE4Ib4acEq7LnU"
+            },
+            {
+                "name": "repeating_moves_-MsP2z6kPzheTfqhKZmi_move_totalaccuracy",
+                "current": 6,
+                "max": "",
+                "id": "-MsP32bCaYMrjI-HqfPZ"
+            },
+            {
+                "name": "repeating_moves_-MsP2z6kPzheTfqhKZmi_move_totalaccuracy_display",
+                "current": "d20 + 6",
+                "max": "",
+                "id": "-MsP32bUgMafwMQdHSXy"
+            },
+            {
+                "name": "repeating_moves_-MsP2z6kPzheTfqhKZmi_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-MsP3352ZM2EH2_X1P4D"
+            },
+            {
+                "name": "repeating_moves_-MsP2z6kPzheTfqhKZmi_move_dicenumber",
+                "current": "3",
+                "max": "",
+                "id": "-MsP34SWN8l6-FFXFNX_"
+            },
+            {
+                "name": "repeating_moves_-MsP2z6kPzheTfqhKZmi_damage_dice",
+                "current": "10",
+                "max": "",
+                "id": "-MsP34uPluHHPvDSCqpE"
+            },
+            {
+                "name": "repeating_moves_-MsP2z6kPzheTfqhKZmi_move_effect",
+                "current": "On hit, the target’s Special Defense is -1 for 10 mins. This effect cannot be stacked.",
+                "max": "",
+                "id": "-MsP38HdTFsxdQeXNs_R"
+            },
+            {
+                "name": "repeating_moves_-MsP2z6kPzheTfqhKZmi_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MsP38XGkfWDOhMsojmz"
+            },
+            {
+                "name": "repeating_moves_-MsP2z6kPzheTfqhKZmi_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MsP38Z1YVJ9HODcmr6O"
+            },
+            {
+                "name": "repeating_moves_-MsP2hgz2m3EJ0k2i52j_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-MsP3D14ToRz5R8zcKXZ"
+            },
+            {
+                "name": "repeating_moves_-MsP2hgz2m3EJ0k2i52j_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MsP3D17uNuKAPOG2oWu"
+            },
+            {
+                "name": "repeating_moves_-MsP2nu1eWm0q2XiSngY_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-MsP3D1ArYnprm21_9JK"
+            },
+            {
+                "name": "repeating_moves_-MsP2nu1eWm0q2XiSngY_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MsP3D1EZiol7MRjnn9f"
+            },
+            {
+                "name": "repeating_moves_-MsP2z6kPzheTfqhKZmi_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-MsP3D1HsePaeBUk-HOX"
+            },
+            {
+                "name": "repeating_moves_-MsP2z6kPzheTfqhKZmi_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MsP3D1LWBYb07dB0yfi"
+            },
+            {
+                "name": "notes",
+                "current": "Proficiencies: Fairy / Psychic / Healer",
+                "max": "",
+                "id": "-MvwexhStWYrXjCE66hQ"
+            }
+        ],
+        "abilities": []
+    }
+}

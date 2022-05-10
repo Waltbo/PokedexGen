@@ -1,0 +1,672 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-Mvv_qqDzwkG6rol4Sdy",
+        "name": "Koffing",
+        "avatar": "https://s3.amazonaws.com/files.d20.io/images/275841496/qqj7AxnMgXqLZUp7Ak2FUw/med.jpg?1647402219",
+        "bio": "%3Cp%3EKoffing%20live%20in%20smog-heavy%20areas%2C%20such%20as%20in%20highly%20polluted%0Aurban%20cities%20and%20above%20active%20volcanoes.%20They%20contain%20dozens%20of%0Adifferent%20poisonous%20fumes%20inside%20their%20bodies.%20Their%20skin%20is%20very%0Athin%2C%20even%20transparent%20in%20certain%20lighting.%20In%20warmer%20climates%2C%0Asuch%20as%20near%20volcanoes%2C%20the%20gases%20in%20their%20bodies%20can%20expand%2C%0Astretching%20their%20skin%20and%20making%20them%20prone%20to%20exploding.%0AKoffing%20also%20tend%20to%20produce%20more%20gas%20when%20warm%2C%20making%20detonations%20all%20the%20more%20likely.%20Their%20gaseous%20mixtures%20are%20lighter%0Athan%20air%2C%20allowing%20them%20to%20float.%20Koffing%20can%20also%20expel%20these%20gases%20when%20threatened%2C%20inducing%20teary%20eyes%2C%20stuffy%20noses%2C%20and%0Acoughing%20in%20those%20exposed%20to%20even%20the%20most%20minute%20amounts.%0AThey%20can%20also%20poison%20attackers%3B%20the%20gases%20Koffing%20expel%20become%0Asmellier%20and%20more%20toxic%20when%20they%20are%20stressed.%20In%20cities%20where%20they%20are%20plentiful%2C%20Koffing%20can%20create%20dangerous%20smog%20that%0Ashrouds%20the%20metropolises.%20%3C/p%3E",
+        "gmnotes": "",
+        "defaulttoken": "",
+        "tags": "[\"Poison\",\"Urban-Abandoned\",\"Urban-Plant\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "atknature",
+                "current": 0,
+                "max": "",
+                "id": "-Mvv_uOlAE1CQ6-uBVFN"
+            },
+            {
+                "name": "defnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mvv_uOoWWRxSzRxs6UA"
+            },
+            {
+                "name": "spatknature",
+                "current": 0,
+                "max": "",
+                "id": "-Mvv_uOrvIWuLiHpynpD"
+            },
+            {
+                "name": "spdefnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mvv_uOtjy7NDUveqR3S"
+            },
+            {
+                "name": "spdnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mvv_uOwdAeBtfwW_keo"
+            },
+            {
+                "name": "afflictions_text",
+                "current": "",
+                "max": "",
+                "id": "-Mvv_uPDKm7ljRgf7-GB"
+            },
+            {
+                "name": "capture_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mvv_uPHt81S0x1uglZF"
+            },
+            {
+                "name": "capture_display",
+                "current": "+5",
+                "max": "",
+                "id": "-Mvv_uPJt_6YcdXuVfeN"
+            },
+            {
+                "name": "capture_roll_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mvv_uPL3t5y0tWvtZLB"
+            },
+            {
+                "name": "nature",
+                "current": 0,
+                "max": "",
+                "id": "-Mvv_uPONmsZIv_xR7rC"
+            },
+            {
+                "name": "nature-type",
+                "current": "0",
+                "max": "",
+                "id": "-Mvv_uPP1jnb5j2R3JNv"
+            },
+            {
+                "name": "atkbase",
+                "current": "7",
+                "max": "",
+                "id": "-Mvv_uPS_bBH1ULxzboh"
+            },
+            {
+                "name": "defbase",
+                "current": "10",
+                "max": "",
+                "id": "-Mvv_uPVI4bZY8PpvIY4"
+            },
+            {
+                "name": "spatkbase",
+                "current": "6",
+                "max": "",
+                "id": "-Mvv_uPYl7al2DTUzlDq"
+            },
+            {
+                "name": "spdefbase",
+                "current": "5",
+                "max": "",
+                "id": "-Mvv_uP_PfqjnXwGJUYb"
+            },
+            {
+                "name": "spdbase",
+                "current": "4",
+                "max": "",
+                "id": "-Mvv_uPbpxGul7UfFeRc"
+            },
+            {
+                "name": "acrobatics_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mvv_uQ9UC2nqq7Np47c"
+            },
+            {
+                "name": "athletics_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mvv_uQBx9T30OnKPH7D"
+            },
+            {
+                "name": "bluff_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mvv_uQcqSS1OLHvdwmH"
+            },
+            {
+                "name": "concentration_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mvv_uQfuqw-sZnVFA92"
+            },
+            {
+                "name": "constitution_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mvv_uQx_EF4KVPMWuwg"
+            },
+            {
+                "name": "diplomacy_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mvv_uR9MKTdKq0GOzrf"
+            },
+            {
+                "name": "engineering_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mvv_uRDQE4hfk9HnEgm"
+            },
+            {
+                "name": "history_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mvv_uRSyvK483KNQ1GV"
+            },
+            {
+                "name": "insight_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mvv_uRVFoMXnuAgrvuT"
+            },
+            {
+                "name": "investigate_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mvv_uRhD4DZLvt8y9EU"
+            },
+            {
+                "name": "medicine_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mvv_uRkf9nOF6LYo7jt"
+            },
+            {
+                "name": "nature_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mvv_uSCurUkB8IcCLnQ"
+            },
+            {
+                "name": "perception_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mvv_uSECi1brg4YAbqa"
+            },
+            {
+                "name": "perform_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mvv_uSgDo7KEOtE8EDL"
+            },
+            {
+                "name": "handling_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mvv_uSi3aftQabMJRpy"
+            },
+            {
+                "name": "programming_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mvv_uSlZ4VWuPbUz1Tl"
+            },
+            {
+                "name": "sleightofhand_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mvv_uSnhonR3vL07XQh"
+            },
+            {
+                "name": "stealth_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mvv_uSqVRts8VLrAZCh"
+            },
+            {
+                "name": "selected-page",
+                "current": "character-page",
+                "max": "",
+                "id": "-Mvva1ZD9oq5dQhML3gw"
+            },
+            {
+                "name": "character-type",
+                "current": "pokemon",
+                "max": "",
+                "id": "-Mvva1rOMm81ccUk4dCA"
+            },
+            {
+                "name": "species",
+                "current": "Koffing",
+                "max": "",
+                "id": "-Mvva4AvcKcj9pU1cANI"
+            },
+            {
+                "name": "type1",
+                "current": "poison",
+                "max": "",
+                "id": "-Mvva4BKlewS_qdHrT7r"
+            },
+            {
+                "name": "size",
+                "current": "Medium",
+                "max": "",
+                "id": "-Mvva4TTB6-QMObYXHdQ"
+            },
+            {
+                "name": "weight",
+                "current": "Featherweight",
+                "max": "",
+                "id": "-Mvva52goKTozOWdVeTg"
+            },
+            {
+                "name": "egg_group",
+                "current": "Amorphous/Mineral-10 days",
+                "max": "",
+                "id": "-Mvva82XzCdMAYYDUnkd"
+            },
+            {
+                "name": "diet",
+                "current": "Pollutivore",
+                "max": "",
+                "id": "-MvvaA2amUZCSYovgcWV"
+            },
+            {
+                "name": "HP",
+                "current": "24",
+                "max": "24",
+                "id": "-MvvaB4T1D4LwsXar79Z"
+            },
+            {
+                "name": "ATK",
+                "current": 7,
+                "max": "",
+                "id": "-MvvaBwCVP55QcCn6xN5"
+            },
+            {
+                "name": "ATKMOD",
+                "current": 3,
+                "max": "",
+                "id": "-MvvaBwGmj3WEoWTyfbi"
+            },
+            {
+                "name": "DEF",
+                "current": 10,
+                "max": "",
+                "id": "-MvvaC3SyqW5RM5pp3gT"
+            },
+            {
+                "name": "DEFMOD",
+                "current": 5,
+                "max": "",
+                "id": "-MvvaC3Vj7wYd9vRExaW"
+            },
+            {
+                "name": "SPATK",
+                "current": 6,
+                "max": "",
+                "id": "-MvvaCCuGRrvgVlPhR4B"
+            },
+            {
+                "name": "SPATKMOD",
+                "current": 3,
+                "max": "",
+                "id": "-MvvaCCwbkAIPOd23Pf6"
+            },
+            {
+                "name": "SPDEF",
+                "current": 5,
+                "max": "",
+                "id": "-MvvaCIEaaPa0Jo2ND_C"
+            },
+            {
+                "name": "SPDEFMOD",
+                "current": 2,
+                "max": "",
+                "id": "-MvvaCIGr1D4cIQ1Vgm1"
+            },
+            {
+                "name": "SPD",
+                "current": 4,
+                "max": "",
+                "id": "-MvvaCSfrrsKrxCT64UN"
+            },
+            {
+                "name": "SPDMOD",
+                "current": 2,
+                "max": "",
+                "id": "-MvvaCSh3b8hLmqoNy62"
+            },
+            {
+                "name": "movement",
+                "current": 20,
+                "max": "",
+                "id": "-MvvaCSkg_gD3fJSeVjr"
+            },
+            {
+                "name": "pokemonskills",
+                "current": "Flight (can fly)\nRepulsive (repels others with a foul smell)\n",
+                "max": "",
+                "id": "-MvvaFCbSxRATEENvzwV"
+            },
+            {
+                "name": "otherpassives",
+                "current": "Levitate (You are immune to Ground-type moves while you are airborne.)",
+                "max": "",
+                "id": "-MvvaH25gkfpLoeoKK6M"
+            },
+            {
+                "name": "repeating_moves_-MvvaHQZvXHjaelnm1S2_move_name",
+                "current": "Poison Gas",
+                "max": "",
+                "id": "-MvvaIHCKtRRFCOprCR2"
+            },
+            {
+                "name": "repeating_moves_-MvvaHQZvXHjaelnm1S2_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MvvaIMiHXMxbLLm3Ovj"
+            },
+            {
+                "name": "repeating_moves_-MvvaHQZvXHjaelnm1S2_move_range",
+                "current": "Ranged (5 ft burst)",
+                "max": "",
+                "id": "-MvvaKiVot6bAkg_x5sC"
+            },
+            {
+                "name": "repeating_moves_-MvvaHQZvXHjaelnm1S2_move_type",
+                "current": "poison",
+                "max": "",
+                "id": "-MvvaN1I53vwpBly3PdK"
+            },
+            {
+                "name": "repeating_moves_-MvvaHQZvXHjaelnm1S2_move_totaldamage",
+                "current": 0,
+                "max": "",
+                "id": "-MvvaN3CPS_ad0nazFaQ"
+            },
+            {
+                "name": "repeating_moves_-MvvaHQZvXHjaelnm1S2_move_totaldamage_display",
+                "current": "0",
+                "max": "",
+                "id": "-MvvaN3H7umCMaDBpR21"
+            },
+            {
+                "name": "repeating_moves_-MvvaHQZvXHjaelnm1S2_move_category",
+                "current": "3",
+                "max": "",
+                "id": "-MvvaNACmLUyp_QjR0nV"
+            },
+            {
+                "name": "repeating_moves_-MvvaHQZvXHjaelnm1S2_move_category_defense",
+                "current": "Speed",
+                "max": "",
+                "id": "-MvvaNBv7SClsxYA9gFe"
+            },
+            {
+                "name": "repeating_moves_-MvvaHQZvXHjaelnm1S2_move_totalaccuracy",
+                "current": 0,
+                "max": "",
+                "id": "-MvvaNBz6Fp69KtuAu17"
+            },
+            {
+                "name": "repeating_moves_-MvvaHQZvXHjaelnm1S2_move_totalaccuracy_display",
+                "current": "d20 + 0",
+                "max": "",
+                "id": "-MvvaNC1B0bFtx8EuQRy"
+            },
+            {
+                "name": "repeating_moves_-MvvaHQZvXHjaelnm1S2_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-MvvaNHDleohGc7AT9lH"
+            },
+            {
+                "name": "repeating_moves_-MvvaHQZvXHjaelnm1S2_move_effect",
+                "current": "Poison Gas has -2 during Accuracy Check. On hit, all targets are Poisoned",
+                "max": "",
+                "id": "-MvvaPBckIfs2k4AksHs"
+            },
+            {
+                "name": "repeating_moves_-MvvaHQZvXHjaelnm1S2_move_acmod",
+                "current": "-2",
+                "max": "",
+                "id": "-MvvaPjBmc1Zz5zihluT"
+            },
+            {
+                "name": "repeating_moves_-MvvaHQZvXHjaelnm1S2_move_effect1",
+                "current": "8",
+                "max": "",
+                "id": "-MvvaQ-UJxLYrf9ELPzF"
+            },
+            {
+                "name": "repeating_moves_-MvvaHQZvXHjaelnm1S2_move_effect1_name",
+                "current": "Poisoned",
+                "max": "",
+                "id": "-MvvaQ1JYcMfUZrOZrNx"
+            },
+            {
+                "name": "repeating_moves_-MvvaHQZvXHjaelnm1S2_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MvvaQ1MOHec3RKMB7bU"
+            },
+            {
+                "name": "repeating_moves_-MvvaHQZvXHjaelnm1S2_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MvvaQT7oBPX0D09Mg3A"
+            },
+            {
+                "name": "repeating_moves_-MvvaHQZvXHjaelnm1S2_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MvvaQUuPktWIEYfQENI"
+            },
+            {
+                "name": "repeating_moves_-MvvaQb4sWw9TxfxeKRF_move_name",
+                "current": "Smoke Screen",
+                "max": "",
+                "id": "-MvvaS92ldb_N-bu8PFS"
+            },
+            {
+                "name": "repeating_moves_-MvvaQb4sWw9TxfxeKRF_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MvvaSE0ZNg1hr70ingP"
+            },
+            {
+                "name": "repeating_moves_-MvvaQb4sWw9TxfxeKRF_move_range",
+                "current": "Ranged (10 ft)",
+                "max": "",
+                "id": "-MvvaTMz6wqk95NosYo0"
+            },
+            {
+                "name": "repeating_moves_-MvvaQb4sWw9TxfxeKRF_move_category",
+                "current": "3",
+                "max": "",
+                "id": "-MvvaTWxib_CdGx_4zps"
+            },
+            {
+                "name": "repeating_moves_-MvvaQb4sWw9TxfxeKRF_move_category_defense",
+                "current": "Speed",
+                "max": "",
+                "id": "-MvvaTYgSR22fyJsBf97"
+            },
+            {
+                "name": "repeating_moves_-MvvaQb4sWw9TxfxeKRF_move_totaldamage",
+                "current": 0,
+                "max": "",
+                "id": "-MvvaTYjJg-V3sQ0zb3K"
+            },
+            {
+                "name": "repeating_moves_-MvvaQb4sWw9TxfxeKRF_move_totaldamage_display",
+                "current": "0",
+                "max": "",
+                "id": "-MvvaTYla0CFpxbe0C5b"
+            },
+            {
+                "name": "repeating_moves_-MvvaQb4sWw9TxfxeKRF_move_totalaccuracy",
+                "current": 2,
+                "max": "",
+                "id": "-MvvaTYnyz88pykGLipf"
+            },
+            {
+                "name": "repeating_moves_-MvvaQb4sWw9TxfxeKRF_move_totalaccuracy_display",
+                "current": "d20 + 2",
+                "max": "",
+                "id": "-MvvaTYoSGLgxJ1e7pvT"
+            },
+            {
+                "name": "repeating_moves_-MvvaQb4sWw9TxfxeKRF_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-MvvaTbzKjt2UdSuUWtO"
+            },
+            {
+                "name": "repeating_moves_-MvvaQb4sWw9TxfxeKRF_move_effect",
+                "current": "Place up to 25 contiguous ft of Smoke Screen Wall. Smoke Screen Wall has no thickness, is 12 ft tall and has the following ability: Attacks that target through or within the wall have -2 during Accuracy Check. This Wall disappears after 2 mins.",
+                "max": "",
+                "id": "-MvvaX3tso9qDmajZBAh"
+            },
+            {
+                "name": "repeating_moves_-MvvaQb4sWw9TxfxeKRF_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MvvaX5UWjdl174RlVnF"
+            },
+            {
+                "name": "repeating_moves_-MvvaQb4sWw9TxfxeKRF_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MvvaX7BXsfCzJgcl3lE"
+            },
+            {
+                "name": "repeating_moves_-MvvaXIGhxR-mqxatTcq_move_name",
+                "current": "Assurance",
+                "max": "",
+                "id": "-MvvaY-17TXboJIlnZL9"
+            },
+            {
+                "name": "repeating_moves_-MvvaXIGhxR-mqxatTcq_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MvvaY4OFzMtwFCi3ldP"
+            },
+            {
+                "name": "repeating_moves_-MvvaXIGhxR-mqxatTcq_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-MvvaYj_qiALBTmtoHCO"
+            },
+            {
+                "name": "repeating_moves_-MvvaXIGhxR-mqxatTcq_move_type",
+                "current": "dark",
+                "max": "",
+                "id": "-MvvaYq9q9ulD59jMPJV"
+            },
+            {
+                "name": "repeating_moves_-MvvaXIGhxR-mqxatTcq_move_totaldamage",
+                "current": 3,
+                "max": "",
+                "id": "-MvvaYs8JVHtXF9eMLPJ"
+            },
+            {
+                "name": "repeating_moves_-MvvaXIGhxR-mqxatTcq_move_totaldamage_display",
+                "current": "3d8 + 3",
+                "max": "",
+                "id": "-MvvaYsBdyCNKP4jA8Yr"
+            },
+            {
+                "name": "repeating_moves_-MvvaXIGhxR-mqxatTcq_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-MvvaYznnQy_5-w9mx4a"
+            },
+            {
+                "name": "repeating_moves_-MvvaXIGhxR-mqxatTcq_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-MvvaZ0ioEuTzqUWv_jG"
+            },
+            {
+                "name": "repeating_moves_-MvvaXIGhxR-mqxatTcq_move_totalaccuracy",
+                "current": 3,
+                "max": "",
+                "id": "-MvvaZ0nsB404g4azIqB"
+            },
+            {
+                "name": "repeating_moves_-MvvaXIGhxR-mqxatTcq_move_totalaccuracy_display",
+                "current": "d20 + 3",
+                "max": "",
+                "id": "-MvvaZ0p5e0Wz0WjHe-I"
+            },
+            {
+                "name": "repeating_moves_-MvvaXIGhxR-mqxatTcq_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-MvvaZ5J1YtjfKb_xGy3"
+            },
+            {
+                "name": "repeating_moves_-MvvaXIGhxR-mqxatTcq_move_dicenumber",
+                "current": "3",
+                "max": "",
+                "id": "-MvvaZDFrUWqnb3lV0A_"
+            },
+            {
+                "name": "repeating_moves_-MvvaXIGhxR-mqxatTcq_damage_dice",
+                "current": "8",
+                "max": "",
+                "id": "-MvvaZIsiIJ6q_wkp5Ic"
+            },
+            {
+                "name": "repeating_moves_-MvvaXIGhxR-mqxatTcq_move_effect",
+                "current": "If the target was already attacked this round, Assurance deals +[[1d8]] damage.",
+                "max": "",
+                "id": "-MvvahUJJjhYmp024Pe-"
+            },
+            {
+                "name": "repeating_moves_-MvvaXIGhxR-mqxatTcq_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mvvahl-WdUOsC4zlnxM"
+            },
+            {
+                "name": "repeating_moves_-MvvaXIGhxR-mqxatTcq_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MvvahmpBjJpXW79nRjV"
+            },
+            {
+                "name": "notes",
+                "current": "Proficiencies: Dark (Weezing) / Fairy (Heavy Pollution Weezing) / Fire / Poison\n",
+                "max": "",
+                "id": "-MvvalI2oal8o5XKloxz"
+            },
+            {
+                "name": "repeating_moves_-MvvaQb4sWw9TxfxeKRF_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-MyFofJfF3K8KjdsjzZ6"
+            },
+            {
+                "name": "repeating_moves_-MvvaQb4sWw9TxfxeKRF_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MyFofJhqDI72Xuf_ExR"
+            },
+            {
+                "name": "repeating_moves_-MvvaXIGhxR-mqxatTcq_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-MyFofJj2RlRD_A6I-8G"
+            },
+            {
+                "name": "repeating_moves_-MvvaXIGhxR-mqxatTcq_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MyFofJldUpShJbVwFv7"
+            },
+            {
+                "name": "pokemon_sex",
+                "current": " 50% male, 50% female",
+                "max": "",
+                "id": "-MyForxZrFg7z7zyM604"
+            }
+        ],
+        "abilities": []
+    }
+}

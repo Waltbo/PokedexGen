@@ -1,0 +1,702 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-MrVkCtaEWqJ8bBmAIJz",
+        "name": "Rotom Mechanical Possession",
+        "avatar": "",
+        "bio": "",
+        "gmnotes": "",
+        "defaulttoken": "{\"left\":2135,\"top\":1925,\"width\":70,\"height\":70,\"imgsrc\":\"https://s3.amazonaws.com/files.d20.io/images/274508566/1UUez70so5HYnigJGPdkZQ/med.jpg?1646694836\",\"page_id\":\"-MYWp6jllc7YsYqj_slP\",\"layer\":\"objects\",\"show_tooltip\":false,\"sides\":\"https%3A//s3.amazonaws.com/files.d20.io/images/274508566/1UUez70so5HYnigJGPdkZQ/med.jpg%3F1646694836|https%3A//s3.amazonaws.com/files.d20.io/images/274508605/veb7rZfX8fXfpPlt6FGF8w/med.jpg%3F1646694862|https%3A//s3.amazonaws.com/files.d20.io/images/274508742/SNmjk5Tj9GdtgDrnKDrlCQ/med.jpg%3F1646694930|https%3A//s3.amazonaws.com/files.d20.io/images/274508773/M6rBut9EWmlKs-0uTF83tw/med.jpg%3F1646694947|https%3A//s3.amazonaws.com/files.d20.io/images/274508826/F4r8Fr8QsJRNTRADDv60gw/med.jpg%3F1646694970\",\"lastmove\":\"2137,1920\"}",
+        "tags": "[\"Electric\",\"Ghost\",\"Fire\",\"Water\",\"Ice\",\"Flying\",\"Grass\",\"Urban-Plant\",\"Urban\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "atknature",
+                "current": 0,
+                "max": "",
+                "id": "-MrVkCvTg34seaUCHi4m"
+            },
+            {
+                "name": "defnature",
+                "current": 0,
+                "max": "",
+                "id": "-MrVkCvVrBCbL2HsDgxL"
+            },
+            {
+                "name": "spatknature",
+                "current": 0,
+                "max": "",
+                "id": "-MrVkCvX0yopDLEsS9eg"
+            },
+            {
+                "name": "spdefnature",
+                "current": 0,
+                "max": "",
+                "id": "-MrVkCvYNz8Hs5jmbijD"
+            },
+            {
+                "name": "spdnature",
+                "current": 0,
+                "max": "",
+                "id": "-MrVkCv_LsqFo15JEDoi"
+            },
+            {
+                "name": "afflictions_text",
+                "current": "",
+                "max": "",
+                "id": "-MrVkCvahn5nRLRrwZt6"
+            },
+            {
+                "name": "capture_total",
+                "current": 4,
+                "max": "",
+                "id": "-MrVkCvb-yQo8wxn_R74"
+            },
+            {
+                "name": "capture_display",
+                "current": "+5",
+                "max": "",
+                "id": "-MrVkCvcPRU4XTmKAUIW"
+            },
+            {
+                "name": "capture_roll_total",
+                "current": 5,
+                "max": "",
+                "id": "-MrVkCvepcAjku5XEcsR"
+            },
+            {
+                "name": "nature",
+                "current": 0,
+                "max": "",
+                "id": "-MrVkCvepcAjku5XEcsS"
+            },
+            {
+                "name": "nature-type",
+                "current": "0",
+                "max": "",
+                "id": "-MrVkCvgWxrG_gPALlpA"
+            },
+            {
+                "name": "atkbase",
+                "current": "7",
+                "max": "",
+                "id": "-MrVkCvhDgP972ncMKBY"
+            },
+            {
+                "name": "defbase",
+                "current": "11",
+                "max": "",
+                "id": "-MrVkCviPy0cmXWPWjE9"
+            },
+            {
+                "name": "spatkbase",
+                "current": "11",
+                "max": "",
+                "id": "-MrVkCvjwtZPTSUqSNzo"
+            },
+            {
+                "name": "spdefbase",
+                "current": "11",
+                "max": "",
+                "id": "-MrVkCvlMJrkRBTJaioe"
+            },
+            {
+                "name": "spdbase",
+                "current": "9",
+                "max": "",
+                "id": "-MrVkCvmSgkUELxaGT4T"
+            },
+            {
+                "name": "acrobatics_total",
+                "current": 4,
+                "max": "",
+                "id": "-MrVkCvnDqQyncoFqgun"
+            },
+            {
+                "name": "athletics_total",
+                "current": 3,
+                "max": "",
+                "id": "-MrVkCvocoPLOviq_ag_"
+            },
+            {
+                "name": "bluff_total",
+                "current": 5,
+                "max": "",
+                "id": "-MrVkCvpfUr4vifOp2LJ"
+            },
+            {
+                "name": "concentration_total",
+                "current": 5,
+                "max": "",
+                "id": "-MrVkCvqpucNL6-1hk4T"
+            },
+            {
+                "name": "constitution_total",
+                "current": 5,
+                "max": "",
+                "id": "-MrVkCvrZVjlufUpOnDm"
+            },
+            {
+                "name": "diplomacy_total",
+                "current": 5,
+                "max": "",
+                "id": "-MrVkCvsX9BENP2TQFH0"
+            },
+            {
+                "name": "engineering_total",
+                "current": 5,
+                "max": "",
+                "id": "-MrVkCvtPwsn8hhk4ZIO"
+            },
+            {
+                "name": "history_total",
+                "current": 5,
+                "max": "",
+                "id": "-MrVkCvuYpaMKHdIsoTL"
+            },
+            {
+                "name": "insight_total",
+                "current": 5,
+                "max": "",
+                "id": "-MrVkCvvfKKKiVWtUrOz"
+            },
+            {
+                "name": "investigate_total",
+                "current": 5,
+                "max": "",
+                "id": "-MrVkCvwZYsBxYR5KgCU"
+            },
+            {
+                "name": "medicine_total",
+                "current": 5,
+                "max": "",
+                "id": "-MrVkCvwZYsBxYR5KgCV"
+            },
+            {
+                "name": "nature_total",
+                "current": 5,
+                "max": "",
+                "id": "-MrVkCvxe04-rfcZ3vxm"
+            },
+            {
+                "name": "perception_total",
+                "current": 5,
+                "max": "",
+                "id": "-MrVkCvym-C7cY790cf-"
+            },
+            {
+                "name": "perform_total",
+                "current": 5,
+                "max": "",
+                "id": "-MrVkCvzbo4UUBytfvwF"
+            },
+            {
+                "name": "handling_total",
+                "current": 5,
+                "max": "",
+                "id": "-MrVkCw-Lb08mOx_BjTv"
+            },
+            {
+                "name": "programming_total",
+                "current": 5,
+                "max": "",
+                "id": "-MrVkCw0qHvrP4IssS7L"
+            },
+            {
+                "name": "sleightofhand_total",
+                "current": 4,
+                "max": "",
+                "id": "-MrVkCw0qHvrP4IssS7M"
+            },
+            {
+                "name": "stealth_total",
+                "current": 4,
+                "max": "",
+                "id": "-MrVkCw2f01BDLa6jwFB"
+            },
+            {
+                "name": "selected-page",
+                "current": "character-page",
+                "max": "",
+                "id": "-MrVkCw2f01BDLa6jwFC"
+            },
+            {
+                "name": "character-type",
+                "current": "pokemon",
+                "max": "",
+                "id": "-MrVkCw3DF99f3M9O2Bd"
+            },
+            {
+                "name": "species",
+                "current": "Rotom Mechanical Possession",
+                "max": "",
+                "id": "-MrVkCw4iiJ-XwHNBfGs"
+            },
+            {
+                "name": "type1",
+                "current": "electric",
+                "max": "",
+                "id": "-MrVkCw5nl9chLG1AjAl"
+            },
+            {
+                "name": "type2",
+                "current": "typeless",
+                "max": "",
+                "id": "-MrVkCw6_yINTAf_1WTd"
+            },
+            {
+                "name": "size",
+                "current": "Variable",
+                "max": "",
+                "id": "-MrVkCw6_yINTAf_1WTe"
+            },
+            {
+                "name": "weight",
+                "current": "Variable",
+                "max": "",
+                "id": "-MrVkCw79NE5OISc19nk"
+            },
+            {
+                "name": "egg_group",
+                "current": "Amorphous",
+                "max": "",
+                "id": "-MrVkCw79NE5OISc19nl"
+            },
+            {
+                "name": "diet",
+                "current": "Ergovore",
+                "max": "",
+                "id": "-MrVkCw8pql-w_Ci0eo2"
+            },
+            {
+                "name": "HP",
+                "current": "30",
+                "max": "30",
+                "id": "-MrVkCw9T8Zzmlo6JgwP"
+            },
+            {
+                "name": "ATK",
+                "current": 7,
+                "max": "",
+                "id": "-MrVkCwAkMoG2Hsu5SOw"
+            },
+            {
+                "name": "ATKMOD",
+                "current": 3,
+                "max": "",
+                "id": "-MrVkCwB6RfJWZjZAksH"
+            },
+            {
+                "name": "DEF",
+                "current": 11,
+                "max": "",
+                "id": "-MrVkCwB6RfJWZjZAksI"
+            },
+            {
+                "name": "DEFMOD",
+                "current": 5,
+                "max": "",
+                "id": "-MrVkCwClyOfJRLz-LMj"
+            },
+            {
+                "name": "SPATK",
+                "current": 11,
+                "max": "",
+                "id": "-MrVkCwDZxlEoFt3ovor"
+            },
+            {
+                "name": "SPATKMOD",
+                "current": 5,
+                "max": "",
+                "id": "-MrVkCwEfqLY99Cp_QVj"
+            },
+            {
+                "name": "SPDEF",
+                "current": 11,
+                "max": "",
+                "id": "-MrVkCwF9sjv31TFxM4I"
+            },
+            {
+                "name": "SPDEFMOD",
+                "current": 5,
+                "max": "",
+                "id": "-MrVkCwF9sjv31TFxM4J"
+            },
+            {
+                "name": "SPD",
+                "current": 9,
+                "max": "",
+                "id": "-MrVkCwGKRl3YPUlkuCI"
+            },
+            {
+                "name": "SPDMOD",
+                "current": 4,
+                "max": "",
+                "id": "-MrVkCwIYWO0RiuW9k0w"
+            },
+            {
+                "name": "movement",
+                "current": 45,
+                "max": "",
+                "id": "-MrVkCwIYWO0RiuW9k0x"
+            },
+            {
+                "name": "pokemonskills",
+                "current": "Flight (can fly)\nGlow (can produce light)\nZapper (can produce electricity)",
+                "max": "",
+                "id": "-MrVkCwJiLs1YzNQgJTD"
+            },
+            {
+                "name": "otherpassives",
+                "current": "Levitate (You are immune to Ground-type moves while you are airborne.)",
+                "max": "",
+                "id": "-MrVkCwKJHTWmaK911PX"
+            },
+            {
+                "name": "repeating_moves_-MiqoG2GBOySEpLUVo5e_move_name",
+                "current": "Confuse Ray",
+                "max": "",
+                "id": "-MrVkCwL4Qq3qqdVG9_x"
+            },
+            {
+                "name": "repeating_moves_-MiqoG2GBOySEpLUVo5e_move_range",
+                "current": "Ranged (20 ft)",
+                "max": "",
+                "id": "-MrVkCwL4Qq3qqdVG9_y"
+            },
+            {
+                "name": "repeating_moves_-MiqoG2GBOySEpLUVo5e_move_type",
+                "current": "ghost",
+                "max": "",
+                "id": "-MrVkCwMjTpUfW6mKUvh"
+            },
+            {
+                "name": "repeating_moves_-MiqoG2GBOySEpLUVo5e_move_totaldamage",
+                "current": 0,
+                "max": "",
+                "id": "-MrVkCwNXfiNVFgb_O4W"
+            },
+            {
+                "name": "repeating_moves_-MiqoG2GBOySEpLUVo5e_move_totaldamage_display",
+                "current": "0",
+                "max": "",
+                "id": "-MrVkCwOQw_q4K_fEXTI"
+            },
+            {
+                "name": "repeating_moves_-MiqoG2GBOySEpLUVo5e_move_category",
+                "current": "3",
+                "max": "",
+                "id": "-MrVkCwPrubb2RFosf1z"
+            },
+            {
+                "name": "repeating_moves_-MiqoG2GBOySEpLUVo5e_move_category_defense",
+                "current": "Speed",
+                "max": "",
+                "id": "-MrVkCwQA_5K-YDkZ-DC"
+            },
+            {
+                "name": "repeating_moves_-MiqoG2GBOySEpLUVo5e_move_totalaccuracy",
+                "current": 4,
+                "max": "",
+                "id": "-MrVkCwQA_5K-YDkZ-DD"
+            },
+            {
+                "name": "repeating_moves_-MiqoG2GBOySEpLUVo5e_move_totalaccuracy_display",
+                "current": "d20 + 4",
+                "max": "",
+                "id": "-MrVkCwRRL64vUO1pXl9"
+            },
+            {
+                "name": "repeating_moves_-MiqoG2GBOySEpLUVo5e_move_frequency",
+                "current": "3day",
+                "max": "",
+                "id": "-MrVkCwRRL64vUO1pXlA"
+            },
+            {
+                "name": "repeating_moves_-MiqoG2GBOySEpLUVo5e_move_effect1",
+                "current": "3",
+                "max": "",
+                "id": "-MrVkCwStAdg0IgGEwzW"
+            },
+            {
+                "name": "repeating_moves_-MiqoG2GBOySEpLUVo5e_move_effect1_name",
+                "current": "Confused",
+                "max": "",
+                "id": "-MrVkCwTuRDpsCKoO8cj"
+            },
+            {
+                "name": "repeating_moves_-MiqoG2GBOySEpLUVo5e_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MrVkCwUjXkrcTqvIoF-"
+            },
+            {
+                "name": "repeating_moves_-MiqoG2GBOySEpLUVo5e_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MrVkCwVtecpzdJpzixm"
+            },
+            {
+                "name": "repeating_moves_-MiqoG2GBOySEpLUVo5e_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MrVkCwWW4K_TMdNJyuY"
+            },
+            {
+                "name": "repeating_moves_-MiqoW-TYEtpHeGRNkKT_move_name",
+                "current": "Electro Ball",
+                "max": "",
+                "id": "-MrVkCwXpQlAG-8t_qUt"
+            },
+            {
+                "name": "repeating_moves_-MiqoW-TYEtpHeGRNkKT_move_range",
+                "current": "Ranged (15 ft)",
+                "max": "",
+                "id": "-MrVkCwXpQlAG-8t_qUu"
+            },
+            {
+                "name": "repeating_moves_-MiqoW-TYEtpHeGRNkKT_move_type",
+                "current": "electric",
+                "max": "",
+                "id": "-MrVkCwYv_niVZeI28cU"
+            },
+            {
+                "name": "repeating_moves_-MiqoW-TYEtpHeGRNkKT_move_totaldamage",
+                "current": 9,
+                "max": "",
+                "id": "-MrVkCwZrL3kPXPn_D3R"
+            },
+            {
+                "name": "repeating_moves_-MiqoW-TYEtpHeGRNkKT_move_totaldamage_display",
+                "current": "3d10 + 9",
+                "max": "",
+                "id": "-MrVkCwa2TDRWq7kteh0"
+            },
+            {
+                "name": "repeating_moves_-MiqoW-TYEtpHeGRNkKT_move_category",
+                "current": "2",
+                "max": "",
+                "id": "-MrVkCwb2gj6xy5LXJQy"
+            },
+            {
+                "name": "repeating_moves_-MiqoW-TYEtpHeGRNkKT_move_category_defense",
+                "current": "Special Defense",
+                "max": "",
+                "id": "-MrVkCwcOckncOZjSho-"
+            },
+            {
+                "name": "repeating_moves_-MiqoW-TYEtpHeGRNkKT_move_totalaccuracy",
+                "current": 5,
+                "max": "",
+                "id": "-MrVkCwcOckncOZjSho0"
+            },
+            {
+                "name": "repeating_moves_-MiqoW-TYEtpHeGRNkKT_move_totalaccuracy_display",
+                "current": "d20 + 5",
+                "max": "",
+                "id": "-MrVkCwdcafi0kIUwABw"
+            },
+            {
+                "name": "repeating_moves_-MiqoW-TYEtpHeGRNkKT_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-MrVkCwexPRPjDvtRFex"
+            },
+            {
+                "name": "repeating_moves_-MiqoW-TYEtpHeGRNkKT_move_dicenumber",
+                "current": "3",
+                "max": "",
+                "id": "-MrVkCwfrjIJOBLw_D9F"
+            },
+            {
+                "name": "repeating_moves_-MiqoW-TYEtpHeGRNkKT_damage_dice",
+                "current": "10",
+                "max": "",
+                "id": "-MrVkCwgevfeNgibUj0U"
+            },
+            {
+                "name": "repeating_moves_-MiqoW-TYEtpHeGRNkKT_move_effect",
+                "current": "Electro Ball can only be used against targets slower than you.",
+                "max": "",
+                "id": "-MrVkCwhW3tf6f3dQV92"
+            },
+            {
+                "name": "repeating_moves_-MiqoW-TYEtpHeGRNkKT_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MrVkCwiQVm_8Rpy6g6u"
+            },
+            {
+                "name": "repeating_moves_-MiqoW-TYEtpHeGRNkKT_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MrVkCwjYmrh5Q1gvH75"
+            },
+            {
+                "name": "repeating_moves_-MiqoW-TYEtpHeGRNkKT_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-MrVkCwzZcKc74-leEkp"
+            },
+            {
+                "name": "repeating_moves_-MiqoW-TYEtpHeGRNkKT_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MrVkCx-ggeQ3yF7z5__"
+            },
+            {
+                "name": "repeating_moves_-MiqoG2GBOySEpLUVo5e_move_effect",
+                "current": "On hit, the target becomes Confused.\n",
+                "max": "",
+                "id": "-MrVkCx10UV4t9ySZFGg"
+            },
+            {
+                "name": "notes",
+                "current": "Proficiencies: Electric / Ghost / Variable Type Lists (Rotom Mechanical) ",
+                "max": "",
+                "id": "-MrVkCx10UV4t9ySZFGh"
+            },
+            {
+                "name": "repeating_moves_-MrVkd1oxvXY5stuGYbL_move_name",
+                "current": "Elemental Attack",
+                "max": "",
+                "id": "-MrVkdyE8N-o0Jzckoij"
+            },
+            {
+                "name": "repeating_moves_-MrVkd1oxvXY5stuGYbL_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MrVke30NaWJDZ-BjB9_"
+            },
+            {
+                "name": "repeating_moves_-MrVkd1oxvXY5stuGYbL_move_type",
+                "current": "typeless",
+                "max": "",
+                "id": "-MrVkfXayTyezcVcJzBO"
+            },
+            {
+                "name": "repeating_moves_-MrVkd1oxvXY5stuGYbL_move_totaldamage",
+                "current": 0,
+                "max": "",
+                "id": "-MrVkfZSynbhsf4bhlVy"
+            },
+            {
+                "name": "repeating_moves_-MrVkd1oxvXY5stuGYbL_move_totaldamage_display",
+                "current": "0",
+                "max": "",
+                "id": "-MrVkfZXViSa0lQuYH9d"
+            },
+            {
+                "name": "repeating_moves_-MrVkd1oxvXY5stuGYbL_move_effect",
+                "current": "Mechanical Rotom will have an attack related to whatever machine they’re inhabiting while using their Wired passives. It may have an Ice-type attack while inhabiting a fridge or icebox, or a Fire-type attack while inhabiting an oven or microwave. If Rotom leaves the machine, it loses the associated attack.",
+                "max": "",
+                "id": "-MrVkkWgNx3IoaviiTaX"
+            },
+            {
+                "name": "repeating_moves_-MrVkd1oxvXY5stuGYbL_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MrVkkYecRvJTh4oa6q1"
+            },
+            {
+                "name": "repeating_moves_-MrVkd1oxvXY5stuGYbL_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MrVkk_SHxPvADLPgeEr"
+            },
+            {
+                "name": "repeating_moves_-MrVkd1oxvXY5stuGYbL_move_category_defense",
+                "current": "",
+                "max": "",
+                "id": "-MxadxUunhg1V2MERBnx"
+            },
+            {
+                "name": "repeating_moves_-MrVkd1oxvXY5stuGYbL_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-MxadxUwrixMjVmZ14VV"
+            },
+            {
+                "name": "repeating_moves_-MrVkd1oxvXY5stuGYbL_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MxadxUyiR92dpsqcPck"
+            },
+            {
+                "name": "repeating_moves_-MrVkd1oxvXY5stuGYbL_move_totalaccuracy",
+                "current": 0,
+                "max": "",
+                "id": "-MxadxV9olhMatk2rNBq"
+            },
+            {
+                "name": "repeating_moves_-MrVkd1oxvXY5stuGYbL_move_totalaccuracy_display",
+                "current": "d20 + 0",
+                "max": "",
+                "id": "-MxadxVBbcn6oc_UyO1m"
+            },
+            {
+                "name": "pokemon_sex",
+                "current": "Gender unknown",
+                "max": "",
+                "id": "-Mxaf76iLMBalSWdVTnp"
+            },
+            {
+                "name": "repeating_moves_-MxafAlqTnb-UDL7QpzA_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MxafBBwtafH-SIV-UXS"
+            },
+            {
+                "name": "repeating_moves_-MxafAlqTnb-UDL7QpzA_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MxafBDqO8YfzQIaJSTO"
+            },
+            {
+                "name": "repeating_moves_-MxafAlqTnb-UDL7QpzA_move_category_defense",
+                "current": "",
+                "max": "",
+                "id": "-MxafMuGjuZJUgOdfwPs"
+            },
+            {
+                "name": "repeating_moves_-MxafAlqTnb-UDL7QpzA_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-MxafMuMank0EkLbg9Wp"
+            },
+            {
+                "name": "repeating_moves_-MxafAlqTnb-UDL7QpzA_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MxafMuOaLiuhUNsIbnX"
+            },
+            {
+                "name": "repeating_moves_-MxafAlqTnb-UDL7QpzA_move_totaldamage",
+                "current": 0,
+                "max": "",
+                "id": "-MxafMuSsXB2BA0ma4p5"
+            },
+            {
+                "name": "repeating_moves_-MxafAlqTnb-UDL7QpzA_move_totaldamage_display",
+                "current": "0",
+                "max": "",
+                "id": "-MxafMuX6yYQ5U9hcGoE"
+            },
+            {
+                "name": "repeating_moves_-MxafAlqTnb-UDL7QpzA_move_totalaccuracy",
+                "current": 0,
+                "max": "",
+                "id": "-MxafMv99_1gaHs7QoRp"
+            },
+            {
+                "name": "repeating_moves_-MxafAlqTnb-UDL7QpzA_move_totalaccuracy_display",
+                "current": "d20 + 0",
+                "max": "",
+                "id": "-MxafMvC6VPC-s0gFCKj"
+            }
+        ],
+        "abilities": []
+    }
+}

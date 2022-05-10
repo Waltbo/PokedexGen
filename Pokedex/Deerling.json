@@ -1,0 +1,666 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-Mt5jDlXsKsQff8cfBGW",
+        "name": "Deerling",
+        "avatar": "https://s3.amazonaws.com/files.d20.io/images/275717442/BO5enqniVhEJlioiJ1N7-A/med.jpg?1647324099",
+        "bio": "%3Cp%3EDeerling%20are%20found%20primarily%20in%20montane%20forests%2C%20though%20they%0Aare%20known%20to%20venture%20into%20lowland%20areas%20from%20time%20to%20time%20as%0Awell.%20They%20are%20herbivorous%20Pok%E9mon%20that%20graze%20on%20low-growing%0Avegetation.%20They%20are%20also%20very%20timid%2C%20hiding%20in%20tall%20grass%20at%20the%0Aslightest%20indication%20of%20danger.%20Deerling%20are%20most%20famous%20for%20their%0Aability%20to%20change%20color%20in%20accordance%20with%20the%20seasons.%20These%0APok%E9mon%20are%20pink%20in%20the%20spring%20to%20blend%20in%20with%20budding%20flowers%2C%0Agreen%20in%20the%20summer%20to%20camouflage%20with%20verdant%20vegetation%2C%0Aorange%20in%20the%20fall%20to%20match%20autumn%20leaves%2C%20and%20brown%20in%20the%0Awinter%20to%20hide%20against%20bare%20trees.%20Their%20scents%20also%20change%20to%0Amatch%20that%20of%20the%20vegetation%20of%20each%20season%2C%20in%20order%20to%20further%0Aconceal%20themselves%20from%20predators.%20Their%20fur%u2019s%20hue%20is%20also%20affected%20by%20temperature%20and%20humidity.%20When%20near%20the%20equator%2C%20where%0Aseasons%20are%20less%20pronounced%20than%20in%20temperate%20areas%2C%20Deerling%0Amay%20only%20change%20color%20slightly%20or%20even%20not%20at%20all.%20%3C/p%3E",
+        "gmnotes": "",
+        "defaulttoken": "{\"left\":315,\"top\":455,\"width\":70,\"height\":70,\"imgsrc\":\"https://s3.amazonaws.com/files.d20.io/images/275717481/iFd2dSiZmpknxCefLEeK6w/med.jpg?1647324173\",\"page_id\":\"-MYWp6jllc7YsYqj_slP\",\"layer\":\"objects\",\"show_tooltip\":false,\"sides\":\"https%3A//s3.amazonaws.com/files.d20.io/images/275717481/iFd2dSiZmpknxCefLEeK6w/med.jpg%3F1647324173|https%3A//s3.amazonaws.com/files.d20.io/images/275717501/PwBR8dIt8accC0ywGrjrhQ/med.jpg%3F1647324208|https%3A//s3.amazonaws.com/files.d20.io/images/275717516/J9y-b_BltO5QGsA29frOTw/med.jpg%3F1647324238|https%3A//s3.amazonaws.com/files.d20.io/images/275717526/voKfJT2M9KbBTMRLoWa4qg/med.jpg%3F1647324263\",\"lastmove\":\"347,489\"}",
+        "tags": "[\"Normal\",\"Grass\",\"Forest\",\"Woodland\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "atknature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt5jDnBxhZ0UCcUsDBC"
+            },
+            {
+                "name": "defnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt5jDnCHo0HHW6ZtIIh"
+            },
+            {
+                "name": "spatknature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt5jDnCHo0HHW6ZtIIi"
+            },
+            {
+                "name": "spdefnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt5jDnDfgRIe18gQwo0"
+            },
+            {
+                "name": "spdnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt5jDnDfgRIe18gQwo1"
+            },
+            {
+                "name": "afflictions_text",
+                "current": "",
+                "max": "",
+                "id": "-Mt5jDnEs3_kljPw9EM8"
+            },
+            {
+                "name": "capture_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt5jDnEs3_kljPw9EM9"
+            },
+            {
+                "name": "capture_display",
+                "current": "+5",
+                "max": "",
+                "id": "-Mt5jDnFcN3FSGlwzj-G"
+            },
+            {
+                "name": "capture_roll_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mt5jDnFcN3FSGlwzj-H"
+            },
+            {
+                "name": "nature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt5jDnGlzozS7Dmyh7s"
+            },
+            {
+                "name": "nature-type",
+                "current": "",
+                "max": "",
+                "id": "-Mt5jDnGlzozS7Dmyh7t"
+            },
+            {
+                "name": "atkbase",
+                "current": "6",
+                "max": "",
+                "id": "-Mt5jDnH3sic5eZmrGKD"
+            },
+            {
+                "name": "defbase",
+                "current": "6",
+                "max": "",
+                "id": "-Mt5jDnH3sic5eZmrGKE"
+            },
+            {
+                "name": "spatkbase",
+                "current": "4",
+                "max": "",
+                "id": "-Mt5jDnIUQwm5ug7WRHa"
+            },
+            {
+                "name": "spdefbase",
+                "current": "5",
+                "max": "",
+                "id": "-Mt5jDnJ5q9zKeZtJXqY"
+            },
+            {
+                "name": "spdbase",
+                "current": "8",
+                "max": "",
+                "id": "-Mt5jDnJ5q9zKeZtJXqZ"
+            },
+            {
+                "name": "acrobatics_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt5jDnKgcjuZluK3XQR"
+            },
+            {
+                "name": "athletics_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mt5jDnL7-XD2B1FLl6A"
+            },
+            {
+                "name": "bluff_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mt5jDnL7-XD2B1FLl6B"
+            },
+            {
+                "name": "concentration_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mt5jDnMJAcyyiUNdXY-"
+            },
+            {
+                "name": "constitution_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mt5jDnNo48EmxQaoAvj"
+            },
+            {
+                "name": "diplomacy_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mt5jDnOZJ0ouDuwaDsP"
+            },
+            {
+                "name": "engineering_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mt5jDnPOq9cdeqw40Rq"
+            },
+            {
+                "name": "history_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mt5jDnQnGwC45NBh7sC"
+            },
+            {
+                "name": "insight_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mt5jDnRhdSQi4sojdv6"
+            },
+            {
+                "name": "investigate_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mt5jDnRhdSQi4sojdv7"
+            },
+            {
+                "name": "medicine_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mt5jDnSCpEqIThXglHc"
+            },
+            {
+                "name": "nature_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mt5jDnTjfvJ2Lwvi6YD"
+            },
+            {
+                "name": "perception_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mt5jDnTjfvJ2Lwvi6YE"
+            },
+            {
+                "name": "perform_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mt5jDnU_ztO2vyeVhkh"
+            },
+            {
+                "name": "handling_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mt5jDnU_ztO2vyeVhki"
+            },
+            {
+                "name": "programming_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mt5jDnWZUB6d-vINFl5"
+            },
+            {
+                "name": "sleightofhand_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt5jDnWZUB6d-vINFl6"
+            },
+            {
+                "name": "stealth_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt5jDnXGJg5gr_Skzn4"
+            },
+            {
+                "name": "selected-page",
+                "current": "character-page",
+                "max": "",
+                "id": "-Mt5jDnYwWcfQZPhpz_e"
+            },
+            {
+                "name": "character-type",
+                "current": "pokemon",
+                "max": "",
+                "id": "-Mt5jDnZwDhgFqtG--xd"
+            },
+            {
+                "name": "species",
+                "current": "Deerling",
+                "max": "",
+                "id": "-Mt5jDnZwDhgFqtG--xe"
+            },
+            {
+                "name": "type1",
+                "current": "normal",
+                "max": "",
+                "id": "-Mt5jDn_tGQlKLxdhXSK"
+            },
+            {
+                "name": "type2",
+                "current": "grass",
+                "max": "",
+                "id": "-Mt5jDnaPprORTh99LDe"
+            },
+            {
+                "name": "size",
+                "current": "Medium",
+                "max": "",
+                "id": "-Mt5jDnaPprORTh99LDf"
+            },
+            {
+                "name": "weight",
+                "current": "Medium",
+                "max": "",
+                "id": "-Mt5jDnbBqiddj8Ke6-8"
+            },
+            {
+                "name": "pokemon_sex",
+                "current": "50% male, 50% female",
+                "max": "",
+                "id": "-Mt5jDncF9XHfBkuge20"
+            },
+            {
+                "name": "egg_group",
+                "current": "Field-10 days",
+                "max": "",
+                "id": "-Mt5jDncF9XHfBkuge21"
+            },
+            {
+                "name": "diet",
+                "current": "Herbivore",
+                "max": "",
+                "id": "-Mt5jDndLqe8loSWGbw1"
+            },
+            {
+                "name": "HP",
+                "current": "36",
+                "max": "36",
+                "id": "-Mt5jDnemhQ4bCGdhGz0"
+            },
+            {
+                "name": "ATK",
+                "current": 6,
+                "max": "",
+                "id": "-Mt5jDnf7il5_Z1VpOKE"
+            },
+            {
+                "name": "ATKMOD",
+                "current": 3,
+                "max": "",
+                "id": "-Mt5jDnf7il5_Z1VpOKF"
+            },
+            {
+                "name": "DEF",
+                "current": 6,
+                "max": "",
+                "id": "-Mt5jDngc612GEhZBjDF"
+            },
+            {
+                "name": "DEFMOD",
+                "current": 3,
+                "max": "",
+                "id": "-Mt5jDnhR9eUuEqXYoYI"
+            },
+            {
+                "name": "SPATK",
+                "current": 4,
+                "max": "",
+                "id": "-Mt5jDnhR9eUuEqXYoYJ"
+            },
+            {
+                "name": "SPATKMOD",
+                "current": 2,
+                "max": "",
+                "id": "-Mt5jDnibDaQrwdpnU0s"
+            },
+            {
+                "name": "SPDEF",
+                "current": 5,
+                "max": "",
+                "id": "-Mt5jDnibDaQrwdpnU0t"
+            },
+            {
+                "name": "SPDEFMOD",
+                "current": 2,
+                "max": "",
+                "id": "-Mt5jDnjWnxZvNrIOcI5"
+            },
+            {
+                "name": "SPD",
+                "current": 8,
+                "max": "",
+                "id": "-Mt5jDnktbMe3GTn1y7X"
+            },
+            {
+                "name": "SPDMOD",
+                "current": 4,
+                "max": "",
+                "id": "-Mt5jDnktbMe3GTn1y7Y"
+            },
+            {
+                "name": "movement",
+                "current": 40,
+                "max": "",
+                "id": "-Mt5jDnl0gaRHWxbi4aZ"
+            },
+            {
+                "name": "pokemonskills",
+                "current": "Seasonal (Deerling and Sawsbuck change their appearance depending on the season of the year.)\nSprouter (can manipulate plant life)",
+                "max": "",
+                "id": "-Mt5jDnl0gaRHWxbi4a_"
+            },
+            {
+                "name": "statpassives",
+                "current": "Growl (+1 Defense)",
+                "max": "",
+                "id": "-Mt5jDnm08mpvb4M8xGY"
+            },
+            {
+                "name": "otherpassives",
+                "current": "Chlorophyll (While in Sunny Weather, your Speed is +2.)",
+                "max": "",
+                "id": "-Mt5jDnm08mpvb4M8xGZ"
+            },
+            {
+                "name": "repeating_moves_-Moprh5jQZLb3lUmiKAC_move_name",
+                "current": "Tackle",
+                "max": "",
+                "id": "-Mt5jDoTQWbsm7pGE4Q1"
+            },
+            {
+                "name": "repeating_moves_-Moprh5jQZLb3lUmiKAC_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-Mt5jDoUCW44Dp4p6ET1"
+            },
+            {
+                "name": "repeating_moves_-Moprh5jQZLb3lUmiKAC_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-Mt5jDoUCW44Dp4p6ET2"
+            },
+            {
+                "name": "repeating_moves_-Moprh5jQZLb3lUmiKAC_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-Mt5jDoVQ3U-15yvB7Ad"
+            },
+            {
+                "name": "repeating_moves_-Moprh5jQZLb3lUmiKAC_move_totaldamage",
+                "current": 7,
+                "max": "",
+                "id": "-Mt5jDoWVAYMSZm5ZGdn"
+            },
+            {
+                "name": "repeating_moves_-Moprh5jQZLb3lUmiKAC_move_totaldamage_display",
+                "current": "2d6 + 7",
+                "max": "",
+                "id": "-Mt5jDoWVAYMSZm5ZGdo"
+            },
+            {
+                "name": "repeating_moves_-Moprh5jQZLb3lUmiKAC_move_totalaccuracy",
+                "current": 3,
+                "max": "",
+                "id": "-Mt5jDoXNDwZw4_E8puA"
+            },
+            {
+                "name": "repeating_moves_-Moprh5jQZLb3lUmiKAC_move_totalaccuracy_display",
+                "current": "d20 + 3",
+                "max": "",
+                "id": "-Mt5jDoXNDwZw4_E8puB"
+            },
+            {
+                "name": "repeating_moves_-Moprh5jQZLb3lUmiKAC_move_frequency",
+                "current": "atwill",
+                "max": "",
+                "id": "-Mt5jDoYKjgm7fOU0JGS"
+            },
+            {
+                "name": "repeating_moves_-Moprh5jQZLb3lUmiKAC_move_dicenumber",
+                "current": "2",
+                "max": "",
+                "id": "-Mt5jDoYKjgm7fOU0JGT"
+            },
+            {
+                "name": "repeating_moves_-Moprh5jQZLb3lUmiKAC_damage_dice",
+                "current": "6",
+                "max": "",
+                "id": "-Mt5jDoZAWndFlb4MAsB"
+            },
+            {
+                "name": "repeating_moves_-Moprh5jQZLb3lUmiKAC_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mt5jDoZAWndFlb4MAsC"
+            },
+            {
+                "name": "repeating_moves_-Moprh5jQZLb3lUmiKAC_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mt5jDo_GpD10tDuAAaz"
+            },
+            {
+                "name": "repeating_moves_-MoprrD0xdHYKodqeIbv_move_name",
+                "current": "Double Kick",
+                "max": "",
+                "id": "-Mt5jDo_GpD10tDuAAb-"
+            },
+            {
+                "name": "repeating_moves_-MoprrD0xdHYKodqeIbv_move_type",
+                "current": "fighting",
+                "max": "",
+                "id": "-Mt5jDoa02S4uJ47KtOS"
+            },
+            {
+                "name": "repeating_moves_-MoprrD0xdHYKodqeIbv_move_totaldamage",
+                "current": 3,
+                "max": "",
+                "id": "-Mt5jDoa02S4uJ47KtOT"
+            },
+            {
+                "name": "repeating_moves_-MoprrD0xdHYKodqeIbv_move_totaldamage_display",
+                "current": "1d20 + 3",
+                "max": "",
+                "id": "-Mt5jDoc2-35Jjmgqc4I"
+            },
+            {
+                "name": "repeating_moves_-MoprrD0xdHYKodqeIbv_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-Mt5jDodsiNQcMeb6J0Q"
+            },
+            {
+                "name": "repeating_moves_-MoprrD0xdHYKodqeIbv_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-Mt5jDoevbReAcP_T364"
+            },
+            {
+                "name": "repeating_moves_-MoprrD0xdHYKodqeIbv_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-Mt5jDofW_XRuYiBpUv9"
+            },
+            {
+                "name": "repeating_moves_-MoprrD0xdHYKodqeIbv_move_totalaccuracy",
+                "current": 3,
+                "max": "",
+                "id": "-Mt5jDogmm8bUprTOsgW"
+            },
+            {
+                "name": "repeating_moves_-MoprrD0xdHYKodqeIbv_move_totalaccuracy_display",
+                "current": "d20 + 3",
+                "max": "",
+                "id": "-Mt5jDogmm8bUprTOsgX"
+            },
+            {
+                "name": "repeating_moves_-MoprrD0xdHYKodqeIbv_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-Mt5jDohbxNzHfEoeE_V"
+            },
+            {
+                "name": "repeating_moves_-MoprrD0xdHYKodqeIbv_move_template",
+                "current": "dual-hit-move-roll",
+                "max": "",
+                "id": "-Mt5jDoifKKp2etliWrT"
+            },
+            {
+                "name": "repeating_moves_-MoprrD0xdHYKodqeIbv_move_dicenumber",
+                "current": "1",
+                "max": "",
+                "id": "-Mt5jDojvQfZ3gV2H0dE"
+            },
+            {
+                "name": "repeating_moves_-MoprrD0xdHYKodqeIbv_damage_dice",
+                "current": "20",
+                "max": "",
+                "id": "-Mt5jDol0nQ3jI3WMuqy"
+            },
+            {
+                "name": "repeating_moves_-MoprrD0xdHYKodqeIbv_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mt5jDomScTEZX8Ejat0"
+            },
+            {
+                "name": "repeating_moves_-MoprrD0xdHYKodqeIbv_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mt5jDonSkJwE1YoWgp_"
+            },
+            {
+                "name": "repeating_moves_-MopttYQWk45DwKU1my7_move_name",
+                "current": "Leech Seed",
+                "max": "",
+                "id": "-Mt5jDonSkJwE1YoWgpa"
+            },
+            {
+                "name": "repeating_moves_-MopttYQWk45DwKU1my7_move_effect",
+                "current": "On hit, the target gets a Seed Coat. The Coat has the following ability: At the beginning of your turn, if you are within 20 ft of the enemy who gave you the Seed Coat, you lose [[1d12]] HP. The enemy who gave you the Seed Coat will gain the same amount of HP that you lost. This Coat lasts for 3 mins, or until you are at 0 or less HP.",
+                "max": "",
+                "id": "-Mt5jDooMEmxkAfW_HUk"
+            },
+            {
+                "name": "repeating_moves_-MopttYQWk45DwKU1my7_move_range",
+                "current": "Ranged (10ft)",
+                "max": "",
+                "id": "-Mt5jDopt7bzLLf0sHwy"
+            },
+            {
+                "name": "repeating_moves_-MopttYQWk45DwKU1my7_move_type",
+                "current": "grass",
+                "max": "",
+                "id": "-Mt5jDoq_gW0541xo0MX"
+            },
+            {
+                "name": "repeating_moves_-MopttYQWk45DwKU1my7_move_totaldamage",
+                "current": 0,
+                "max": "",
+                "id": "-Mt5jDoq_gW0541xo0MY"
+            },
+            {
+                "name": "repeating_moves_-MopttYQWk45DwKU1my7_move_totaldamage_display",
+                "current": "0",
+                "max": "",
+                "id": "-Mt5jDorN_yDUyNPFPaB"
+            },
+            {
+                "name": "repeating_moves_-MopttYQWk45DwKU1my7_move_category",
+                "current": "3",
+                "max": "",
+                "id": "-Mt5jDoseQGZIVvnk5Ac"
+            },
+            {
+                "name": "repeating_moves_-MopttYQWk45DwKU1my7_move_category_defense",
+                "current": "Speed",
+                "max": "",
+                "id": "-Mt5jDouMUIBNjSSH-3-"
+            },
+            {
+                "name": "repeating_moves_-MopttYQWk45DwKU1my7_move_totalaccuracy",
+                "current": 4,
+                "max": "",
+                "id": "-Mt5jDovuLf3ClaUS4R_"
+            },
+            {
+                "name": "repeating_moves_-MopttYQWk45DwKU1my7_move_totalaccuracy_display",
+                "current": "d20 + 4",
+                "max": "",
+                "id": "-Mt5jDownfKOQoxA6sRO"
+            },
+            {
+                "name": "repeating_moves_-MopttYQWk45DwKU1my7_move_frequency",
+                "current": "3day",
+                "max": "",
+                "id": "-Mt5jDoyhSyxfcPm4Cbo"
+            },
+            {
+                "name": "repeating_moves_-MopttYQWk45DwKU1my7_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mt5jDozDlBslG4zTo0V"
+            },
+            {
+                "name": "repeating_moves_-MopttYQWk45DwKU1my7_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mt5jDp-fHTOkYl2ji2k"
+            },
+            {
+                "name": "repeating_moves_-Moprh5jQZLb3lUmiKAC_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt5jDp37Y2L2xt2fXRL"
+            },
+            {
+                "name": "repeating_moves_-Moprh5jQZLb3lUmiKAC_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt5jDp4vjSI66bd0u3g"
+            },
+            {
+                "name": "repeating_moves_-MoprrD0xdHYKodqeIbv_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt5jDp5J48Ty8lMpwSn"
+            },
+            {
+                "name": "repeating_moves_-MoprrD0xdHYKodqeIbv_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt5jDp64_pQJTs8iiDo"
+            },
+            {
+                "name": "repeating_moves_-MopttYQWk45DwKU1my7_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt5jDp7aLsS5-zsBEu6"
+            },
+            {
+                "name": "repeating_moves_-MopttYQWk45DwKU1my7_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt5jDp7aLsS5-zsBEu7"
+            },
+            {
+                "name": "notes",
+                "current": "Proficiencies: Grass / Kicks",
+                "max": "",
+                "id": "-Mt5jezeEyOYZndYCFqd"
+            },
+            {
+                "name": "repeating_moves_-MoprrD0xdHYKodqeIbv_move_effect",
+                "current": "Double Kick is a Scatter attack. It has two attacks.\n",
+                "max": "",
+                "id": "-Mvm98mR89mRi6L69ZIo"
+            }
+        ],
+        "abilities": []
+    }
+}

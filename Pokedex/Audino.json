@@ -1,0 +1,654 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-Mt6dadbI0sFvgkBrTE4",
+        "name": "Audino",
+        "avatar": "https://s3.amazonaws.com/files.d20.io/images/275721264/7OD0D8AnvA4JqWG2y08m-g/med.jpg?1647329914",
+        "bio": "%3Cp%3EAudino%20have%20one%20of%20the%20most%20acute%20senses%20of%20hearing%20in%20the%0APok%E9mon%20world.%20By%20touching%20the%20feelers%20on%20their%20ears%20to%20objects%2C%0Athese%20Pok%E9mon%20can%20pick%20up%20even%20the%20smallest%20sound%20waves%3B%20because%20of%20this%2C%20Audino%20are%20common%20sights%20in%20hospitals%20and%20Pok%E9mon%20Centers%2C%20where%20they%20are%20trained%20to%20use%20their%20feelers%20as%0Astethoscopes%20to%20detect%20irregularities%20in%20the%20heartbeats%20of%20patients.%20Their%20hearing%20is%20so%20advanced%20that%20they%20can%20also%20use%20their%0Afeelers%20to%20assess%20other%20aspects%20of%20an%20individual%u2019s%20health%2C%20including%0Ablood%20pressure%2C%20breathing%2C%20and%20digestion.%20Even%20without%20using%0Atheir%20feelers%2C%20their%20hearing%20is%20still%20superb%2C%20being%20as%20sensitive%20as%0Amany%20artificial%20radars.%20Audino%20are%20rarely%20seen%20in%20the%20wild%2C%20as%20they%0Aare%20shy%20Pok%E9mon%20that%20retreat%20and%20hide%20when%20they%20hear%20someone%0Aapproaching%u2014considering%20their%20extraordinary%20aural%20abilities%2C%20this%0Ameans%20that%20they%20almost%20always%20are%20hiding%20from%20potential%20enemies.%3C/p%3E",
+        "gmnotes": "",
+        "defaulttoken": "",
+        "tags": "[\"Normal\",\"Forest\",\"Urban\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "atknature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt6dahInwKAlD_TVVdN"
+            },
+            {
+                "name": "defnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt6dahJHycpeAHW6Uz1"
+            },
+            {
+                "name": "spatknature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt6dahKs3RBECJ9DRhE"
+            },
+            {
+                "name": "spdefnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt6dahKs3RBECJ9DRhF"
+            },
+            {
+                "name": "spdnature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt6dahLmaWUbQ0bZbFJ"
+            },
+            {
+                "name": "afflictions_text",
+                "current": "",
+                "max": "",
+                "id": "-Mt6dahM_zQuHPygUnIM"
+            },
+            {
+                "name": "capture_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mt6dahM_zQuHPygUnIN"
+            },
+            {
+                "name": "capture_display",
+                "current": "+5",
+                "max": "",
+                "id": "-Mt6dahNmNyO53vFYWAT"
+            },
+            {
+                "name": "capture_roll_total",
+                "current": 5,
+                "max": "",
+                "id": "-Mt6dahOYS9fg8axsAIq"
+            },
+            {
+                "name": "nature",
+                "current": 0,
+                "max": "",
+                "id": "-Mt6dahOYS9fg8axsAIr"
+            },
+            {
+                "name": "nature-type",
+                "current": "0",
+                "max": "",
+                "id": "-Mt6dahPrj8Ez3UOVuak"
+            },
+            {
+                "name": "atkbase",
+                "current": "6",
+                "max": "",
+                "id": "-Mt6dahQRjwo6LurqXQK"
+            },
+            {
+                "name": "defbase",
+                "current": "9",
+                "max": "",
+                "id": "-Mt6dahQRjwo6LurqXQL"
+            },
+            {
+                "name": "spatkbase",
+                "current": "6",
+                "max": "",
+                "id": "-Mt6dahR_ZWKRqHVmQgN"
+            },
+            {
+                "name": "spdefbase",
+                "current": "9",
+                "max": "",
+                "id": "-Mt6dahSxQjvUh9-UpZe"
+            },
+            {
+                "name": "spdbase",
+                "current": "5",
+                "max": "",
+                "id": "-Mt6dahTF15tETZ30Cft"
+            },
+            {
+                "name": "acrobatics_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mt6dahUTk-_o_i4b2EX"
+            },
+            {
+                "name": "athletics_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mt6dahUTk-_o_i4b2EY"
+            },
+            {
+                "name": "bluff_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6dahVAKNKE0u6m2Ag"
+            },
+            {
+                "name": "concentration_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6dahX5bjeKveRjm6K"
+            },
+            {
+                "name": "constitution_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6dahX5bjeKveRjm6L"
+            },
+            {
+                "name": "diplomacy_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6dahYPgnMi9hwqaqz"
+            },
+            {
+                "name": "engineering_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mt6dahZ7eT71igIOHfy"
+            },
+            {
+                "name": "history_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mt6dahZ7eT71igIOHfz"
+            },
+            {
+                "name": "insight_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6dahZ7eT71igIOHg-"
+            },
+            {
+                "name": "investigate_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mt6dah_w1J_MUeX9WdJ"
+            },
+            {
+                "name": "medicine_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mt6dahaFctw0mJ3iBPl"
+            },
+            {
+                "name": "nature_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mt6dahaFctw0mJ3iBPm"
+            },
+            {
+                "name": "perception_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6dahbNL3X-skp_StM"
+            },
+            {
+                "name": "perform_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6dahcBoiFl8XLM3ql"
+            },
+            {
+                "name": "handling_total",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6dahdpHWX1kqKuTRg"
+            },
+            {
+                "name": "programming_total",
+                "current": 3,
+                "max": "",
+                "id": "-Mt6dahdpHWX1kqKuTRh"
+            },
+            {
+                "name": "sleightofhand_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mt6daheXjXzV_y7Xkbj"
+            },
+            {
+                "name": "stealth_total",
+                "current": 2,
+                "max": "",
+                "id": "-Mt6dahfK_XOq04kQs5J"
+            },
+            {
+                "name": "selected-page",
+                "current": "character-page",
+                "max": "",
+                "id": "-Mt6dahfK_XOq04kQs5K"
+            },
+            {
+                "name": "character-type",
+                "current": "pokemon",
+                "max": "",
+                "id": "-Mt6dahfK_XOq04kQs5L"
+            },
+            {
+                "name": "species",
+                "current": "Audino",
+                "max": "",
+                "id": "-Mt6dahgZyMQqukGngR-"
+            },
+            {
+                "name": "size",
+                "current": "Medium",
+                "max": "",
+                "id": "-Mt6dahgZyMQqukGngR0"
+            },
+            {
+                "name": "weight",
+                "current": "Medium",
+                "max": "",
+                "id": "-Mt6dahhCiFbqtnI4MuU"
+            },
+            {
+                "name": "HP",
+                "current": "60",
+                "max": "60",
+                "id": "-Mt6dahi6lrZva_TTZrz"
+            },
+            {
+                "name": "ATK",
+                "current": 6,
+                "max": "",
+                "id": "-Mt6dahi6lrZva_TTZs-"
+            },
+            {
+                "name": "ATKMOD",
+                "current": 3,
+                "max": "",
+                "id": "-Mt6dahjef62iF3Ux3iL"
+            },
+            {
+                "name": "DEF",
+                "current": 9,
+                "max": "",
+                "id": "-Mt6dahjef62iF3Ux3iM"
+            },
+            {
+                "name": "DEFMOD",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6dahkw6qu3kNezuqe"
+            },
+            {
+                "name": "SPATK",
+                "current": 6,
+                "max": "",
+                "id": "-Mt6dahkw6qu3kNezuqf"
+            },
+            {
+                "name": "SPATKMOD",
+                "current": 3,
+                "max": "",
+                "id": "-Mt6dahl3znjPvLxaGXf"
+            },
+            {
+                "name": "SPDEF",
+                "current": 9,
+                "max": "",
+                "id": "-Mt6dahl3znjPvLxaGXg"
+            },
+            {
+                "name": "SPDEFMOD",
+                "current": 4,
+                "max": "",
+                "id": "-Mt6dahmjmZADIqsjkXs"
+            },
+            {
+                "name": "SPD",
+                "current": 5,
+                "max": "",
+                "id": "-Mt6dahn7oqiSJm0Jb0n"
+            },
+            {
+                "name": "SPDMOD",
+                "current": 2,
+                "max": "",
+                "id": "-Mt6dahoFB8pAvxjDtFy"
+            },
+            {
+                "name": "movement",
+                "current": 25,
+                "max": "",
+                "id": "-Mt6dahpgaFJGe8sWTrc"
+            },
+            {
+                "name": "statpassives",
+                "current": "",
+                "max": "",
+                "id": "-Mt6dahqvC32npi5derm"
+            },
+            {
+                "name": "otherpassives",
+                "current": "Regenerator (When returned to a Poke Ball, you recover to Max HP after being stored for 1 hour.)\nHealer (After acting, you may roll 1d20. On 16 or higher, any adjacent allies are cured of all afflictions.)",
+                "max": "",
+                "id": "-Mt6dahqvC32npi5dern"
+            },
+            {
+                "name": "repeating_moves_-Mt0aFUX-dQulW42XVN7_move_name",
+                "current": "Refresh",
+                "max": "",
+                "id": "-Mt6dai1gVat8Lmxa6jJ"
+            },
+            {
+                "name": "repeating_moves_-Mt0aFUX-dQulW42XVN7_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-Mt6dai2i3vqi23munlc"
+            },
+            {
+                "name": "repeating_moves_-Mt0aFUX-dQulW42XVN7_move_category",
+                "current": "3",
+                "max": "",
+                "id": "-Mt6dai2i3vqi23munld"
+            },
+            {
+                "name": "repeating_moves_-Mt0aFUX-dQulW42XVN7_move_category_defense",
+                "current": "Speed",
+                "max": "",
+                "id": "-Mt6dai3K92QGvu1c3YH"
+            },
+            {
+                "name": "repeating_moves_-Mt0aFUX-dQulW42XVN7_move_totaldamage",
+                "current": 0,
+                "max": "",
+                "id": "-Mt6dai3K92QGvu1c3YI"
+            },
+            {
+                "name": "repeating_moves_-Mt0aFUX-dQulW42XVN7_move_totaldamage_display",
+                "current": "0",
+                "max": "",
+                "id": "-Mt6dai4fprnB5vft1wa"
+            },
+            {
+                "name": "repeating_moves_-Mt0aFUX-dQulW42XVN7_move_totalaccuracy",
+                "current": 2,
+                "max": "",
+                "id": "-Mt6dai6Ri0BWa1HDwya"
+            },
+            {
+                "name": "repeating_moves_-Mt0aFUX-dQulW42XVN7_move_totalaccuracy_display",
+                "current": "d20 + 2",
+                "max": "",
+                "id": "-Mt6dai7pNiV_1mtzxVn"
+            },
+            {
+                "name": "repeating_moves_-Mt0aFUX-dQulW42XVN7_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-Mt6dai7pNiV_1mtzxVo"
+            },
+            {
+                "name": "repeating_moves_-Mt0aFUX-dQulW42XVN7_move_effect",
+                "current": "Target an ally or yourself. Target is cured of all afflictions.",
+                "max": "",
+                "id": "-Mt6dai8nvrY8N1aYm21"
+            },
+            {
+                "name": "repeating_moves_-Mt0aFUX-dQulW42XVN7_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mt6dai9io98urJQORXW"
+            },
+            {
+                "name": "repeating_moves_-Mt0aFUX-dQulW42XVN7_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mt6dai9io98urJQORXX"
+            },
+            {
+                "name": "repeating_moves_-Mt0aLjmOZ6KGGJje16n_move_name",
+                "current": "Attract",
+                "max": "",
+                "id": "-Mt6daiAfEaKmsknrf7g"
+            },
+            {
+                "name": "repeating_moves_-Mt0aLjmOZ6KGGJje16n_move_range",
+                "current": "Ranged (10ft)",
+                "max": "",
+                "id": "-Mt6daiAfEaKmsknrf7h"
+            },
+            {
+                "name": "repeating_moves_-Mt0aLjmOZ6KGGJje16n_move_category",
+                "current": "3",
+                "max": "",
+                "id": "-Mt6daiBnEIDxbMeOa0a"
+            },
+            {
+                "name": "repeating_moves_-Mt0aLjmOZ6KGGJje16n_move_category_defense",
+                "current": "Speed",
+                "max": "",
+                "id": "-Mt6daiCghNI5g1623wi"
+            },
+            {
+                "name": "repeating_moves_-Mt0aLjmOZ6KGGJje16n_move_totaldamage",
+                "current": 0,
+                "max": "",
+                "id": "-Mt6daiCghNI5g1623wj"
+            },
+            {
+                "name": "repeating_moves_-Mt0aLjmOZ6KGGJje16n_move_totaldamage_display",
+                "current": "0",
+                "max": "",
+                "id": "-Mt6daiD4Etwcru_VZah"
+            },
+            {
+                "name": "repeating_moves_-Mt0aLjmOZ6KGGJje16n_move_totalaccuracy",
+                "current": 2,
+                "max": "",
+                "id": "-Mt6daiEDZ2g93fs5gMb"
+            },
+            {
+                "name": "repeating_moves_-Mt0aLjmOZ6KGGJje16n_move_totalaccuracy_display",
+                "current": "d20 + 2",
+                "max": "",
+                "id": "-Mt6daiGowxSS5fKgQFP"
+            },
+            {
+                "name": "repeating_moves_-Mt0aLjmOZ6KGGJje16n_move_frequency",
+                "current": "3day",
+                "max": "",
+                "id": "-Mt6daiGowxSS5fKgQFQ"
+            },
+            {
+                "name": "repeating_moves_-Mt0aLjmOZ6KGGJje16n_move_acmod",
+                "current": "",
+                "max": "",
+                "id": "-Mt6daiHguUVZ76jT6KJ"
+            },
+            {
+                "name": "repeating_moves_-Mt0aLjmOZ6KGGJje16n_move_effect1",
+                "current": "6",
+                "max": "",
+                "id": "-Mt6daiIPPEY_LEGDoIY"
+            },
+            {
+                "name": "repeating_moves_-Mt0aLjmOZ6KGGJje16n_move_effect1_name",
+                "current": "Infatuated",
+                "max": "",
+                "id": "-Mt6daiIPPEY_LEGDoIZ"
+            },
+            {
+                "name": "repeating_moves_-Mt0aLjmOZ6KGGJje16n_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt6daiJd6HsRR2yf0b9"
+            },
+            {
+                "name": "repeating_moves_-Mt0aLjmOZ6KGGJje16n_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mt6daiKLm1YCm1Sebzm"
+            },
+            {
+                "name": "repeating_moves_-Mt0aLjmOZ6KGGJje16n_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mt6daiKLm1YCm1Sebzn"
+            },
+            {
+                "name": "notes",
+                "current": "Proficiencies: Elemental Attack / Healer",
+                "max": "",
+                "id": "-Mt6daiLCSD6qNF2f--Z"
+            },
+            {
+                "name": "egg_group",
+                "current": "Fairy-10 days",
+                "max": "",
+                "id": "-Mt6daiMQxDxfRan7tyL"
+            },
+            {
+                "name": "diet",
+                "current": "Herbivore",
+                "max": "",
+                "id": "-Mt6daiNh7-U5216sLax"
+            },
+            {
+                "name": "repeating_moves_-Mt0aFUX-dQulW42XVN7_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt6daiNh7-U5216sLay"
+            },
+            {
+                "name": "repeating_moves_-Mt0aFUX-dQulW42XVN7_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt6daiOBde4CmhbZyG2"
+            },
+            {
+                "name": "repeating_moves_-Mt0bTCV6xluEH-OZZxw_move_name",
+                "current": "Heal Pulse",
+                "max": "",
+                "id": "-Mt6daiOBde4CmhbZyG3"
+            },
+            {
+                "name": "repeating_moves_-Mt0bTCV6xluEH-OZZxw_move_range",
+                "current": "Ranged (10ft)",
+                "max": "",
+                "id": "-Mt6daiPR92kVAVd1lrK"
+            },
+            {
+                "name": "repeating_moves_-Mt0bTCV6xluEH-OZZxw_move_category",
+                "current": "3",
+                "max": "",
+                "id": "-Mt6daiR3gY7qMXfFU3a"
+            },
+            {
+                "name": "repeating_moves_-Mt0bTCV6xluEH-OZZxw_move_category_defense",
+                "current": "Speed",
+                "max": "",
+                "id": "-Mt6daiStZleTcE7nNsi"
+            },
+            {
+                "name": "repeating_moves_-Mt0bTCV6xluEH-OZZxw_move_totaldamage",
+                "current": 0,
+                "max": "",
+                "id": "-Mt6daiTbOtZR8cqXC9y"
+            },
+            {
+                "name": "repeating_moves_-Mt0bTCV6xluEH-OZZxw_move_totaldamage_display",
+                "current": "0",
+                "max": "",
+                "id": "-Mt6daiVEdaYZv-hLP45"
+            },
+            {
+                "name": "repeating_moves_-Mt0bTCV6xluEH-OZZxw_move_totalaccuracy",
+                "current": 2,
+                "max": "",
+                "id": "-Mt6daiWNdTTgT0gF7FJ"
+            },
+            {
+                "name": "repeating_moves_-Mt0bTCV6xluEH-OZZxw_move_totalaccuracy_display",
+                "current": "d20 + 2",
+                "max": "",
+                "id": "-Mt6daiWNdTTgT0gF7FK"
+            },
+            {
+                "name": "repeating_moves_-Mt0bTCV6xluEH-OZZxw_move_frequency",
+                "current": "3day",
+                "max": "",
+                "id": "-Mt6daiX5X3uMZY1LZj0"
+            },
+            {
+                "name": "repeating_moves_-Mt0bTCV6xluEH-OZZxw_move_dicenumber",
+                "current": "0",
+                "max": "",
+                "id": "-Mt6daiYS2qIhR-tIayV"
+            },
+            {
+                "name": "repeating_moves_-Mt0bTCV6xluEH-OZZxw_move_template",
+                "current": "move-roll",
+                "max": "",
+                "id": "-Mt6daiZ3wOwi6PVFe3I"
+            },
+            {
+                "name": "repeating_moves_-Mt0bTCV6xluEH-OZZxw_move_acmod",
+                "current": "0",
+                "max": "",
+                "id": "-Mt6daiaTvMBxEgo7D2m"
+            },
+            {
+                "name": "repeating_moves_-Mt0bTCV6xluEH-OZZxw_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-Mt6daiblXvq4iimIHw8"
+            },
+            {
+                "name": "repeating_moves_-Mt0bTCV6xluEH-OZZxw_flag",
+                "current": "+",
+                "max": "",
+                "id": "-Mt6daicUX7jQxnyHM2m"
+            },
+            {
+                "name": "repeating_moves_-Mt0bTCV6xluEH-OZZxw_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt6dainl8AYhPAJE0yk"
+            },
+            {
+                "name": "repeating_moves_-Mt0bTCV6xluEH-OZZxw_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mt6daiozD3rzCL8maOi"
+            },
+            {
+                "name": "repeating_moves_-Mt0bTCV6xluEH-OZZxw_move_type",
+                "current": "psychic",
+                "max": "",
+                "id": "-Mt6daj92oMBSV0zGWKi"
+            },
+            {
+                "name": "repeating_moves_-Mt0bTCV6xluEH-OZZxw_move_effect",
+                "current": "Target an ally or yourself. The target is healed HP equal to half of the target’s Max HP.",
+                "max": "",
+                "id": "-Mt6dajAdbxHcWxZrd_z"
+            },
+            {
+                "name": "type1",
+                "current": "normal",
+                "max": "",
+                "id": "-MvrFqcY18VLfMLLjvWB"
+            },
+            {
+                "name": "repeating_moves_-Mt0aLjmOZ6KGGJje16n_move_effect",
+                "current": "On hit, the target is Infatuated with you.",
+                "max": "",
+                "id": "-MvrG2kk5b9EvAGe7UeY"
+            },
+            {
+                "name": "pokemon_sex",
+                "current": " 50% male, 50% female",
+                "max": "",
+                "id": "-MyBW1LFJr1Pp3uTBf3p"
+            }
+        ],
+        "abilities": []
+    }
+}

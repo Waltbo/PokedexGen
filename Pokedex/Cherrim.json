@@ -1,0 +1,972 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-MvaOC53D5wyf7P7KMeS",
+        "name": "Cherrim",
+        "avatar": "https://s3.amazonaws.com/files.d20.io/images/275172400/JZZf5DlOpdFfN6QUbzHeBA/med.png?1647070733",
+        "bio": "%3Cp%3EWhen%20in%20their%20standard%20forms%2C%20it%20is%20quite%20easy%20to%20completely%0Amiss%20Cherrim%20while%20examining%20the%20treetops.%20In%20its%20Overcast%20Form%2C%0ACherrim%20are%20quiet%20and%20immobile%2C%20waiting%20unassumingly%20in%20the%0Ashade.%20Once%20hit%20by%20beams%20of%20sunlight%2C%20however%2C%20they%20bloom%20into%0Aits%20Sunshine%20Form.%20In%20this%20form%2C%20Cherrim%20are%20very%20active%20and%20excitable%2C%20basking%20fully%20in%20the%20sun%u2019s%20rays%20by%20facing%20all%20of%20their%20petals%0Atowards%20it.%20They%20use%20this%20precious%20time%20under%20the%20sun%20to%20photosynthesize%20as%20much%20energy%20as%20they%20can%2C%20since%20they%20are%20unable%20to%0Ado%20so%20in%20its%20other%20form.%20Cherrim%20also%20becomes%20stronger%20under%0Athe%20sunlight%20thanks%20to%20this%20extra%20energy.%20They%20can%20take%20down%0Afoes%20much%20larger%20than%20themselves%20by%20using%20powerful%20solar%0Aattacks%20during%20this%20time.%20They%20can%20store%20large%20amounts%20of%20sugars%0Ain%20their%20bodies%2C%20which%20they%20use%20to%20endure%20long%20periods%20in%20the%0AOvercast%20Form.%20In%20the%20Sunshine%20Form%2C%20they%20appear%20eternally%20joyful%2C%20while%20in%20Overcast%20Form%20they%20seem%20constantly%20gloomy.%20Once%0Athe%20sunlight%20wanes%2C%20Cherrim%20close%20their%20petals%20and%20return%20to%20the%0AOvercast%20Form%2C%20patiently%20waiting%20for%20the%20sun%20to%20return.%20Their%20petals%20are%20deceptively%20tough%2C%20protecting%20them%20from%20pecking%20predators.%3C/p%3E",
+        "gmnotes": "",
+        "defaulttoken": "{\"left\":315,\"top\":455,\"width\":70,\"height\":70,\"imgsrc\":\"https://s3.amazonaws.com/files.d20.io/images/275172496/oCTaOsYR36UFyAAEcDXyNA/med.png?1647070804\",\"page_id\":\"-MYWp6jllc7YsYqj_slP\",\"layer\":\"objects\",\"show_tooltip\":false,\"sides\":\"https%3A//s3.amazonaws.com/files.d20.io/images/275172496/oCTaOsYR36UFyAAEcDXyNA/med.png%3F1647070804|https%3A//s3.amazonaws.com/files.d20.io/images/275172519/6zgWgvofwQC3a6ffkmk_rA/med.jpg%3F1647070824\",\"lastmove\":\"347,489\"}",
+        "tags": "[\"Grass\",\"Forest\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "atknature",
+                "current": 0,
+                "max": "",
+                "id": "-MvaOC6lOCv5rvHfY7aL"
+            },
+            {
+                "name": "defnature",
+                "current": 0,
+                "max": "",
+                "id": "-MvaOC6mb2teY-iVwvO5"
+            },
+            {
+                "name": "spatknature",
+                "current": 0,
+                "max": "",
+                "id": "-MvaOC6o5eW8-S8wEznS"
+            },
+            {
+                "name": "spdefnature",
+                "current": 0,
+                "max": "",
+                "id": "-MvaOC6qXnCOlnikpdHs"
+            },
+            {
+                "name": "spdnature",
+                "current": 0,
+                "max": "",
+                "id": "-MvaOC6rbYcLvPChElfG"
+            },
+            {
+                "name": "afflictions_text",
+                "current": "",
+                "max": "",
+                "id": "-MvaOC6sXcQJfZjUimc-"
+            },
+            {
+                "name": "capture_total",
+                "current": 4,
+                "max": "",
+                "id": "-MvaOC6uTP7Skx5qI5CQ"
+            },
+            {
+                "name": "capture_display",
+                "current": "+5",
+                "max": "",
+                "id": "-MvaOC6vc5V6bGjcLVrP"
+            },
+            {
+                "name": "capture_roll_total",
+                "current": 5,
+                "max": "",
+                "id": "-MvaOC6wzYQMzYEn_k0_"
+            },
+            {
+                "name": "nature",
+                "current": 0,
+                "max": "",
+                "id": "-MvaOC6xLF7BydiIlR4-"
+            },
+            {
+                "name": "nature-type",
+                "current": "0",
+                "max": "",
+                "id": "-MvaOC6ze2RGPylixs2s"
+            },
+            {
+                "name": "atkbase",
+                "current": "7",
+                "max": "",
+                "id": "-MvaOC7-gvYQDyLPDkd9"
+            },
+            {
+                "name": "defbase",
+                "current": "7",
+                "max": "",
+                "id": "-MvaOC70nKu2re8tMjq-"
+            },
+            {
+                "name": "spatkbase",
+                "current": "10",
+                "max": "",
+                "id": "-MvaOC717N0UIA34wb-j"
+            },
+            {
+                "name": "spdefbase",
+                "current": "8",
+                "max": "",
+                "id": "-MvaOC72yKTFEduN_2fF"
+            },
+            {
+                "name": "spdbase",
+                "current": "9",
+                "max": "",
+                "id": "-MvaOC731mwCwnVP4Ozb"
+            },
+            {
+                "name": "acrobatics_total",
+                "current": 4,
+                "max": "",
+                "id": "-MvaOC749JsZFm6tf18S"
+            },
+            {
+                "name": "athletics_total",
+                "current": 6,
+                "max": "",
+                "id": "-MvaOC75G6CBYyIeDVdy"
+            },
+            {
+                "name": "bluff_total",
+                "current": 4,
+                "max": "",
+                "id": "-MvaOC76uty00avtWzOI"
+            },
+            {
+                "name": "concentration_total",
+                "current": 3,
+                "max": "",
+                "id": "-MvaOC77mGERy3PkJ7xg"
+            },
+            {
+                "name": "constitution_total",
+                "current": 3,
+                "max": "",
+                "id": "-MvaOC78Hw7PaexnHqhf"
+            },
+            {
+                "name": "diplomacy_total",
+                "current": 4,
+                "max": "",
+                "id": "-MvaOC79-ww7-mge4STf"
+            },
+            {
+                "name": "engineering_total",
+                "current": 8,
+                "max": "",
+                "id": "-MvaOC7AljW5S4slRgXA"
+            },
+            {
+                "name": "history_total",
+                "current": 8,
+                "max": "",
+                "id": "-MvaOC7AljW5S4slRgXB"
+            },
+            {
+                "name": "insight_total",
+                "current": 4,
+                "max": "",
+                "id": "-MvaOC7B8hkIQOOl5tC3"
+            },
+            {
+                "name": "investigate_total",
+                "current": 8,
+                "max": "",
+                "id": "-MvaOC7Cr-BAPaLaYS75"
+            },
+            {
+                "name": "medicine_total",
+                "current": 8,
+                "max": "",
+                "id": "-MvaOC7FJwQRwsboSQtS"
+            },
+            {
+                "name": "nature_total",
+                "current": 8,
+                "max": "",
+                "id": "-MvaOC7GpFMNU2hY38_f"
+            },
+            {
+                "name": "perception_total",
+                "current": 4,
+                "max": "",
+                "id": "-MvaOC7ICd2fTKztzIRi"
+            },
+            {
+                "name": "perform_total",
+                "current": 4,
+                "max": "",
+                "id": "-MvaOC7JsQTd2_19v9kL"
+            },
+            {
+                "name": "handling_total",
+                "current": 4,
+                "max": "",
+                "id": "-MvaOC7KgB6nfk4mMxF7"
+            },
+            {
+                "name": "programming_total",
+                "current": 8,
+                "max": "",
+                "id": "-MvaOC7KgB6nfk4mMxF8"
+            },
+            {
+                "name": "sleightofhand_total",
+                "current": 4,
+                "max": "",
+                "id": "-MvaOC7KgB6nfk4mMxF9"
+            },
+            {
+                "name": "stealth_total",
+                "current": 4,
+                "max": "",
+                "id": "-MvaOC7LosdbxQEXEqSj"
+            },
+            {
+                "name": "selected-page",
+                "current": "character-page",
+                "max": "",
+                "id": "-MvaOC7MeIWUm0MOmyIL"
+            },
+            {
+                "name": "character-type",
+                "current": "pokemon",
+                "max": "",
+                "id": "-MvaOC7O5-freOpP5U6W"
+            },
+            {
+                "name": "species",
+                "current": "Cherrim",
+                "max": "",
+                "id": "-MvaOC7PtYdatOKJoj5e"
+            },
+            {
+                "name": "type1",
+                "current": "grass",
+                "max": "",
+                "id": "-MvaOC7Q_48jYl35pcKI"
+            },
+            {
+                "name": "size",
+                "current": "Small",
+                "max": "",
+                "id": "-MvaOC7RY8TjaJgghL0o"
+            },
+            {
+                "name": "weight",
+                "current": "Light",
+                "max": "",
+                "id": "-MvaOC7ToKXX02MGl_Fs"
+            },
+            {
+                "name": "egg_group",
+                "current": "Fairy/Grass-10 days",
+                "max": "",
+                "id": "-MvaOC7VovtfvKe7PXub"
+            },
+            {
+                "name": "diet",
+                "current": "Phototroph",
+                "max": "",
+                "id": "-MvaOC7WXELIgxsstbWm"
+            },
+            {
+                "name": "HP",
+                "current": "42",
+                "max": "42",
+                "id": "-MvaOC7X70V1neypS8Lb"
+            },
+            {
+                "name": "ATK",
+                "current": 13,
+                "max": "",
+                "id": "-MvaOC7YWYEUMISBHwBL"
+            },
+            {
+                "name": "ATKMOD",
+                "current": 6,
+                "max": "",
+                "id": "-MvaOC7_kfTH2L0qIc-O"
+            },
+            {
+                "name": "DEF",
+                "current": 7,
+                "max": "",
+                "id": "-MvaOC7auwiJd71-kYlQ"
+            },
+            {
+                "name": "DEFMOD",
+                "current": 3,
+                "max": "",
+                "id": "-MvaOC7bM4WFAieICtEW"
+            },
+            {
+                "name": "SPATK",
+                "current": 16,
+                "max": "",
+                "id": "-MvaOC7c4lY71c7q4U_k"
+            },
+            {
+                "name": "SPATKMOD",
+                "current": 8,
+                "max": "",
+                "id": "-MvaOC7dncGebFFgD3H6"
+            },
+            {
+                "name": "SPDEF",
+                "current": 8,
+                "max": "",
+                "id": "-MvaOC7euAK6XFdleNZo"
+            },
+            {
+                "name": "SPDEFMOD",
+                "current": 4,
+                "max": "",
+                "id": "-MvaOC7f5pi6JDralX2u"
+            },
+            {
+                "name": "SPD",
+                "current": 9,
+                "max": "",
+                "id": "-MvaOC7hQUtFP-18tFxh"
+            },
+            {
+                "name": "SPDMOD",
+                "current": 4,
+                "max": "",
+                "id": "-MvaOC7iXceEPzV2mdWi"
+            },
+            {
+                "name": "movement",
+                "current": 45,
+                "max": "",
+                "id": "-MvaOC7jHbV8Zc-9PDgp"
+            },
+            {
+                "name": "statpassives",
+                "current": "Growth (+1 Attack, +1 Special Attack)",
+                "max": "",
+                "id": "-MvaOC7kWmVPZI5WQbRU"
+            },
+            {
+                "name": "otherpassives",
+                "current": "Chlorophyll (While in Sunny Weather, your Speed is +2.)\nFlower Gift (While Cherrim is in Sunny Weather, Cherrim’s Attack and Special Defense is +6.)",
+                "max": "",
+                "id": "-MvaOC7lYYLoYSSf_OzR"
+            },
+            {
+                "name": "repeating_moves_-MvaNteR3Q7zDJIYnA2I_move_name",
+                "current": "Tackle",
+                "max": "",
+                "id": "-MvaOC7mZhFMLSfiKHL2"
+            },
+            {
+                "name": "repeating_moves_-MvaNteR3Q7zDJIYnA2I_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MvaOC7nX_1EuoWzfBO9"
+            },
+            {
+                "name": "repeating_moves_-MvaNteR3Q7zDJIYnA2I_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-MvaOC7oCTuq_6ZsciDu"
+            },
+            {
+                "name": "repeating_moves_-MvaNteR3Q7zDJIYnA2I_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-MvaOC7pWsPcgRtqPxxU"
+            },
+            {
+                "name": "repeating_moves_-MvaNteR3Q7zDJIYnA2I_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-MvaOC7rZ5iOOQJnyBz1"
+            },
+            {
+                "name": "repeating_moves_-MvaNteR3Q7zDJIYnA2I_move_totaldamage",
+                "current": 6,
+                "max": "",
+                "id": "-MvaOC7rZ5iOOQJnyBz2"
+            },
+            {
+                "name": "repeating_moves_-MvaNteR3Q7zDJIYnA2I_move_totaldamage_display",
+                "current": "2d6 + 6",
+                "max": "",
+                "id": "-MvaOC7sFGp5kT77XIrj"
+            },
+            {
+                "name": "repeating_moves_-MvaNteR3Q7zDJIYnA2I_move_totalaccuracy",
+                "current": 6,
+                "max": "",
+                "id": "-MvaOC7tgnT4c8jjMgXt"
+            },
+            {
+                "name": "repeating_moves_-MvaNteR3Q7zDJIYnA2I_move_totalaccuracy_display",
+                "current": "d20 + 6",
+                "max": "",
+                "id": "-MvaOC7uDx4n2iDWFpRB"
+            },
+            {
+                "name": "repeating_moves_-MvaNteR3Q7zDJIYnA2I_move_frequency",
+                "current": "atwill",
+                "max": "",
+                "id": "-MvaOC7vc5YS2eDL7eVF"
+            },
+            {
+                "name": "repeating_moves_-MvaNteR3Q7zDJIYnA2I_move_dicenumber",
+                "current": "2",
+                "max": "",
+                "id": "-MvaOC7xzmwTQ9mdpoo1"
+            },
+            {
+                "name": "repeating_moves_-MvaNteR3Q7zDJIYnA2I_damage_dice",
+                "current": "6",
+                "max": "",
+                "id": "-MvaOC7yWgoajqvOmHyk"
+            },
+            {
+                "name": "repeating_moves_-MvaNteR3Q7zDJIYnA2I_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MvaOC8-GoagiZNnn5KF"
+            },
+            {
+                "name": "repeating_moves_-MvaNteR3Q7zDJIYnA2I_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MvaOC80wEa6t5206g8H"
+            },
+            {
+                "name": "repeating_moves_-MvaNwPFY1asQXoDrsJZ_move_name",
+                "current": "Morning Sun",
+                "max": "",
+                "id": "-MvaOC812EIZPfVzFF2R"
+            },
+            {
+                "name": "repeating_moves_-MvaNwPFY1asQXoDrsJZ_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MvaOC82WA_x1G-09ma_"
+            },
+            {
+                "name": "repeating_moves_-MvaNwPFY1asQXoDrsJZ_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-MvaOC84xz1ZPA_5n6pk"
+            },
+            {
+                "name": "repeating_moves_-MvaNwPFY1asQXoDrsJZ_move_category",
+                "current": "3",
+                "max": "",
+                "id": "-MvaOC85ImX719VQ8tYE"
+            },
+            {
+                "name": "repeating_moves_-MvaNwPFY1asQXoDrsJZ_move_category_defense",
+                "current": "Speed",
+                "max": "",
+                "id": "-MvaOC86xlUH-DEtOuau"
+            },
+            {
+                "name": "repeating_moves_-MvaNwPFY1asQXoDrsJZ_move_totaldamage",
+                "current": 0,
+                "max": "",
+                "id": "-MvaOC87kvKCpPwinRZk"
+            },
+            {
+                "name": "repeating_moves_-MvaNwPFY1asQXoDrsJZ_move_totaldamage_display",
+                "current": "0",
+                "max": "",
+                "id": "-MvaOC88paf6-fyEk1eN"
+            },
+            {
+                "name": "repeating_moves_-MvaNwPFY1asQXoDrsJZ_move_totalaccuracy",
+                "current": 4,
+                "max": "",
+                "id": "-MvaOC89inUdlLE1Oe8m"
+            },
+            {
+                "name": "repeating_moves_-MvaNwPFY1asQXoDrsJZ_move_totalaccuracy_display",
+                "current": "d20 + 4",
+                "max": "",
+                "id": "-MvaOC8A75yRSHmF-XKJ"
+            },
+            {
+                "name": "repeating_moves_-MvaNwPFY1asQXoDrsJZ_move_frequency",
+                "current": "3day",
+                "max": "",
+                "id": "-MvaOC8CAQi_b9FGrVig"
+            },
+            {
+                "name": "repeating_moves_-MvaNwPFY1asQXoDrsJZ_move_effect",
+                "current": "Target an ally or yourself. The target is healed HP equal to half of the target’s Max HP. If you are within Sunny Weather, the target is healed HP equal to 3/4ths of the target’s Max HP instead.",
+                "max": "",
+                "id": "-MvaOC8DAOaaAT7lhDDq"
+            },
+            {
+                "name": "repeating_moves_-MvaNwPFY1asQXoDrsJZ_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MvaOC8EdMGZiTl4I0BW"
+            },
+            {
+                "name": "repeating_moves_-MvaNwPFY1asQXoDrsJZ_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MvaOC8FcAEWx3_aHEPW"
+            },
+            {
+                "name": "repeating_moves_-MvaO1NUqpd1sTkABelK_move_name",
+                "current": "Sunny Day",
+                "max": "",
+                "id": "-MvaOC8Hrz7WSMrSIyRd"
+            },
+            {
+                "name": "repeating_moves_-MvaO1NUqpd1sTkABelK_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MvaOC8It5wcYAGCmWc0"
+            },
+            {
+                "name": "repeating_moves_-MvaO1NUqpd1sTkABelK_move_range",
+                "current": "Field",
+                "max": "",
+                "id": "-MvaOC8JsS4-HjSAZcdD"
+            },
+            {
+                "name": "repeating_moves_-MvaO1NUqpd1sTkABelK_move_type",
+                "current": "fire",
+                "max": "",
+                "id": "-MvaOC8K3kfrzcYh0jRY"
+            },
+            {
+                "name": "repeating_moves_-MvaO1NUqpd1sTkABelK_move_totaldamage",
+                "current": 0,
+                "max": "",
+                "id": "-MvaOC8MrdPIRocfVPn9"
+            },
+            {
+                "name": "repeating_moves_-MvaO1NUqpd1sTkABelK_move_totaldamage_display",
+                "current": "0",
+                "max": "",
+                "id": "-MvaOC8MrdPIRocfVPnA"
+            },
+            {
+                "name": "repeating_moves_-MvaO1NUqpd1sTkABelK_move_category",
+                "current": "3",
+                "max": "",
+                "id": "-MvaOC8Nk7joKi6GcS7j"
+            },
+            {
+                "name": "repeating_moves_-MvaO1NUqpd1sTkABelK_move_category_defense",
+                "current": "Speed",
+                "max": "",
+                "id": "-MvaOC8PuVhzPIWi3v9D"
+            },
+            {
+                "name": "repeating_moves_-MvaO1NUqpd1sTkABelK_move_totalaccuracy",
+                "current": 4,
+                "max": "",
+                "id": "-MvaOC8ROR-gjf721BwQ"
+            },
+            {
+                "name": "repeating_moves_-MvaO1NUqpd1sTkABelK_move_totalaccuracy_display",
+                "current": "d20 + 4",
+                "max": "",
+                "id": "-MvaOC8SIZ4pp7cLrOL0"
+            },
+            {
+                "name": "repeating_moves_-MvaO1NUqpd1sTkABelK_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-MvaOC8UGYQeb9Ul-9sW"
+            },
+            {
+                "name": "repeating_moves_-MvaO1NUqpd1sTkABelK_move_effect",
+                "current": "You create a circle of Sunny Weather with a 60ft diameter. Within the Sunny weather, Firetype attacks deal an additional 8 damage and Water-type attacks deal 8 less damage. This weather disappears after 2 mins.",
+                "max": "",
+                "id": "-MvaOC8W4ddswjJdVetU"
+            },
+            {
+                "name": "repeating_moves_-MvaO1NUqpd1sTkABelK_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MvaOC8Xaebb6Kl49EBd"
+            },
+            {
+                "name": "repeating_moves_-MvaO1NUqpd1sTkABelK_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MvaOC8Y1V39gfmMx9Lc"
+            },
+            {
+                "name": "notes",
+                "current": "Proficiencies: Grass / Floral",
+                "max": "",
+                "id": "-MvaOC8ZFlwPUGU7G_YZ"
+            },
+            {
+                "name": "repeating_moves_-MvaNteR3Q7zDJIYnA2I_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-MvaOEdDomA4kebQjhq9"
+            },
+            {
+                "name": "repeating_moves_-MvaNteR3Q7zDJIYnA2I_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MvaOEdG59WOHbDsV6Kl"
+            },
+            {
+                "name": "repeating_moves_-MvaNwPFY1asQXoDrsJZ_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-MvaOEdLDe08ICnf5akO"
+            },
+            {
+                "name": "repeating_moves_-MvaNwPFY1asQXoDrsJZ_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MvaOEdOLrbhp3J2TER2"
+            },
+            {
+                "name": "repeating_moves_-MvaO1NUqpd1sTkABelK_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-MvaOEdRyiReqkesw2nB"
+            },
+            {
+                "name": "repeating_moves_-MvaO1NUqpd1sTkABelK_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MvaOEdUEX_DM1JDMQvL"
+            },
+            {
+                "name": "pokemonskills",
+                "current": "Alluring (attracts others with their aroma)\nBloom (Cherrim changes from Overcast to Sunshine forms when the weather is Sunny.)",
+                "max": "",
+                "id": "-MvaORRJVf4fN5_ZPLV9"
+            },
+            {
+                "name": "repeating_moves_-MvaOV11quSo8OzbYRmk_move_name",
+                "current": "Petal Dance",
+                "max": "",
+                "id": "-MvaOWLiZNHoKy0t2tIe"
+            },
+            {
+                "name": "repeating_moves_-MvaOV11quSo8OzbYRmk_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MvaOWR2Q_y2OMMap1JK"
+            },
+            {
+                "name": "repeating_moves_-MvaOV11quSo8OzbYRmk_move_range",
+                "current": "Ranged (5 ft burst)",
+                "max": "",
+                "id": "-MvaOXridqmFFsZm29Ea"
+            },
+            {
+                "name": "repeating_moves_-MvaOV11quSo8OzbYRmk_move_type",
+                "current": "grass",
+                "max": "",
+                "id": "-MvaOXxyRrrnTvz_KbUU"
+            },
+            {
+                "name": "repeating_moves_-MvaOV11quSo8OzbYRmk_move_totaldamage",
+                "current": 12,
+                "max": "",
+                "id": "-MvaOY-1sph0a8C_-ybX"
+            },
+            {
+                "name": "repeating_moves_-MvaOV11quSo8OzbYRmk_move_totaldamage_display",
+                "current": "5d12 + 12",
+                "max": "",
+                "id": "-MvaOY-4QmjqrUNgx9zA"
+            },
+            {
+                "name": "repeating_moves_-MvaOV11quSo8OzbYRmk_move_category",
+                "current": "2",
+                "max": "",
+                "id": "-MvaOY8cI5n3KU8y-uKv"
+            },
+            {
+                "name": "repeating_moves_-MvaOV11quSo8OzbYRmk_move_category_defense",
+                "current": "Special Defense",
+                "max": "",
+                "id": "-MvaOYAaBLMlYJ-aYdM8"
+            },
+            {
+                "name": "repeating_moves_-MvaOV11quSo8OzbYRmk_move_totalaccuracy",
+                "current": 8,
+                "max": "",
+                "id": "-MvaOYAitRctlq8GKyQp"
+            },
+            {
+                "name": "repeating_moves_-MvaOV11quSo8OzbYRmk_move_totalaccuracy_display",
+                "current": "d20 + 8",
+                "max": "",
+                "id": "-MvaOYAmRuLx3d6qfxHG"
+            },
+            {
+                "name": "repeating_moves_-MvaOV11quSo8OzbYRmk_move_frequency",
+                "current": "3day",
+                "max": "",
+                "id": "-MvaOYHxyXNiuUxhwVAQ"
+            },
+            {
+                "name": "repeating_moves_-MvaOV11quSo8OzbYRmk_move_dicenumber",
+                "current": "5",
+                "max": "",
+                "id": "-MvaOYWdBWEAL11E6nkR"
+            },
+            {
+                "name": "repeating_moves_-MvaOV11quSo8OzbYRmk_damage_dice",
+                "current": "12",
+                "max": "",
+                "id": "-MvaOYaHKBZRfzkA03dV"
+            },
+            {
+                "name": "repeating_moves_-MvaOV11quSo8OzbYRmk_move_effect",
+                "current": "Move to and attack the nearest possible target within 25ft. During your next action, move to and Petal Dance the nearest possible target within 25ft, then you become Confused. Petal Dance can and will target allies if possible.",
+                "max": "",
+                "id": "-MvaOaoLTO2nmBYAp_It"
+            },
+            {
+                "name": "repeating_moves_-MvaOV11quSo8OzbYRmk_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MvaOapo0YvTytquhKGe"
+            },
+            {
+                "name": "repeating_moves_-MvaOV11quSo8OzbYRmk_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MvaOariPFdx6xB__Y3j"
+            },
+            {
+                "name": "repeating_moves_-MvaOazMYrDWD5CZj2Ds_move_name",
+                "current": "Solar Beam",
+                "max": "",
+                "id": "-MvaObjki2Ny26TfTAJ0"
+            },
+            {
+                "name": "repeating_moves_-MvaOazMYrDWD5CZj2Ds_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MvaObp-ZGZOXvJEwbZV"
+            },
+            {
+                "name": "repeating_moves_-MvaOazMYrDWD5CZj2Ds_move_range",
+                "current": "Ranged (30 ft beam)",
+                "max": "",
+                "id": "-MvaOd-_4pzABohabI92"
+            },
+            {
+                "name": "repeating_moves_-MvaOazMYrDWD5CZj2Ds_move_type",
+                "current": "grass",
+                "max": "",
+                "id": "-MvaOdEYKdCYLvmfB13b"
+            },
+            {
+                "name": "repeating_moves_-MvaOazMYrDWD5CZj2Ds_move_totaldamage",
+                "current": 12,
+                "max": "",
+                "id": "-MvaOdGVAm7Hr4L0uGMR"
+            },
+            {
+                "name": "repeating_moves_-MvaOazMYrDWD5CZj2Ds_move_totaldamage_display",
+                "current": "5d12 + 12",
+                "max": "",
+                "id": "-MvaOdGY_ydm5zwqmvhW"
+            },
+            {
+                "name": "repeating_moves_-MvaOazMYrDWD5CZj2Ds_move_category",
+                "current": "2",
+                "max": "",
+                "id": "-MvaOdbbdOo6PgbL3hUJ"
+            },
+            {
+                "name": "repeating_moves_-MvaOazMYrDWD5CZj2Ds_move_category_defense",
+                "current": "Special Defense",
+                "max": "",
+                "id": "-MvaOdddEjob16JDZZ_o"
+            },
+            {
+                "name": "repeating_moves_-MvaOazMYrDWD5CZj2Ds_move_totalaccuracy",
+                "current": 8,
+                "max": "",
+                "id": "-MvaOddiC1uVB2Bg-bsq"
+            },
+            {
+                "name": "repeating_moves_-MvaOazMYrDWD5CZj2Ds_move_totalaccuracy_display",
+                "current": "d20 + 8",
+                "max": "",
+                "id": "-MvaOddlAUUAlUR7McPT"
+            },
+            {
+                "name": "repeating_moves_-MvaOazMYrDWD5CZj2Ds_move_frequency",
+                "current": "3day",
+                "max": "",
+                "id": "-MvaOdkX0U4c534OYYdq"
+            },
+            {
+                "name": "repeating_moves_-MvaOazMYrDWD5CZj2Ds_move_dicenumber",
+                "current": "5",
+                "max": "",
+                "id": "-MvaOe6uedWFWA9qd73v"
+            },
+            {
+                "name": "repeating_moves_-MvaOazMYrDWD5CZj2Ds_damage_dice",
+                "current": "12",
+                "max": "",
+                "id": "-MvaOeBdmoXswAACHnsI"
+            },
+            {
+                "name": "repeating_moves_-MvaOazMYrDWD5CZj2Ds_move_effect",
+                "current": "When you use this attack you immediately end your turn unless it’s Sunny. During your next turn, or immediately if it’s Sunny, you may target with and roll Solar Beam’s Accuracy Check and damage.",
+                "max": "",
+                "id": "-MvaOhm5O33LuZgLD_4c"
+            },
+            {
+                "name": "repeating_moves_-MvaOazMYrDWD5CZj2Ds_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MvaOhncFmJr0jQwBQqG"
+            },
+            {
+                "name": "repeating_moves_-MvaOazMYrDWD5CZj2Ds_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MvaOhpPH317Vp_Xs6jv"
+            },
+            {
+                "name": "repeating_moves_-MvaOi2ifCfW2Dc4tls6_move_name",
+                "current": "Lucky Chant",
+                "max": "",
+                "id": "-MvaOjSbAbd-k0jp9oV8"
+            },
+            {
+                "name": "repeating_moves_-MvaOi2ifCfW2Dc4tls6_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MvaOjXzBa-kjnIc79qo"
+            },
+            {
+                "name": "repeating_moves_-MvaOi2ifCfW2Dc4tls6_move_range",
+                "current": "Ranged (30 ft burst)",
+                "max": "",
+                "id": "-MvaOl337X-Fwg6ZRSeF"
+            },
+            {
+                "name": "repeating_moves_-MvaOi2ifCfW2Dc4tls6_move_category",
+                "current": "3",
+                "max": "",
+                "id": "-MvaOlHFXmVDCxf0v41E"
+            },
+            {
+                "name": "repeating_moves_-MvaOi2ifCfW2Dc4tls6_move_category_defense",
+                "current": "Speed",
+                "max": "",
+                "id": "-MvaOlJ6ebnzKMu34750"
+            },
+            {
+                "name": "repeating_moves_-MvaOi2ifCfW2Dc4tls6_move_totaldamage",
+                "current": 0,
+                "max": "",
+                "id": "-MvaOlJ9uDpOgAXEhFsj"
+            },
+            {
+                "name": "repeating_moves_-MvaOi2ifCfW2Dc4tls6_move_totaldamage_display",
+                "current": "0",
+                "max": "",
+                "id": "-MvaOlJBHVbriK1mUygI"
+            },
+            {
+                "name": "repeating_moves_-MvaOi2ifCfW2Dc4tls6_move_totalaccuracy",
+                "current": 4,
+                "max": "",
+                "id": "-MvaOlJDUBF_1TpFXAyl"
+            },
+            {
+                "name": "repeating_moves_-MvaOi2ifCfW2Dc4tls6_move_totalaccuracy_display",
+                "current": "d20 + 4",
+                "max": "",
+                "id": "-MvaOlJFETP-7QmmS-70"
+            },
+            {
+                "name": "repeating_moves_-MvaOi2ifCfW2Dc4tls6_move_frequency",
+                "current": "1day",
+                "max": "",
+                "id": "-MvaOlOFtBJwySJ0cp_D"
+            },
+            {
+                "name": "repeating_moves_-MvaOi2ifCfW2Dc4tls6_move_effect",
+                "current": "Put a Lucky Coat on all allies and yourself. The Coat has the following ability: If you are hit by a Critical Hit, treat the hit as a regular successful hit. This Coat lasts for 2 mins.",
+                "max": "",
+                "id": "-MvaOw9zOEg13xwi64wD"
+            },
+            {
+                "name": "repeating_moves_-MvaOi2ifCfW2Dc4tls6_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MvaOwBjg70HEqFo9pIb"
+            },
+            {
+                "name": "repeating_moves_-MvaOi2ifCfW2Dc4tls6_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MvaOwDozyZguFTGjrFE"
+            },
+            {
+                "name": "repeating_moves_-MvaOV11quSo8OzbYRmk_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mxx399_qwz2f3IPGbVz"
+            },
+            {
+                "name": "repeating_moves_-MvaOV11quSo8OzbYRmk_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mxx399e5tKHuubaVcae"
+            },
+            {
+                "name": "repeating_moves_-MvaOazMYrDWD5CZj2Ds_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mxx399iWQ1MscSmlyt7"
+            },
+            {
+                "name": "repeating_moves_-MvaOazMYrDWD5CZj2Ds_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mxx399lqCCGgKXDfTdC"
+            },
+            {
+                "name": "repeating_moves_-MvaOi2ifCfW2Dc4tls6_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-Mxx399mXNcsLSL6yVpz"
+            },
+            {
+                "name": "repeating_moves_-MvaOi2ifCfW2Dc4tls6_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-Mxx399phm0XmgsI57tG"
+            },
+            {
+                "name": "pokemon_sex",
+                "current": "50% male, 50% female",
+                "max": "",
+                "id": "-Mxx3Lw6u67WzBotM9wd"
+            },
+            {
+                "name": "atkbonus",
+                "current": "6",
+                "max": "",
+                "id": "-N-Jxc0NDDN3s1GnC7jn"
+            },
+            {
+                "name": "spatkbonus",
+                "current": "6",
+                "max": "",
+                "id": "-N-JxckTRmJ9UcW1SEBB"
+            }
+        ],
+        "abilities": []
+    }
+}

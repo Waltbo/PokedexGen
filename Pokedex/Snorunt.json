@@ -1,0 +1,720 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "oldId": "-MvhADri6AT6-Lu8DOgR",
+        "name": "Snorunt",
+        "avatar": "https://s3.amazonaws.com/files.d20.io/images/275702890/IMS_UfIOfbj5nPRj-szy0A/med.jpg?1647311852",
+        "bio": "%3Cp%3ESnorunt%20dwell%20in%20icy%20caverns%2C%20blending%20in%20with%20surrounding%0Astalagmites%20and%20stalactites.%20They%20only%20venture%20out%20when%20there%20is%0Asnow%2C%20spending%20most%20of%20the%20spring%20and%20summer%20inside%20caves.%0AThey%20regulate%20their%20body%20heat%20by%20shivering%2C%20helping%20them%20cope%0Awith%20such%20cold%20environments.%20Their%20diets%20consist%20entirely%20of%20snow%0Aand%20ice%2C%20which%20they%20happily%20munch%20on%20while%20wandering%20through%0Asnow-covered%20areas.%20In%20the%20fall%2C%20Snorunt%20can%20occasionally%20be%20seen%0Ahiding%20together%20under%20piles%20of%20fallen%20leaves.%20Snorunt%20are%20rarely%0Afound%20outside%20of%20snowy%20areas%3B%20if%20they%20wander%20too%20far%20from%20ice%2C%0Athey%20may%20panic%20and%20desperately%20seek%20snowfall.%3C/p%3E",
+        "gmnotes": "",
+        "defaulttoken": "",
+        "tags": "[\"Ice\",\"Cave\",\"Mountain\",\"Tundra\"]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "atknature",
+                "current": 0,
+                "max": "",
+                "id": "-MvhEB8h5ixG68UQQjYb"
+            },
+            {
+                "name": "defnature",
+                "current": 0,
+                "max": "",
+                "id": "-MvhEB8oFCo7MjEeHQOx"
+            },
+            {
+                "name": "spatknature",
+                "current": 0,
+                "max": "",
+                "id": "-MvhEB8rjJ_F9iiNgzKL"
+            },
+            {
+                "name": "spdefnature",
+                "current": 0,
+                "max": "",
+                "id": "-MvhEB8vr-4beUuFQpKM"
+            },
+            {
+                "name": "spdnature",
+                "current": 0,
+                "max": "",
+                "id": "-MvhEB8yxWHB3issoGRy"
+            },
+            {
+                "name": "afflictions_text",
+                "current": "",
+                "max": "",
+                "id": "-MvhEBAiZkAhd68PrIEL"
+            },
+            {
+                "name": "capture_total",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEBB4Mh0h4XmJm2RF"
+            },
+            {
+                "name": "capture_display",
+                "current": "+5",
+                "max": "",
+                "id": "-MvhEBB7MyKstpPVu9km"
+            },
+            {
+                "name": "capture_roll_total",
+                "current": 5,
+                "max": "",
+                "id": "-MvhEBB9swSv99detmo6"
+            },
+            {
+                "name": "nature",
+                "current": 0,
+                "max": "",
+                "id": "-MvhEBBCX4sB4xNHZUeC"
+            },
+            {
+                "name": "nature-type",
+                "current": "0",
+                "max": "",
+                "id": "-MvhEBBEf_BzE4z8jsD6"
+            },
+            {
+                "name": "atkbase",
+                "current": "6",
+                "max": "",
+                "id": "-MvhEBBGdfJ0jnt5LPPh"
+            },
+            {
+                "name": "defbase",
+                "current": "5",
+                "max": "",
+                "id": "-MvhEBBKGP9uvY-Ystyy"
+            },
+            {
+                "name": "spatkbase",
+                "current": "5",
+                "max": "",
+                "id": "-MvhEBBMDQtt9JQkmNsb"
+            },
+            {
+                "name": "spdefbase",
+                "current": "5",
+                "max": "",
+                "id": "-MvhEBBOROxnX8f3EXgA"
+            },
+            {
+                "name": "spdbase",
+                "current": "5",
+                "max": "",
+                "id": "-MvhEBBQzQvVWhLOoFx_"
+            },
+            {
+                "name": "acrobatics_total",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEBBq_177otKNjgLO"
+            },
+            {
+                "name": "athletics_total",
+                "current": 3,
+                "max": "",
+                "id": "-MvhEBBsWkvWfO1XDxNb"
+            },
+            {
+                "name": "bluff_total",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEBBu2WPQ304XzsPK"
+            },
+            {
+                "name": "concentration_total",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEBBxCeJGWJw3a527"
+            },
+            {
+                "name": "constitution_total",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEBCDcLeaW0raJIEZ"
+            },
+            {
+                "name": "diplomacy_total",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEBCUKkeUZCu8Deej"
+            },
+            {
+                "name": "engineering_total",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEBCj1ikK8QCpIdCO"
+            },
+            {
+                "name": "history_total",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEBDCrcjjONtB0T9t"
+            },
+            {
+                "name": "insight_total",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEBDF6JAlcGY8iLwR"
+            },
+            {
+                "name": "investigate_total",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEBDYZVhhSjn_hVJ3"
+            },
+            {
+                "name": "medicine_total",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEBDmJIdtqdwkpt-a"
+            },
+            {
+                "name": "nature_total",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEBDo5ZgFP--wnGVD"
+            },
+            {
+                "name": "perception_total",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEBE4-x7PxIe9rkVS"
+            },
+            {
+                "name": "perform_total",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEBEJ2_wrPlPHixsm"
+            },
+            {
+                "name": "handling_total",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEBEZ0dsLZugzSEUv"
+            },
+            {
+                "name": "programming_total",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEBEyMJkMKQ65AczF"
+            },
+            {
+                "name": "sleightofhand_total",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEBF1ppmUyLMR7Ysh"
+            },
+            {
+                "name": "stealth_total",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEBF5_r2gGPFT2fTI"
+            },
+            {
+                "name": "selected-page",
+                "current": "character-page",
+                "max": "",
+                "id": "-MvhEPbVfAKZkmSMQezS"
+            },
+            {
+                "name": "character-type",
+                "current": "pokemon",
+                "max": "",
+                "id": "-MvhEPwA_m55K5mHrmIn"
+            },
+            {
+                "name": "species",
+                "current": "Snorunt",
+                "max": "",
+                "id": "-MvhETj4UEdcAcSgx4Vz"
+            },
+            {
+                "name": "type1",
+                "current": "ice",
+                "max": "",
+                "id": "-MvhETj_K5Qkwrx7C8HT"
+            },
+            {
+                "name": "size",
+                "current": "Small",
+                "max": "",
+                "id": "-MvhETkdgvTTKcUo-Omr"
+            },
+            {
+                "name": "weight",
+                "current": "Medium",
+                "max": "",
+                "id": "-MvhETlBoY21zOr076eZ"
+            },
+            {
+                "name": "egg_group",
+                "current": "Fairy/Mineral-10 days",
+                "max": "",
+                "id": "-MvhEWIFTfe4FKDcU9GM"
+            },
+            {
+                "name": "diet",
+                "current": "Glacievore/Omnivore",
+                "max": "",
+                "id": "-MvhEZtowTc0z8apUxYW"
+            },
+            {
+                "name": "HP",
+                "current": "30",
+                "max": "30",
+                "id": "-MvhE_fpILyAA8J27Wp4"
+            },
+            {
+                "name": "ATK",
+                "current": 6,
+                "max": "",
+                "id": "-MvhEbTmxG4B3O4JoI1z"
+            },
+            {
+                "name": "ATKMOD",
+                "current": 3,
+                "max": "",
+                "id": "-MvhEbTpUXfMZAw0GrV1"
+            },
+            {
+                "name": "DEF",
+                "current": 5,
+                "max": "",
+                "id": "-MvhEbZqs9Vso8gNe_xI"
+            },
+            {
+                "name": "DEFMOD",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEbZrJDNI5s34_Vee"
+            },
+            {
+                "name": "SPATK",
+                "current": 5,
+                "max": "",
+                "id": "-MvhEbfshYYfFC7YswVy"
+            },
+            {
+                "name": "SPATKMOD",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEbfu8GUBGDqefmup"
+            },
+            {
+                "name": "SPDEF",
+                "current": 5,
+                "max": "",
+                "id": "-MvhEbmgmcA-XHAt0Evr"
+            },
+            {
+                "name": "SPDEFMOD",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEbmkrG9EURZhTIOc"
+            },
+            {
+                "name": "SPD",
+                "current": 5,
+                "max": "",
+                "id": "-MvhEc-UAyELTIgbGOVH"
+            },
+            {
+                "name": "SPDMOD",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEc-YP0PhOW8NaEAd"
+            },
+            {
+                "name": "movement",
+                "current": 25,
+                "max": "",
+                "id": "-MvhEc-ZIMMeUSW6MvH0"
+            },
+            {
+                "name": "pokemonskills",
+                "current": "Chilled (always cold)\nFreezer (can create ice)",
+                "max": "",
+                "id": "-MvhEeGyGTHdEt2I-P51"
+            },
+            {
+                "name": "statpassives",
+                "current": "Leer (+1 Attack)",
+                "max": "",
+                "id": "-MvhEfuOiG9MYA2-tQHG"
+            },
+            {
+                "name": "otherpassives",
+                "current": "Inner Focus (You are immune to being Stunned.)",
+                "max": "",
+                "id": "-MvhEhjkZWNdMeTrQje9"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_move_name",
+                "current": "Powder Snow",
+                "max": "",
+                "id": "-MvhEiiWGyhJY82qiSuK"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MvhEinHA0wi8Bry7M57"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_move_range",
+                "current": "Ranged 5 ft burst)",
+                "max": "",
+                "id": "-MvhEjvsR54VqQkIgzVf"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_move_type",
+                "current": "ice",
+                "max": "",
+                "id": "-MvhEk9MLwLyZUCl9l3q"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_move_totaldamage",
+                "current": 6,
+                "max": "",
+                "id": "-MvhEkBHQVrhgBT30jOj"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_move_totaldamage_display",
+                "current": "1d12 + 6",
+                "max": "",
+                "id": "-MvhEkBJbA8fXidiZ2_s"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_move_category",
+                "current": "2",
+                "max": "",
+                "id": "-MvhEkQ7Cc9LX8WYhFfR"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_move_category_defense",
+                "current": "Special Defense",
+                "max": "",
+                "id": "-MvhEkRsNbpvG3xZzYtp"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_move_totalaccuracy",
+                "current": 2,
+                "max": "",
+                "id": "-MvhEkRwUQS_VcfTi779"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_move_totalaccuracy_display",
+                "current": "d20 + 2",
+                "max": "",
+                "id": "-MvhEkRyJ-DN1UZ35OBp"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_move_frequency",
+                "current": "atwill",
+                "max": "",
+                "id": "-MvhEkXGCdb6ONUds6jF"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_move_dicenumber",
+                "current": "1",
+                "max": "",
+                "id": "-MvhEkn6MKWZKzDER52j"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_damage_dice",
+                "current": "12",
+                "max": "",
+                "id": "-MvhEkreGzRu1PTsItGM"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_move_effect",
+                "current": "On hit, if you got 19 or higher on Accuracy Check, the target is Frozen.",
+                "max": "",
+                "id": "-MvhEmTMWAwUz6qP5Dx2"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_move_effect1_threshold",
+                "current": "19",
+                "max": "",
+                "id": "-MvhEmi8nzUilu3pQCbC"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_move_effect1",
+                "current": "5",
+                "max": "",
+                "id": "-MvhEmm9WmBbhOyD1YfS"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_move_effect1_name",
+                "current": "Frozen",
+                "max": "",
+                "id": "-MvhEmnyE_Gn6hNxTIOZ"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MvhEmo-0E9veoCuS10W"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MvhEnPh88uqlsW3vXQ-"
+            },
+            {
+                "name": "repeating_moves_-MvhEhqC2naetHEluavo_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MvhEnRVD2qBYOcbcZCS"
+            },
+            {
+                "name": "repeating_moves_-MvhEnbIsqZB42h1Xa0B_move_name",
+                "current": "Ice Shard",
+                "max": "",
+                "id": "-MvhEopxE8WgsL4Mg0Fn"
+            },
+            {
+                "name": "repeating_moves_-MvhEnbIsqZB42h1Xa0B_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MvhEouqWc9A2ItACjRl"
+            },
+            {
+                "name": "repeating_moves_-MvhEnbIsqZB42h1Xa0B_move_range",
+                "current": "Ranged (15 ft)",
+                "max": "",
+                "id": "-MvhEqHcDlq4MybcqZht"
+            },
+            {
+                "name": "repeating_moves_-MvhEnbIsqZB42h1Xa0B_move_type",
+                "current": "ice",
+                "max": "",
+                "id": "-MvhEqLtvjsz0EOys4-L"
+            },
+            {
+                "name": "repeating_moves_-MvhEnbIsqZB42h1Xa0B_move_totaldamage",
+                "current": 7,
+                "max": "",
+                "id": "-MvhEqNqyrUV4wCYHxKf"
+            },
+            {
+                "name": "repeating_moves_-MvhEnbIsqZB42h1Xa0B_move_totaldamage_display",
+                "current": "2d6 + 7",
+                "max": "",
+                "id": "-MvhEqNtgzcyS0QouHe5"
+            },
+            {
+                "name": "repeating_moves_-MvhEnbIsqZB42h1Xa0B_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-MvhEqVe7ulrC_IboQSW"
+            },
+            {
+                "name": "repeating_moves_-MvhEnbIsqZB42h1Xa0B_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-MvhEqXRFg2J1z9uGbyq"
+            },
+            {
+                "name": "repeating_moves_-MvhEnbIsqZB42h1Xa0B_move_totalaccuracy",
+                "current": 3,
+                "max": "",
+                "id": "-MvhEqXWNPkcU3rj4Sxq"
+            },
+            {
+                "name": "repeating_moves_-MvhEnbIsqZB42h1Xa0B_move_totalaccuracy_display",
+                "current": "d20 + 3",
+                "max": "",
+                "id": "-MvhEqXYGpFTKqtfT32V"
+            },
+            {
+                "name": "repeating_moves_-MvhEnbIsqZB42h1Xa0B_move_frequency",
+                "current": "atwill",
+                "max": "",
+                "id": "-MvhEqbWG008du1K3Eh_"
+            },
+            {
+                "name": "repeating_moves_-MvhEnbIsqZB42h1Xa0B_move_dicenumber",
+                "current": "2",
+                "max": "",
+                "id": "-MvhEr-69LjsZKRRYGbl"
+            },
+            {
+                "name": "repeating_moves_-MvhEnbIsqZB42h1Xa0B_damage_dice",
+                "current": "6",
+                "max": "",
+                "id": "-MvhEr3t62LcKxRDOD_i"
+            },
+            {
+                "name": "repeating_moves_-MvhEnbIsqZB42h1Xa0B_move_effect",
+                "current": "Ice Shard has Priority.",
+                "max": "",
+                "id": "-MvhEt3wTi0M8iQP2TFn"
+            },
+            {
+                "name": "repeating_moves_-MvhEnbIsqZB42h1Xa0B_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MvhEt5Zk8wHLrny8Wtu"
+            },
+            {
+                "name": "repeating_moves_-MvhEnbIsqZB42h1Xa0B_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MvhEt7U4VgQ1WoOJsDU"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_move_name",
+                "current": "Bite",
+                "max": "",
+                "id": "-MvhEtpuHBektEju068I"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_move_usage",
+                "current": "0",
+                "max": "",
+                "id": "-MvhEtuqizou4B925Wzm"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_move_range",
+                "current": "Melee",
+                "max": "",
+                "id": "-MvhEuP8rrHcNMtxr_R4"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_move_type",
+                "current": "dark",
+                "max": "",
+                "id": "-MvhEuSYZgQuMPafYFoo"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_move_totaldamage",
+                "current": 3,
+                "max": "",
+                "id": "-MvhEuUa3MhtL4rypYPG"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_move_totaldamage_display",
+                "current": "2d8 + 3",
+                "max": "",
+                "id": "-MvhEuUeQ78oYRw4sjb_"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_move_category",
+                "current": "1",
+                "max": "",
+                "id": "-MvhEua0v4nTtQXHpog9"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_move_category_defense",
+                "current": "Defense",
+                "max": "",
+                "id": "-MvhEubypI7Qkx-HsMIR"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_move_totalaccuracy",
+                "current": 3,
+                "max": "",
+                "id": "-MvhEucCwWzdfsFrvRT4"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_move_totalaccuracy_display",
+                "current": "d20 + 3",
+                "max": "",
+                "id": "-MvhEucFM_N6IkZ4hEnp"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_move_frequency",
+                "current": "atwill",
+                "max": "",
+                "id": "-MvhEugpQn5D6f7nQiHy"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_move_dicenumber",
+                "current": "2",
+                "max": "",
+                "id": "-MvhEuzXu1AEmjcFCnxL"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_damage_dice",
+                "current": "8",
+                "max": "",
+                "id": "-MvhEv3keOAHJIww21xE"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_move_effect",
+                "current": "On hit, if you got 18 or higher on Accuracy Check, the target is Stunned.",
+                "max": "",
+                "id": "-MvhEwy35H2TWRE0UCHP"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_move_effect1_threshold",
+                "current": "18",
+                "max": "",
+                "id": "-MvhExE4ojL-78WPzfxk"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_move_effect1",
+                "current": "10",
+                "max": "",
+                "id": "-MvhExINemmh0H08aWMf"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_move_effect1_name",
+                "current": "Stunned",
+                "max": "",
+                "id": "-MvhExK7mNA9tSx0FOsl"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MvhExK8PzJEcK1sYvu7"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_options_flag",
+                "current": "0",
+                "max": "",
+                "id": "-MvhExYKL1Z0CIoKcpMC"
+            },
+            {
+                "name": "repeating_moves_-MvhEtLkIVceTrQFsTup_flag",
+                "current": "+",
+                "max": "",
+                "id": "-MvhEx_8yKiZ_pcW1cQK"
+            },
+            {
+                "name": "notes",
+                "current": "Proficiencies: Ice / Ghost (Froslass) / Fangs (Glalie) ",
+                "max": "",
+                "id": "-MvhF0twM7PEDp272R4r"
+            },
+            {
+                "name": "repeating_moves_-MvhEnbIsqZB42h1Xa0B_move_effect1_name",
+                "current": "",
+                "max": "",
+                "id": "-MvhF5Qiz8nj-hiUb2Up"
+            },
+            {
+                "name": "repeating_moves_-MvhEnbIsqZB42h1Xa0B_move_effect2_name",
+                "current": "",
+                "max": "",
+                "id": "-MvhF5QnC4THWC9oYGrm"
+            },
+            {
+                "name": "pokemon_sex",
+                "current": "50% male, 50% female",
+                "max": "",
+                "id": "-MyAR5bnofuJAKBySDz7"
+            }
+        ],
+        "abilities": []
+    }
+}
